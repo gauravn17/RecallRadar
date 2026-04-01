@@ -6,9 +6,13 @@ RecallRadar is an **agentic AI + data engineering** project that answers a real-
 
 It uses a multi-agent pipeline:
 
-1. `DetectionAgent` scans pantry items against recall records.
-2. `TriageAgent` categorizes hits into HIGH/MEDIUM/LOW risk.
-3. `ActionPlannerAgent` generates concrete actions (discard, verify lot number, monitor).
+It uses a multi-agent pipeline:
+
+- `DetectionAgent` scans pantry items against recall records.
+- `TriageAgent` categorizes hits into `HIGH` / `MEDIUM` / `LOW` risk.
+- `ActionPlannerAgent` generates concrete actions (`discard`, `verify lot number`, `monitor`).
+- `PolicyReasoningAgent` (LLM agent) synthesizes an executive policy brief and prioritized next steps from pipeline outputs.
+
 
 <img width="1710" height="1107" alt="Screenshot 2026-03-31 at 7 26 21 PM" src="https://github.com/user-attachments/assets/3beeabb2-9037-4f7a-85c2-3cbb6b8dbf47" />
 
@@ -28,7 +32,7 @@ It uses a multi-agent pipeline:
   - `DetectionAgent`
   - `TriageAgent`
   - `ActionPlannerAgent`
-  - `PolicyReasoningAgent` (LLM-powered, optional)
+  - `PolicyReasoningAgent` (LLM-powered by Open AI gpt-4o-mini)
 
 - **Matching and Scoring**:
   - Rule-based risk scoring
