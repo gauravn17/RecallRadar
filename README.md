@@ -17,33 +17,42 @@ It uses a multi-agent pipeline:
 <img width="1710" height="1107" alt="Screenshot 2026-03-31 at 7 26 35 PM" src="https://github.com/user-attachments/assets/8c9ecd66-197a-4642-b67f-85def44b89fd" />
 
 ## Tech Stack and Tools
-Language: Python 3
-Core Runtime: Python Standard Library
-Backend (Web UI): http.server + ThreadingHTTPServer
-Database: SQLite (sqlite3)
-Data Ingestion: CSV pipelines (csv)
-Agent Architecture:
-DetectionAgent
-TriageAgent
-ActionPlannerAgent
-PolicyReasoningAgent (LLM-powered, optional)
-Matching and Scoring:
-Rule-based risk scoring
-Indexed candidate blocking (brand/token indexing)
-Analytics and Insights:
-Impact metrics (items/units/brands/locations at risk)
-14-day risk trend aggregation
-Visualization:
-Server-rendered HTML + CSS dashboard
-Card-based KPIs + bar-style visualizations
-Reporting:
-Downloadable executive reports in CSV and Markdown
-LLM Integration (Optional):
-OpenAI Chat Completions API via HTTPS (urllib.request)
-Controlled by env vars (RECALL_RADAR_ENABLE_LLM, OPENAI_API_KEY)
-Testing: unittest
-Packaging: pyproject.toml, editable install (pip install -e .)
-Version Control: Git + GitHub
+
+- **Language**: Python 3
+- **Core Runtime**: Python Standard Library
+- **Backend (Web UI)**: `http.server` + `ThreadingHTTPServer`
+- **Database**: SQLite (`sqlite3`)
+- **Data Ingestion**: CSV pipelines (`csv`)
+
+- **Agent Architecture**:
+  - `DetectionAgent`
+  - `TriageAgent`
+  - `ActionPlannerAgent`
+  - `PolicyReasoningAgent` (LLM-powered, optional)
+
+- **Matching and Scoring**:
+  - Rule-based risk scoring
+  - Indexed candidate blocking (brand/token indexing)
+
+- **Analytics and Insights**:
+  - Impact metrics (items/units/brands/locations at risk)
+  - 14-day risk trend aggregation
+
+- **Visualization**:
+  - Server-rendered HTML + CSS dashboard
+  - Card-based KPIs + bar-style visualizations
+
+- **Reporting**:
+  - Downloadable executive reports in `CSV` and `Markdown`
+
+- **LLM Integration (Optional)**:
+  - OpenAI Chat Completions API via HTTPS (`urllib.request`)
+  - Controlled by env vars (`RECALL_RADAR_ENABLE_LLM`, `OPENAI_API_KEY`)
+
+- **Testing**: `unittest`
+- **Packaging**: `pyproject.toml`, editable install (`pip install -e .`)
+- **Version Control**: Git + GitHub
+
 
 ## Quick Start
 
