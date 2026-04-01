@@ -10,9 +10,12 @@ It uses a multi-agent pipeline:
 2. `TriageAgent` categorizes hits into HIGH/MEDIUM/LOW risk.
 3. `ActionPlannerAgent` generates concrete actions (discard, verify lot number, monitor).
 
-<img width="1710" height="1107" alt="Screenshot 2026-03-31 at 7 13 06 PM" src="https://github.com/user-attachments/assets/d301296d-c640-423a-bda1-d6a32b70ab5c" />
+<img width="1710" height="1107" alt="Screenshot 2026-03-31 at 7 26 21 PM" src="https://github.com/user-attachments/assets/08f07e0e-93df-4251-baf8-54d82cc88f1f" />
 
-<img width="1710" height="1107" alt="Screenshot 2026-03-31 at 7 13 14 PM" src="https://github.com/user-attachments/assets/0c1e7bd7-48bf-4473-b172-85caa537b076" />
+<img width="1710" height="1107" alt="Screenshot 2026-03-31 at 7 26 29 PM" src="https://github.com/user-atta
+
+<img width="1710" height="1107" alt="Screenshot 2026-03-31 at 7 26 35 PM" src="https://github.com/user-attachments/assets/b6fcd062-1e19-4633-8ed1-fa0564c3b5c4" />
+chments/assets/b4ec53a2-d61e-4d10-9839-a1d11e41a3c4" />
 
 
 ## Why this is a strong portfolio project
