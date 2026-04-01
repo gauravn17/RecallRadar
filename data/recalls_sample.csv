@@ -1,0 +1,6 @@
+recall_id,event_date,product_name,brand,reason,classification,states
+R-2026-0001,2026-03-20,Organic Baby Spinach,Green Valley,Potential E. coli contamination,I,"CA;NV;AZ"
+R-2026-0002,2026-03-24,Peanut Butter Crunch Bars,TrailJoy,Undeclared peanut allergen,II,"CA;OR;WA"
+R-2026-0003,2026-03-28,Frozen Chicken Dumplings,SunBite,Possible metal fragments,I,"CA;TX;NY"
+R-2026-0004,2026-03-29,Whole Milk Yogurt Cups,FarmNest,Listeria monocytogenes risk,I,"CA;CO;UT"
+R-2026-0005,2026-03-27,Chocolate Protein Shake,PeakFuel,Labeling issue - incorrect calorie count,III,"ALL"

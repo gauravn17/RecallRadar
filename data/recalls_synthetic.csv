@@ -1,0 +1,2001 @@
+recall_id,event_date,product_name,brand,reason,classification,states
+R-SYN-0000000,2026-01-09,Frozen Dumplings,Green Valley,Possible metal fragments,I,UT;TX
+R-SYN-0000001,2026-01-15,Fresh Salad Mix,Green Valley,Potential E. coli contamination,I,CA;WA;AZ;NV
+R-SYN-0000002,2026-01-01,Fresh Salad Mix,TrailJoy,Listeria monocytogenes risk,II,NY;NV
+R-SYN-0000003,2026-02-16,Granola Bars,FarmNest,Undeclared peanut allergen,III,NV;TX
+R-SYN-0000004,2026-02-14,Whole Milk,PeakFuel,Potential E. coli contamination,II,TX;OR;NV
+R-SYN-0000005,2026-01-10,Whole Milk,TrailJoy,Potential E. coli contamination,I,TX;WA;NV
+R-SYN-0000006,2026-03-19,Fresh Salad Mix,PeakFuel,Listeria monocytogenes risk,II,AZ;WA;UT
+R-SYN-0000007,2026-02-25,Frozen Dumplings,FarmNest,Packaging integrity issue,II,OR;WA;AZ
+R-SYN-0000008,2026-02-18,Organic Spinach,TrailJoy,Potential E. coli contamination,III,WA;AZ
+R-SYN-0000009,2026-03-04,Chicken Nuggets,PureRoot,Listeria monocytogenes risk,I,UT;OR;AZ;CO
+R-SYN-0000010,2026-02-05,Fresh Salad Mix,UrbanHarvest,Undeclared peanut allergen,III,TX;CA;NV
+R-SYN-0000011,2026-03-17,Greek Yogurt,FarmNest,Listeria monocytogenes risk,II,CO;OR;UT;CA
+R-SYN-0000012,2026-01-03,Frozen Dumplings,PeakFuel,Possible metal fragments,I,CA;OR;CO
+R-SYN-0000013,2025-12-24,Greek Yogurt,SunBite,Possible metal fragments,III,NY;AZ
+R-SYN-0000014,2025-12-24,Greek Yogurt,Green Valley,Packaging integrity issue,I,ALL
+R-SYN-0000015,2025-12-03,Whole Milk,PeakFuel,Undeclared peanut allergen,I,TX;CO
+R-SYN-0000016,2025-12-17,Frozen Dumplings,FarmNest,Undeclared peanut allergen,II,OR;NV
+R-SYN-0000017,2026-03-04,Protein Shake,PeakFuel,Listeria monocytogenes risk,III,UT;CO;CA
+R-SYN-0000018,2026-02-28,Protein Shake,SunBite,Possible metal fragments,I,WA;CA;CO;AZ
+R-SYN-0000019,2026-01-10,Organic Spinach,TrailJoy,Potential E. coli contamination,III,UT;WA
+R-SYN-0000020,2026-02-24,Chicken Nuggets,TrailJoy,Packaging integrity issue,I,CO;WA;NV;UT
+R-SYN-0000021,2025-12-18,Fresh Salad Mix,TrailJoy,Potential E. coli contamination,I,NV;CO;UT
+R-SYN-0000022,2025-12-28,Organic Spinach,SunBite,Potential E. coli contamination,II,WA;UT
+R-SYN-0000023,2026-03-07,Chicken Nuggets,FarmNest,Listeria monocytogenes risk,I,CO;TX
+R-SYN-0000024,2026-03-25,Organic Spinach,SunBite,Undeclared peanut allergen,I,NV;CA
+R-SYN-0000025,2026-03-10,Fresh Salad Mix,Green Valley,Listeria monocytogenes risk,I,OR;NV;AZ
+R-SYN-0000026,2025-12-28,Chicken Nuggets,FarmNest,Undeclared peanut allergen,I,UT;CA;AZ;NY
+R-SYN-0000027,2026-03-24,Organic Spinach,DailySource,Packaging integrity issue,III,UT;TX
+R-SYN-0000028,2025-12-13,Greek Yogurt,SunBite,Packaging integrity issue,I,TX;WA;OR
+R-SYN-0000029,2026-01-14,Organic Spinach,SunBite,Listeria monocytogenes risk,II,OR;WA;AZ
+R-SYN-0000030,2025-12-30,Whole Milk,TrailJoy,Possible metal fragments,II,CO;AZ;NV
+R-SYN-0000031,2025-12-02,Frozen Dumplings,Green Valley,Listeria monocytogenes risk,II,TX;WA
+R-SYN-0000032,2026-01-26,Granola Bars,FarmNest,Possible metal fragments,III,OR;NY;WA
+R-SYN-0000033,2025-12-15,Granola Bars,Green Valley,Packaging integrity issue,I,OR;TX
+R-SYN-0000034,2025-12-08,Frozen Dumplings,FarmNest,Possible metal fragments,I,WA;OR;CO
+R-SYN-0000035,2026-01-28,Granola Bars,Green Valley,Potential E. coli contamination,II,CA;AZ
+R-SYN-0000036,2025-12-23,Greek Yogurt,PeakFuel,Undeclared peanut allergen,II,UT;CA;CO
+R-SYN-0000037,2026-03-22,Greek Yogurt,Green Valley,Possible metal fragments,II,CA;OR
+R-SYN-0000038,2026-02-13,Organic Spinach,UrbanHarvest,Undeclared peanut allergen,II,UT;NV;OR
+R-SYN-0000039,2025-12-26,Greek Yogurt,TrailJoy,Undeclared peanut allergen,III,CA;NY;AZ
+R-SYN-0000040,2025-12-03,Whole Milk,PureRoot,Undeclared peanut allergen,I,NV;CA
+R-SYN-0000041,2025-12-12,Chicken Nuggets,TrailJoy,Undeclared peanut allergen,III,WA;UT;CA
+R-SYN-0000042,2026-01-06,Protein Shake,PureRoot,Possible metal fragments,I,ALL
+R-SYN-0000043,2025-12-23,Granola Bars,UrbanHarvest,Packaging integrity issue,II,AZ;CA;CO;NY
+R-SYN-0000044,2026-03-09,Granola Bars,Green Valley,Potential E. coli contamination,II,NV;TX;WA
+R-SYN-0000045,2025-12-06,Protein Shake,PeakFuel,Potential E. coli contamination,II,ALL
+R-SYN-0000046,2025-12-03,Protein Shake,UrbanHarvest,Listeria monocytogenes risk,I,AZ;TX;UT
+R-SYN-0000047,2025-12-06,Granola Bars,PeakFuel,Listeria monocytogenes risk,I,NY;WA;CO;AZ
+R-SYN-0000048,2025-12-01,Fresh Salad Mix,FarmNest,Packaging integrity issue,II,OR;UT
+R-SYN-0000049,2026-03-05,Fresh Salad Mix,UrbanHarvest,Listeria monocytogenes risk,II,CO;NY;AZ;CA
+R-SYN-0000050,2026-02-23,Whole Milk,SunBite,Undeclared peanut allergen,II,NY;CA
+R-SYN-0000051,2026-03-26,Protein Shake,DailySource,Packaging integrity issue,III,ALL
+R-SYN-0000052,2026-02-06,Protein Shake,PureRoot,Listeria monocytogenes risk,II,CA;TX;NV;WA
+R-SYN-0000053,2026-03-03,Greek Yogurt,DailySource,Potential E. coli contamination,II,CO;NY
+R-SYN-0000054,2025-12-19,Chicken Nuggets,UrbanHarvest,Listeria monocytogenes risk,II,NV;CO;TX;AZ
+R-SYN-0000055,2025-12-11,Chicken Nuggets,DailySource,Possible metal fragments,II,UT;CO;AZ
+R-SYN-0000056,2026-03-01,Granola Bars,DailySource,Potential E. coli contamination,II,AZ;TX;CO
+R-SYN-0000057,2026-03-12,Protein Shake,PureRoot,Undeclared peanut allergen,II,ALL
+R-SYN-0000058,2026-02-07,Whole Milk,DailySource,Listeria monocytogenes risk,I,CA;NV;WA
+R-SYN-0000059,2026-03-31,Whole Milk,PeakFuel,Listeria monocytogenes risk,III,UT;WA;CO
+R-SYN-0000060,2026-03-03,Granola Bars,PureRoot,Listeria monocytogenes risk,I,NV;NY;UT;WA
+R-SYN-0000061,2025-12-04,Greek Yogurt,Green Valley,Listeria monocytogenes risk,II,NV;NY
+R-SYN-0000062,2025-12-11,Chicken Nuggets,FarmNest,Potential E. coli contamination,I,AZ;UT;NV
+R-SYN-0000063,2025-12-09,Fresh Salad Mix,PeakFuel,Listeria monocytogenes risk,I,ALL
+R-SYN-0000064,2026-03-29,Organic Spinach,UrbanHarvest,Undeclared peanut allergen,II,CA;UT;TX;NV
+R-SYN-0000065,2025-12-14,Organic Spinach,FarmNest,Undeclared peanut allergen,I,WA;CO;AZ;NY
+R-SYN-0000066,2025-12-23,Whole Milk,FarmNest,Packaging integrity issue,II,NY;OR
+R-SYN-0000067,2026-03-18,Organic Spinach,PeakFuel,Packaging integrity issue,II,WA;TX;OR
+R-SYN-0000068,2026-01-02,Protein Shake,SunBite,Possible metal fragments,III,CA;AZ
+R-SYN-0000069,2026-01-22,Fresh Salad Mix,UrbanHarvest,Potential E. coli contamination,II,CO;TX;WA
+R-SYN-0000070,2026-02-13,Chicken Nuggets,FarmNest,Listeria monocytogenes risk,I,OR;CO;WA;NV
+R-SYN-0000071,2025-12-16,Granola Bars,UrbanHarvest,Undeclared peanut allergen,III,ALL
+R-SYN-0000072,2025-12-09,Chicken Nuggets,TrailJoy,Listeria monocytogenes risk,II,CA;CO;NV
+R-SYN-0000073,2026-02-18,Greek Yogurt,DailySource,Undeclared peanut allergen,II,OR;CA;UT
+R-SYN-0000074,2026-03-07,Frozen Dumplings,TrailJoy,Listeria monocytogenes risk,II,CO;UT;WA;CA
+R-SYN-0000075,2026-03-20,Granola Bars,TrailJoy,Listeria monocytogenes risk,II,AZ;CO;OR;NV
+R-SYN-0000076,2026-02-15,Fresh Salad Mix,UrbanHarvest,Possible metal fragments,II,WA;TX;AZ
+R-SYN-0000077,2026-03-07,Whole Milk,SunBite,Packaging integrity issue,III,WA;CO
+R-SYN-0000078,2026-02-24,Granola Bars,SunBite,Undeclared peanut allergen,I,CA;NY;CO
+R-SYN-0000079,2026-03-26,Organic Spinach,PeakFuel,Undeclared peanut allergen,II,CA;OR
+R-SYN-0000080,2026-01-30,Chicken Nuggets,DailySource,Possible metal fragments,I,ALL
+R-SYN-0000081,2025-12-01,Chicken Nuggets,SunBite,Potential E. coli contamination,II,ALL
+R-SYN-0000082,2026-01-10,Organic Spinach,FarmNest,Undeclared peanut allergen,III,WA;TX
+R-SYN-0000083,2026-01-19,Fresh Salad Mix,TrailJoy,Packaging integrity issue,II,NV;OR;CO
+R-SYN-0000084,2026-01-11,Organic Spinach,SunBite,Undeclared peanut allergen,II,NY;WA
+R-SYN-0000085,2026-03-09,Frozen Dumplings,FarmNest,Potential E. coli contamination,II,OR;CA;TX
+R-SYN-0000086,2026-02-23,Granola Bars,DailySource,Potential E. coli contamination,II,WA;NV;CA;OR
+R-SYN-0000087,2026-03-03,Greek Yogurt,PeakFuel,Undeclared peanut allergen,I,OR;CO;CA
+R-SYN-0000088,2026-01-31,Granola Bars,PureRoot,Possible metal fragments,II,CA;NV
+R-SYN-0000089,2025-12-27,Whole Milk,PeakFuel,Potential E. coli contamination,I,CA;OR;CO;UT
+R-SYN-0000090,2025-12-24,Greek Yogurt,DailySource,Packaging integrity issue,II,NV;CO
+R-SYN-0000091,2026-03-20,Chicken Nuggets,UrbanHarvest,Listeria monocytogenes risk,I,AZ;NV
+R-SYN-0000092,2026-01-02,Chicken Nuggets,PeakFuel,Listeria monocytogenes risk,III,TX;AZ;NY
+R-SYN-0000093,2026-02-18,Frozen Dumplings,PureRoot,Packaging integrity issue,III,ALL
+R-SYN-0000094,2025-12-10,Chicken Nuggets,PureRoot,Potential E. coli contamination,I,CO;CA;TX
+R-SYN-0000095,2026-02-25,Greek Yogurt,PeakFuel,Listeria monocytogenes risk,III,WA;NY
+R-SYN-0000096,2026-02-20,Organic Spinach,PureRoot,Potential E. coli contamination,I,CO;TX
+R-SYN-0000097,2026-01-08,Greek Yogurt,DailySource,Possible metal fragments,II,CO;WA;UT
+R-SYN-0000098,2026-01-20,Greek Yogurt,PureRoot,Undeclared peanut allergen,III,TX;OR
+R-SYN-0000099,2025-12-23,Fresh Salad Mix,UrbanHarvest,Packaging integrity issue,I,ALL
+R-SYN-0000100,2025-12-29,Granola Bars,DailySource,Undeclared peanut allergen,II,UT;NV;WA
+R-SYN-0000101,2025-12-02,Whole Milk,TrailJoy,Undeclared peanut allergen,II,CA;AZ;CO
+R-SYN-0000102,2026-01-30,Fresh Salad Mix,PureRoot,Undeclared peanut allergen,II,ALL
+R-SYN-0000103,2026-01-26,Whole Milk,SunBite,Listeria monocytogenes risk,I,NY;NV
+R-SYN-0000104,2025-12-10,Greek Yogurt,SunBite,Listeria monocytogenes risk,II,NV;TX;UT;NY
+R-SYN-0000105,2025-12-12,Fresh Salad Mix,UrbanHarvest,Listeria monocytogenes risk,III,ALL
+R-SYN-0000106,2026-03-23,Protein Shake,PeakFuel,Undeclared peanut allergen,II,TX;CO
+R-SYN-0000107,2026-03-10,Granola Bars,Green Valley,Potential E. coli contamination,I,ALL
+R-SYN-0000108,2026-02-14,Whole Milk,PureRoot,Undeclared peanut allergen,I,NY;UT;TX;CA
+R-SYN-0000109,2026-01-12,Fresh Salad Mix,TrailJoy,Listeria monocytogenes risk,III,OR;CO;NY
+R-SYN-0000110,2026-01-05,Organic Spinach,DailySource,Possible metal fragments,II,AZ;OR;UT
+R-SYN-0000111,2026-02-05,Granola Bars,DailySource,Possible metal fragments,I,TX;WA;CO
+R-SYN-0000112,2026-01-17,Whole Milk,PeakFuel,Possible metal fragments,I,OR;CA;UT
+R-SYN-0000113,2025-12-11,Organic Spinach,DailySource,Possible metal fragments,II,WA;UT;OR
+R-SYN-0000114,2026-02-27,Greek Yogurt,SunBite,Potential E. coli contamination,I,AZ;NY;CA;CO
+R-SYN-0000115,2026-02-18,Fresh Salad Mix,FarmNest,Undeclared peanut allergen,I,UT;OR;NV
+R-SYN-0000116,2026-03-10,Granola Bars,DailySource,Possible metal fragments,II,CO;TX
+R-SYN-0000117,2026-03-13,Protein Shake,PureRoot,Packaging integrity issue,II,OR;TX
+R-SYN-0000118,2026-02-01,Whole Milk,PeakFuel,Packaging integrity issue,II,TX;WA;CO
+R-SYN-0000119,2026-03-28,Whole Milk,TrailJoy,Potential E. coli contamination,II,OR;NV;CA;TX
+R-SYN-0000120,2026-03-26,Organic Spinach,PeakFuel,Listeria monocytogenes risk,I,NY;NV;WA;UT
+R-SYN-0000121,2026-01-05,Fresh Salad Mix,FarmNest,Listeria monocytogenes risk,II,NV;OR;CA;AZ
+R-SYN-0000122,2026-02-12,Protein Shake,DailySource,Listeria monocytogenes risk,III,AZ;UT
+R-SYN-0000123,2026-03-24,Fresh Salad Mix,PeakFuel,Undeclared peanut allergen,III,TX;WA;AZ
+R-SYN-0000124,2026-01-09,Organic Spinach,Green Valley,Possible metal fragments,I,WA;TX;NV;OR
+R-SYN-0000125,2026-03-05,Protein Shake,TrailJoy,Possible metal fragments,II,CA;OR;NV;TX
+R-SYN-0000126,2026-03-15,Granola Bars,FarmNest,Potential E. coli contamination,II,ALL
+R-SYN-0000127,2026-03-30,Whole Milk,TrailJoy,Packaging integrity issue,I,NY;NV
+R-SYN-0000128,2026-01-23,Frozen Dumplings,SunBite,Listeria monocytogenes risk,II,TX;CO;OR;UT
+R-SYN-0000129,2026-01-12,Organic Spinach,PeakFuel,Listeria monocytogenes risk,II,ALL
+R-SYN-0000130,2026-01-29,Fresh Salad Mix,PureRoot,Potential E. coli contamination,II,TX;AZ
+R-SYN-0000131,2026-01-13,Greek Yogurt,SunBite,Undeclared peanut allergen,I,AZ;NV;OR;CO
+R-SYN-0000132,2026-02-22,Chicken Nuggets,PureRoot,Potential E. coli contamination,II,ALL
+R-SYN-0000133,2026-01-07,Protein Shake,PureRoot,Listeria monocytogenes risk,III,NV;UT;AZ
+R-SYN-0000134,2026-03-19,Whole Milk,PureRoot,Possible metal fragments,II,CO;TX
+R-SYN-0000135,2026-03-20,Frozen Dumplings,SunBite,Listeria monocytogenes risk,I,UT;CA
+R-SYN-0000136,2026-01-15,Whole Milk,SunBite,Listeria monocytogenes risk,II,CA;OR;CO
+R-SYN-0000137,2026-02-20,Whole Milk,SunBite,Packaging integrity issue,II,WA;TX;NY
+R-SYN-0000138,2025-12-13,Whole Milk,SunBite,Possible metal fragments,II,UT;CA;OR;AZ
+R-SYN-0000139,2025-12-15,Granola Bars,Green Valley,Undeclared peanut allergen,I,AZ;CA;TX
+R-SYN-0000140,2025-12-10,Greek Yogurt,PureRoot,Potential E. coli contamination,I,TX;WA
+R-SYN-0000141,2026-02-11,Fresh Salad Mix,DailySource,Possible metal fragments,I,TX;CA;UT
+R-SYN-0000142,2026-03-11,Organic Spinach,SunBite,Possible metal fragments,II,CO;NV;NY;TX
+R-SYN-0000143,2025-12-25,Frozen Dumplings,UrbanHarvest,Listeria monocytogenes risk,I,CO;OR;CA;TX
+R-SYN-0000144,2026-02-09,Organic Spinach,Green Valley,Undeclared peanut allergen,I,OR;UT
+R-SYN-0000145,2026-02-18,Frozen Dumplings,Green Valley,Listeria monocytogenes risk,II,UT;WA;OR
+R-SYN-0000146,2026-01-19,Whole Milk,SunBite,Listeria monocytogenes risk,III,ALL
+R-SYN-0000147,2026-03-29,Chicken Nuggets,SunBite,Possible metal fragments,II,NV;OR;CA;WA
+R-SYN-0000148,2026-03-29,Whole Milk,FarmNest,Packaging integrity issue,II,TX;NV;CO
+R-SYN-0000149,2026-03-18,Protein Shake,PureRoot,Packaging integrity issue,II,ALL
+R-SYN-0000150,2025-12-10,Granola Bars,UrbanHarvest,Undeclared peanut allergen,I,TX;WA;NV;NY
+R-SYN-0000151,2026-02-15,Greek Yogurt,TrailJoy,Potential E. coli contamination,I,NY;TX;CO;AZ
+R-SYN-0000152,2026-01-27,Chicken Nuggets,DailySource,Packaging integrity issue,II,AZ;NY;WA
+R-SYN-0000153,2026-03-23,Chicken Nuggets,DailySource,Possible metal fragments,II,UT;TX;NY
+R-SYN-0000154,2026-01-31,Chicken Nuggets,Green Valley,Potential E. coli contamination,II,TX;NV;WA;OR
+R-SYN-0000155,2026-01-20,Organic Spinach,DailySource,Packaging integrity issue,II,UT;NY;CA
+R-SYN-0000156,2026-02-02,Frozen Dumplings,UrbanHarvest,Potential E. coli contamination,II,CO;UT
+R-SYN-0000157,2026-01-23,Greek Yogurt,UrbanHarvest,Possible metal fragments,III,CA;AZ;UT
+R-SYN-0000158,2026-02-17,Frozen Dumplings,PureRoot,Possible metal fragments,I,NY;AZ;CA;OR
+R-SYN-0000159,2026-01-06,Greek Yogurt,UrbanHarvest,Possible metal fragments,III,NY;TX;UT
+R-SYN-0000160,2026-01-19,Fresh Salad Mix,UrbanHarvest,Undeclared peanut allergen,II,UT;TX;AZ;NV
+R-SYN-0000161,2026-02-05,Whole Milk,Green Valley,Possible metal fragments,I,CO;WA;TX
+R-SYN-0000162,2026-03-14,Greek Yogurt,SunBite,Possible metal fragments,III,ALL
+R-SYN-0000163,2025-12-23,Organic Spinach,UrbanHarvest,Packaging integrity issue,I,NY;UT
+R-SYN-0000164,2025-12-29,Chicken Nuggets,Green Valley,Listeria monocytogenes risk,II,OR;CO;TX
+R-SYN-0000165,2026-01-22,Protein Shake,PeakFuel,Listeria monocytogenes risk,III,CO;UT;NV;NY
+R-SYN-0000166,2025-12-22,Fresh Salad Mix,PureRoot,Undeclared peanut allergen,III,OR;CA
+R-SYN-0000167,2026-01-08,Chicken Nuggets,UrbanHarvest,Packaging integrity issue,III,TX;OR;CA;UT
+R-SYN-0000168,2026-02-25,Chicken Nuggets,FarmNest,Listeria monocytogenes risk,I,AZ;CA;WA
+R-SYN-0000169,2026-03-25,Fresh Salad Mix,UrbanHarvest,Undeclared peanut allergen,II,ALL
+R-SYN-0000170,2026-03-03,Organic Spinach,UrbanHarvest,Potential E. coli contamination,III,NY;CA
+R-SYN-0000171,2026-02-23,Chicken Nuggets,FarmNest,Listeria monocytogenes risk,II,ALL
+R-SYN-0000172,2026-03-21,Organic Spinach,PeakFuel,Undeclared peanut allergen,III,UT;NV;CA;NY
+R-SYN-0000173,2026-03-01,Granola Bars,SunBite,Potential E. coli contamination,I,CO;TX;CA;WA
+R-SYN-0000174,2026-01-14,Organic Spinach,TrailJoy,Undeclared peanut allergen,I,ALL
+R-SYN-0000175,2026-02-14,Protein Shake,PureRoot,Undeclared peanut allergen,II,ALL
+R-SYN-0000176,2026-02-13,Frozen Dumplings,Green Valley,Listeria monocytogenes risk,III,ALL
+R-SYN-0000177,2026-02-10,Whole Milk,PeakFuel,Potential E. coli contamination,II,ALL
+R-SYN-0000178,2026-03-01,Frozen Dumplings,UrbanHarvest,Undeclared peanut allergen,I,NY;CO;AZ;WA
+R-SYN-0000179,2026-01-10,Greek Yogurt,FarmNest,Potential E. coli contamination,II,OR;WA
+R-SYN-0000180,2026-03-26,Protein Shake,Green Valley,Possible metal fragments,III,CO;OR;CA;AZ
+R-SYN-0000181,2026-03-07,Granola Bars,UrbanHarvest,Potential E. coli contamination,III,AZ;NV
+R-SYN-0000182,2025-12-08,Fresh Salad Mix,DailySource,Listeria monocytogenes risk,I,CO;AZ;NV;OR
+R-SYN-0000183,2026-02-25,Frozen Dumplings,PureRoot,Potential E. coli contamination,II,UT;OR
+R-SYN-0000184,2026-02-18,Frozen Dumplings,SunBite,Possible metal fragments,II,NV;NY;AZ;WA
+R-SYN-0000185,2026-02-15,Chicken Nuggets,Green Valley,Possible metal fragments,II,CA;TX;AZ;NV
+R-SYN-0000186,2026-02-08,Whole Milk,FarmNest,Potential E. coli contamination,I,CA;NY;UT
+R-SYN-0000187,2026-03-01,Whole Milk,UrbanHarvest,Listeria monocytogenes risk,III,ALL
+R-SYN-0000188,2026-03-12,Chicken Nuggets,UrbanHarvest,Possible metal fragments,II,ALL
+R-SYN-0000189,2026-03-14,Whole Milk,PureRoot,Possible metal fragments,II,CA;NY
+R-SYN-0000190,2026-01-27,Fresh Salad Mix,SunBite,Possible metal fragments,II,OR;CO
+R-SYN-0000191,2026-03-06,Frozen Dumplings,FarmNest,Potential E. coli contamination,II,TX;AZ;CO
+R-SYN-0000192,2026-02-15,Frozen Dumplings,PeakFuel,Possible metal fragments,III,NY;AZ;OR;TX
+R-SYN-0000193,2026-03-16,Protein Shake,FarmNest,Undeclared peanut allergen,II,ALL
+R-SYN-0000194,2026-01-20,Whole Milk,DailySource,Packaging integrity issue,I,OR;NV
+R-SYN-0000195,2025-12-30,Chicken Nuggets,PureRoot,Listeria monocytogenes risk,III,ALL
+R-SYN-0000196,2026-02-19,Frozen Dumplings,DailySource,Listeria monocytogenes risk,II,NY;UT;WA;OR
+R-SYN-0000197,2025-12-05,Organic Spinach,SunBite,Packaging integrity issue,I,WA;AZ;OR
+R-SYN-0000198,2025-12-07,Granola Bars,SunBite,Possible metal fragments,I,NY;OR;CO
+R-SYN-0000199,2026-01-22,Frozen Dumplings,FarmNest,Packaging integrity issue,III,AZ;CA;NV;CO
+R-SYN-0000200,2026-03-21,Organic Spinach,PeakFuel,Undeclared peanut allergen,II,CA;CO;AZ;OR
+R-SYN-0000201,2026-02-22,Granola Bars,DailySource,Undeclared peanut allergen,III,CO;TX;AZ
+R-SYN-0000202,2026-03-24,Greek Yogurt,DailySource,Listeria monocytogenes risk,II,NY;AZ;NV;CO
+R-SYN-0000203,2026-02-19,Whole Milk,PureRoot,Undeclared peanut allergen,II,AZ;WA
+R-SYN-0000204,2026-01-31,Frozen Dumplings,PeakFuel,Listeria monocytogenes risk,I,ALL
+R-SYN-0000205,2026-02-22,Fresh Salad Mix,PureRoot,Undeclared peanut allergen,III,AZ;WA;NV
+R-SYN-0000206,2026-03-11,Chicken Nuggets,DailySource,Listeria monocytogenes risk,III,NV;CO
+R-SYN-0000207,2026-03-01,Protein Shake,UrbanHarvest,Potential E. coli contamination,I,CO;OR;UT;CA
+R-SYN-0000208,2025-12-13,Frozen Dumplings,PureRoot,Undeclared peanut allergen,III,AZ;CA;WA
+R-SYN-0000209,2026-03-25,Protein Shake,UrbanHarvest,Packaging integrity issue,I,UT;OR;NV
+R-SYN-0000210,2026-01-11,Frozen Dumplings,FarmNest,Potential E. coli contamination,II,UT;AZ;NV
+R-SYN-0000211,2026-03-13,Protein Shake,PureRoot,Packaging integrity issue,I,ALL
+R-SYN-0000212,2025-12-30,Whole Milk,DailySource,Packaging integrity issue,II,NY;AZ;OR;UT
+R-SYN-0000213,2026-03-11,Fresh Salad Mix,PeakFuel,Packaging integrity issue,I,CO;OR;WA;CA
+R-SYN-0000214,2026-02-12,Whole Milk,SunBite,Listeria monocytogenes risk,II,CA;CO;NY;AZ
+R-SYN-0000215,2025-12-21,Protein Shake,Green Valley,Packaging integrity issue,II,NV;NY;UT;AZ
+R-SYN-0000216,2026-02-28,Organic Spinach,SunBite,Undeclared peanut allergen,I,NV;WA
+R-SYN-0000217,2026-02-07,Chicken Nuggets,Green Valley,Undeclared peanut allergen,II,CO;NV;NY;TX
+R-SYN-0000218,2026-02-01,Whole Milk,UrbanHarvest,Possible metal fragments,II,OR;UT
+R-SYN-0000219,2026-03-03,Granola Bars,PeakFuel,Undeclared peanut allergen,II,AZ;OR;NY
+R-SYN-0000220,2026-03-16,Fresh Salad Mix,PureRoot,Possible metal fragments,III,CA;OR;AZ
+R-SYN-0000221,2026-03-21,Whole Milk,DailySource,Possible metal fragments,II,OR;UT;TX;CA
+R-SYN-0000222,2026-01-12,Protein Shake,TrailJoy,Potential E. coli contamination,II,WA;CA;CO;UT
+R-SYN-0000223,2026-02-17,Chicken Nuggets,SunBite,Undeclared peanut allergen,I,NV;CO
+R-SYN-0000224,2026-01-29,Protein Shake,PeakFuel,Possible metal fragments,I,ALL
+R-SYN-0000225,2025-12-23,Frozen Dumplings,TrailJoy,Packaging integrity issue,II,NY;NV
+R-SYN-0000226,2025-12-09,Greek Yogurt,Green Valley,Listeria monocytogenes risk,II,OR;CA;CO;NY
+R-SYN-0000227,2026-01-18,Frozen Dumplings,UrbanHarvest,Possible metal fragments,II,CO;NY;NV;OR
+R-SYN-0000228,2026-01-31,Granola Bars,TrailJoy,Potential E. coli contamination,I,OR;NY;CA;AZ
+R-SYN-0000229,2026-02-16,Granola Bars,TrailJoy,Undeclared peanut allergen,II,NV;AZ;CA
+R-SYN-0000230,2026-02-08,Frozen Dumplings,FarmNest,Undeclared peanut allergen,II,OR;NV
+R-SYN-0000231,2026-03-01,Chicken Nuggets,PeakFuel,Possible metal fragments,I,OR;AZ
+R-SYN-0000232,2026-01-02,Protein Shake,Green Valley,Potential E. coli contamination,II,UT;OR;AZ;CA
+R-SYN-0000233,2026-01-09,Granola Bars,UrbanHarvest,Packaging integrity issue,I,NY;CO;AZ
+R-SYN-0000234,2026-01-13,Whole Milk,PureRoot,Packaging integrity issue,III,WA;UT;AZ;OR
+R-SYN-0000235,2025-12-10,Frozen Dumplings,DailySource,Packaging integrity issue,II,ALL
+R-SYN-0000236,2026-01-18,Frozen Dumplings,Green Valley,Packaging integrity issue,III,NY;UT;CO;OR
+R-SYN-0000237,2026-02-03,Frozen Dumplings,TrailJoy,Packaging integrity issue,II,CA;CO;TX
+R-SYN-0000238,2026-01-25,Fresh Salad Mix,DailySource,Packaging integrity issue,I,CA;NV;NY
+R-SYN-0000239,2025-12-17,Organic Spinach,TrailJoy,Packaging integrity issue,I,TX;CA;CO;WA
+R-SYN-0000240,2026-03-27,Granola Bars,PureRoot,Undeclared peanut allergen,II,NV;AZ;WA;UT
+R-SYN-0000241,2025-12-10,Fresh Salad Mix,PureRoot,Potential E. coli contamination,II,NY;AZ;CA;TX
+R-SYN-0000242,2026-01-22,Fresh Salad Mix,FarmNest,Undeclared peanut allergen,III,CO;NV;OR
+R-SYN-0000243,2026-02-11,Protein Shake,TrailJoy,Listeria monocytogenes risk,I,TX;CA;NV;AZ
+R-SYN-0000244,2026-02-06,Organic Spinach,TrailJoy,Undeclared peanut allergen,I,CA;WA;AZ
+R-SYN-0000245,2026-03-26,Fresh Salad Mix,DailySource,Undeclared peanut allergen,II,NY;OR
+R-SYN-0000246,2026-03-02,Whole Milk,UrbanHarvest,Undeclared peanut allergen,I,UT;WA;CO;NY
+R-SYN-0000247,2026-02-24,Organic Spinach,FarmNest,Listeria monocytogenes risk,II,ALL
+R-SYN-0000248,2026-02-15,Fresh Salad Mix,UrbanHarvest,Listeria monocytogenes risk,II,UT;CO
+R-SYN-0000249,2026-03-01,Protein Shake,PeakFuel,Undeclared peanut allergen,III,NV;UT;OR;CO
+R-SYN-0000250,2026-03-14,Fresh Salad Mix,TrailJoy,Possible metal fragments,I,AZ;TX;OR
+R-SYN-0000251,2025-12-29,Protein Shake,Green Valley,Possible metal fragments,II,TX;WA
+R-SYN-0000252,2025-12-19,Protein Shake,DailySource,Undeclared peanut allergen,III,WA;UT
+R-SYN-0000253,2025-12-27,Frozen Dumplings,DailySource,Undeclared peanut allergen,II,WA;AZ;NV
+R-SYN-0000254,2026-02-23,Fresh Salad Mix,DailySource,Packaging integrity issue,II,UT;CO;WA
+R-SYN-0000255,2026-03-19,Chicken Nuggets,UrbanHarvest,Undeclared peanut allergen,II,WA;NY;CA;CO
+R-SYN-0000256,2026-01-20,Fresh Salad Mix,PeakFuel,Undeclared peanut allergen,I,WA;CO;OR;AZ
+R-SYN-0000257,2025-12-01,Whole Milk,PeakFuel,Listeria monocytogenes risk,III,CO;NY;AZ
+R-SYN-0000258,2025-12-20,Whole Milk,FarmNest,Undeclared peanut allergen,II,CA;UT;NV;CO
+R-SYN-0000259,2025-12-01,Organic Spinach,Green Valley,Listeria monocytogenes risk,I,NY;CA
+R-SYN-0000260,2026-03-04,Chicken Nuggets,UrbanHarvest,Potential E. coli contamination,II,CO;UT;CA;NV
+R-SYN-0000261,2026-01-22,Fresh Salad Mix,Green Valley,Potential E. coli contamination,II,CA;NV;CO
+R-SYN-0000262,2025-12-01,Greek Yogurt,SunBite,Potential E. coli contamination,II,UT;OR;NV;NY
+R-SYN-0000263,2026-02-25,Fresh Salad Mix,SunBite,Possible metal fragments,III,WA;OR
+R-SYN-0000264,2026-01-03,Frozen Dumplings,Green Valley,Potential E. coli contamination,II,CA;UT;AZ
+R-SYN-0000265,2026-03-10,Frozen Dumplings,DailySource,Listeria monocytogenes risk,II,UT;CA
+R-SYN-0000266,2026-03-02,Protein Shake,DailySource,Possible metal fragments,I,ALL
+R-SYN-0000267,2025-12-03,Granola Bars,Green Valley,Undeclared peanut allergen,III,NY;NV
+R-SYN-0000268,2025-12-03,Frozen Dumplings,PeakFuel,Undeclared peanut allergen,II,UT;AZ;WA
+R-SYN-0000269,2025-12-25,Greek Yogurt,SunBite,Packaging integrity issue,II,NV;WA
+R-SYN-0000270,2025-12-14,Frozen Dumplings,UrbanHarvest,Packaging integrity issue,II,AZ;CA;UT
+R-SYN-0000271,2026-02-25,Chicken Nuggets,DailySource,Undeclared peanut allergen,II,NY;NV;CA
+R-SYN-0000272,2025-12-23,Granola Bars,TrailJoy,Potential E. coli contamination,I,NY;NV;UT;CO
+R-SYN-0000273,2026-03-18,Frozen Dumplings,Green Valley,Possible metal fragments,II,NY;TX
+R-SYN-0000274,2026-03-08,Fresh Salad Mix,DailySource,Packaging integrity issue,II,TX;AZ
+R-SYN-0000275,2026-01-20,Frozen Dumplings,UrbanHarvest,Listeria monocytogenes risk,I,UT;WA
+R-SYN-0000276,2026-01-17,Greek Yogurt,PureRoot,Undeclared peanut allergen,I,NY;TX;CO
+R-SYN-0000277,2026-02-04,Granola Bars,PureRoot,Possible metal fragments,II,ALL
+R-SYN-0000278,2026-02-27,Protein Shake,DailySource,Packaging integrity issue,II,OR;CA
+R-SYN-0000279,2026-02-09,Whole Milk,PureRoot,Possible metal fragments,II,NY;OR;UT;CO
+R-SYN-0000280,2026-01-02,Protein Shake,DailySource,Possible metal fragments,I,OR;CO;UT
+R-SYN-0000281,2025-12-21,Protein Shake,UrbanHarvest,Listeria monocytogenes risk,I,TX;WA;OR
+R-SYN-0000282,2026-01-21,Greek Yogurt,Green Valley,Listeria monocytogenes risk,III,TX;NV;AZ
+R-SYN-0000283,2026-01-27,Greek Yogurt,PeakFuel,Undeclared peanut allergen,I,NV;TX;WA
+R-SYN-0000284,2026-01-14,Chicken Nuggets,PureRoot,Packaging integrity issue,II,NV;CA;UT;NY
+R-SYN-0000285,2026-01-01,Frozen Dumplings,SunBite,Undeclared peanut allergen,II,CA;NV;CO;NY
+R-SYN-0000286,2025-12-20,Fresh Salad Mix,SunBite,Potential E. coli contamination,I,UT;WA;CO;NY
+R-SYN-0000287,2026-02-09,Chicken Nuggets,FarmNest,Possible metal fragments,III,NV;TX;CA
+R-SYN-0000288,2025-12-15,Greek Yogurt,UrbanHarvest,Possible metal fragments,I,CO;AZ;WA;CA
+R-SYN-0000289,2026-02-03,Chicken Nuggets,UrbanHarvest,Potential E. coli contamination,I,CA;AZ
+R-SYN-0000290,2026-01-08,Frozen Dumplings,FarmNest,Undeclared peanut allergen,II,UT;NV;WA
+R-SYN-0000291,2026-03-02,Fresh Salad Mix,FarmNest,Undeclared peanut allergen,II,WA;CO
+R-SYN-0000292,2026-01-15,Fresh Salad Mix,PureRoot,Potential E. coli contamination,II,TX;UT;NV;OR
+R-SYN-0000293,2026-03-08,Whole Milk,UrbanHarvest,Undeclared peanut allergen,II,UT;AZ;OR
+R-SYN-0000294,2026-02-10,Fresh Salad Mix,SunBite,Possible metal fragments,II,OR;TX
+R-SYN-0000295,2026-01-04,Greek Yogurt,UrbanHarvest,Potential E. coli contamination,I,ALL
+R-SYN-0000296,2026-02-12,Greek Yogurt,PureRoot,Listeria monocytogenes risk,II,NY;CO;AZ
+R-SYN-0000297,2026-01-22,Greek Yogurt,FarmNest,Listeria monocytogenes risk,I,CA;AZ;UT
+R-SYN-0000298,2026-01-28,Greek Yogurt,TrailJoy,Listeria monocytogenes risk,III,NV;CO;WA
+R-SYN-0000299,2025-12-31,Chicken Nuggets,DailySource,Undeclared peanut allergen,I,ALL
+R-SYN-0000300,2025-12-24,Protein Shake,PeakFuel,Potential E. coli contamination,I,CO;UT
+R-SYN-0000301,2026-01-20,Frozen Dumplings,SunBite,Possible metal fragments,II,UT;CA;NV
+R-SYN-0000302,2025-12-29,Chicken Nuggets,TrailJoy,Listeria monocytogenes risk,I,OR;CA
+R-SYN-0000303,2026-02-02,Granola Bars,UrbanHarvest,Potential E. coli contamination,II,WA;AZ
+R-SYN-0000304,2025-12-11,Fresh Salad Mix,FarmNest,Packaging integrity issue,I,CA;AZ
+R-SYN-0000305,2026-01-22,Granola Bars,FarmNest,Possible metal fragments,III,OR;TX;CO;WA
+R-SYN-0000306,2025-12-04,Organic Spinach,PeakFuel,Undeclared peanut allergen,II,AZ;WA
+R-SYN-0000307,2025-12-24,Fresh Salad Mix,DailySource,Undeclared peanut allergen,II,NV;CO;CA
+R-SYN-0000308,2026-01-09,Frozen Dumplings,PureRoot,Packaging integrity issue,II,CO;UT;NY
+R-SYN-0000309,2026-01-16,Organic Spinach,SunBite,Listeria monocytogenes risk,II,UT;NV
+R-SYN-0000310,2026-03-04,Fresh Salad Mix,TrailJoy,Listeria monocytogenes risk,I,UT;NY;OR
+R-SYN-0000311,2025-12-12,Chicken Nuggets,UrbanHarvest,Potential E. coli contamination,I,CA;TX;NV
+R-SYN-0000312,2026-03-11,Chicken Nuggets,DailySource,Potential E. coli contamination,III,NY;OR;TX;UT
+R-SYN-0000313,2026-03-20,Whole Milk,PeakFuel,Potential E. coli contamination,II,CA;NV
+R-SYN-0000314,2026-01-10,Granola Bars,TrailJoy,Listeria monocytogenes risk,II,WA;CO
+R-SYN-0000315,2026-03-22,Greek Yogurt,TrailJoy,Packaging integrity issue,II,ALL
+R-SYN-0000316,2026-01-01,Whole Milk,SunBite,Listeria monocytogenes risk,II,NV;TX
+R-SYN-0000317,2025-12-28,Frozen Dumplings,SunBite,Possible metal fragments,II,NY;UT;CA
+R-SYN-0000318,2026-01-23,Organic Spinach,FarmNest,Listeria monocytogenes risk,II,NY;NV;OR;AZ
+R-SYN-0000319,2026-02-03,Protein Shake,SunBite,Potential E. coli contamination,I,NV;AZ;WA;NY
+R-SYN-0000320,2025-12-20,Greek Yogurt,TrailJoy,Possible metal fragments,II,OR;CA;NV;AZ
+R-SYN-0000321,2025-12-09,Granola Bars,TrailJoy,Packaging integrity issue,II,OR;CA;NV
+R-SYN-0000322,2025-12-07,Protein Shake,DailySource,Listeria monocytogenes risk,I,TX;CA;NY;NV
+R-SYN-0000323,2026-03-15,Fresh Salad Mix,PureRoot,Possible metal fragments,II,TX;CA;OR
+R-SYN-0000324,2026-03-23,Organic Spinach,PeakFuel,Undeclared peanut allergen,I,ALL
+R-SYN-0000325,2025-12-20,Fresh Salad Mix,PeakFuel,Packaging integrity issue,II,TX;NY;CO
+R-SYN-0000326,2026-03-21,Granola Bars,SunBite,Packaging integrity issue,III,UT;AZ
+R-SYN-0000327,2026-02-09,Frozen Dumplings,PeakFuel,Listeria monocytogenes risk,II,WA;TX
+R-SYN-0000328,2025-12-03,Fresh Salad Mix,SunBite,Listeria monocytogenes risk,II,ALL
+R-SYN-0000329,2026-01-05,Greek Yogurt,SunBite,Potential E. coli contamination,II,CO;AZ
+R-SYN-0000330,2026-01-24,Granola Bars,FarmNest,Possible metal fragments,I,TX;CA;NY
+R-SYN-0000331,2025-12-18,Fresh Salad Mix,PeakFuel,Packaging integrity issue,I,TX;CO;WA;OR
+R-SYN-0000332,2026-02-13,Organic Spinach,DailySource,Packaging integrity issue,I,TX;WA
+R-SYN-0000333,2025-12-27,Organic Spinach,Green Valley,Potential E. coli contamination,I,NY;UT;NV
+R-SYN-0000334,2026-03-27,Fresh Salad Mix,TrailJoy,Possible metal fragments,I,OR;TX;UT
+R-SYN-0000335,2026-02-12,Frozen Dumplings,Green Valley,Undeclared peanut allergen,I,NV;TX
+R-SYN-0000336,2025-12-09,Chicken Nuggets,PeakFuel,Possible metal fragments,I,AZ;WA
+R-SYN-0000337,2026-02-22,Granola Bars,TrailJoy,Listeria monocytogenes risk,II,UT;WA
+R-SYN-0000338,2026-03-12,Organic Spinach,PureRoot,Potential E. coli contamination,I,CA;AZ;UT;CO
+R-SYN-0000339,2026-02-11,Granola Bars,SunBite,Undeclared peanut allergen,II,CA;NY;AZ
+R-SYN-0000340,2026-02-24,Frozen Dumplings,Green Valley,Undeclared peanut allergen,III,AZ;CO;UT;CA
+R-SYN-0000341,2026-01-16,Frozen Dumplings,FarmNest,Listeria monocytogenes risk,I,NY;WA;UT
+R-SYN-0000342,2026-02-26,Whole Milk,PureRoot,Possible metal fragments,I,WA;NY
+R-SYN-0000343,2025-12-22,Frozen Dumplings,FarmNest,Potential E. coli contamination,I,TX;AZ;NV
+R-SYN-0000344,2026-03-05,Chicken Nuggets,PeakFuel,Listeria monocytogenes risk,I,ALL
+R-SYN-0000345,2026-03-11,Granola Bars,Green Valley,Undeclared peanut allergen,III,WA;AZ
+R-SYN-0000346,2026-02-09,Organic Spinach,PeakFuel,Possible metal fragments,III,CO;WA;CA
+R-SYN-0000347,2026-01-31,Frozen Dumplings,FarmNest,Potential E. coli contamination,I,NY;WA
+R-SYN-0000348,2025-12-16,Fresh Salad Mix,UrbanHarvest,Potential E. coli contamination,II,CA;TX
+R-SYN-0000349,2026-03-06,Chicken Nuggets,FarmNest,Potential E. coli contamination,III,TX;CA;WA
+R-SYN-0000350,2026-03-25,Greek Yogurt,PureRoot,Listeria monocytogenes risk,II,NY;AZ;TX
+R-SYN-0000351,2025-12-05,Greek Yogurt,PeakFuel,Possible metal fragments,II,WA;OR;UT;NV
+R-SYN-0000352,2025-12-09,Chicken Nuggets,Green Valley,Potential E. coli contamination,I,UT;WA
+R-SYN-0000353,2026-01-10,Organic Spinach,PureRoot,Possible metal fragments,II,UT;AZ;WA
+R-SYN-0000354,2026-02-25,Greek Yogurt,Green Valley,Possible metal fragments,II,ALL
+R-SYN-0000355,2025-12-18,Granola Bars,Green Valley,Listeria monocytogenes risk,II,NY;TX
+R-SYN-0000356,2026-02-28,Protein Shake,PeakFuel,Packaging integrity issue,III,WA;NV
+R-SYN-0000357,2026-02-14,Greek Yogurt,FarmNest,Undeclared peanut allergen,II,AZ;CA;UT;NV
+R-SYN-0000358,2026-02-14,Greek Yogurt,TrailJoy,Listeria monocytogenes risk,II,TX;CA
+R-SYN-0000359,2026-03-02,Protein Shake,Green Valley,Packaging integrity issue,II,WA;NY;CO;AZ
+R-SYN-0000360,2026-03-09,Whole Milk,Green Valley,Potential E. coli contamination,I,TX;AZ
+R-SYN-0000361,2026-03-22,Whole Milk,PureRoot,Packaging integrity issue,I,NY;NV
+R-SYN-0000362,2025-12-20,Chicken Nuggets,UrbanHarvest,Undeclared peanut allergen,II,AZ;WA;UT;OR
+R-SYN-0000363,2025-12-17,Greek Yogurt,PureRoot,Possible metal fragments,II,CA;NV
+R-SYN-0000364,2025-12-13,Organic Spinach,FarmNest,Packaging integrity issue,I,WA;TX;UT;CO
+R-SYN-0000365,2026-02-17,Frozen Dumplings,TrailJoy,Possible metal fragments,III,AZ;CO
+R-SYN-0000366,2026-03-30,Granola Bars,TrailJoy,Undeclared peanut allergen,II,CA;UT
+R-SYN-0000367,2026-02-10,Chicken Nuggets,PureRoot,Undeclared peanut allergen,III,AZ;NV;CA
+R-SYN-0000368,2025-12-15,Chicken Nuggets,TrailJoy,Undeclared peanut allergen,II,OR;CA
+R-SYN-0000369,2026-02-19,Granola Bars,SunBite,Potential E. coli contamination,I,TX;UT
+R-SYN-0000370,2026-02-16,Chicken Nuggets,Green Valley,Listeria monocytogenes risk,III,NY;CA;CO
+R-SYN-0000371,2026-02-17,Protein Shake,TrailJoy,Listeria monocytogenes risk,II,UT;OR;AZ;NY
+R-SYN-0000372,2026-02-21,Protein Shake,SunBite,Potential E. coli contamination,II,NY;CA;UT
+R-SYN-0000373,2026-03-31,Fresh Salad Mix,SunBite,Possible metal fragments,III,WA;TX;CA
+R-SYN-0000374,2026-03-05,Greek Yogurt,PeakFuel,Potential E. coli contamination,II,ALL
+R-SYN-0000375,2025-12-21,Fresh Salad Mix,DailySource,Listeria monocytogenes risk,III,UT;NV;TX;NY
+R-SYN-0000376,2025-12-08,Fresh Salad Mix,UrbanHarvest,Undeclared peanut allergen,II,OR;WA;NV
+R-SYN-0000377,2026-02-25,Organic Spinach,FarmNest,Potential E. coli contamination,I,NV;WA;OR;CA
+R-SYN-0000378,2025-12-14,Fresh Salad Mix,PureRoot,Packaging integrity issue,II,WA;CO;NY;CA
+R-SYN-0000379,2026-02-09,Organic Spinach,FarmNest,Potential E. coli contamination,III,WA;UT
+R-SYN-0000380,2026-03-15,Organic Spinach,PureRoot,Potential E. coli contamination,III,NY;OR;UT;AZ
+R-SYN-0000381,2025-12-04,Frozen Dumplings,SunBite,Listeria monocytogenes risk,II,UT;CO;NV
+R-SYN-0000382,2026-03-30,Fresh Salad Mix,SunBite,Listeria monocytogenes risk,I,TX;UT;OR;CA
+R-SYN-0000383,2025-12-21,Granola Bars,UrbanHarvest,Listeria monocytogenes risk,I,CO;CA;TX;NY
+R-SYN-0000384,2026-02-08,Greek Yogurt,PureRoot,Potential E. coli contamination,II,WA;CA;AZ;UT
+R-SYN-0000385,2025-12-04,Granola Bars,UrbanHarvest,Potential E. coli contamination,I,OR;CO;NV
+R-SYN-0000386,2026-01-01,Frozen Dumplings,TrailJoy,Undeclared peanut allergen,I,OR;NV;UT
+R-SYN-0000387,2026-01-08,Frozen Dumplings,TrailJoy,Listeria monocytogenes risk,I,CO;AZ;NV;CA
+R-SYN-0000388,2026-01-25,Greek Yogurt,SunBite,Possible metal fragments,II,CA;NY;TX;NV
+R-SYN-0000389,2025-12-14,Organic Spinach,TrailJoy,Potential E. coli contamination,II,WA;OR;NY;UT
+R-SYN-0000390,2026-01-26,Fresh Salad Mix,SunBite,Potential E. coli contamination,I,NY;CO;OR
+R-SYN-0000391,2026-01-20,Whole Milk,UrbanHarvest,Undeclared peanut allergen,III,TX;OR;CA;WA
+R-SYN-0000392,2026-03-25,Greek Yogurt,TrailJoy,Undeclared peanut allergen,II,NV;CA;UT
+R-SYN-0000393,2025-12-22,Organic Spinach,DailySource,Undeclared peanut allergen,II,WA;OR
+R-SYN-0000394,2026-01-13,Granola Bars,PeakFuel,Listeria monocytogenes risk,III,OR;WA;CO
+R-SYN-0000395,2026-02-21,Fresh Salad Mix,SunBite,Potential E. coli contamination,II,UT;OR;NY
+R-SYN-0000396,2026-01-03,Frozen Dumplings,DailySource,Potential E. coli contamination,I,OR;UT;AZ
+R-SYN-0000397,2025-12-30,Granola Bars,TrailJoy,Undeclared peanut allergen,II,NV;AZ
+R-SYN-0000398,2026-01-03,Greek Yogurt,Green Valley,Listeria monocytogenes risk,III,NV;UT;AZ
+R-SYN-0000399,2026-03-27,Protein Shake,UrbanHarvest,Undeclared peanut allergen,II,AZ;OR;NV
+R-SYN-0000400,2026-03-10,Greek Yogurt,PeakFuel,Potential E. coli contamination,II,UT;NY;AZ;CO
+R-SYN-0000401,2026-01-07,Frozen Dumplings,TrailJoy,Possible metal fragments,I,AZ;UT;NY
+R-SYN-0000402,2026-01-16,Granola Bars,DailySource,Potential E. coli contamination,II,TX;CO;UT;OR
+R-SYN-0000403,2026-03-16,Fresh Salad Mix,PeakFuel,Listeria monocytogenes risk,I,WA;AZ
+R-SYN-0000404,2026-02-07,Chicken Nuggets,FarmNest,Possible metal fragments,III,CO;AZ
+R-SYN-0000405,2026-01-10,Greek Yogurt,UrbanHarvest,Potential E. coli contamination,I,NY;CO
+R-SYN-0000406,2025-12-21,Frozen Dumplings,FarmNest,Packaging integrity issue,II,CO;NV;CA
+R-SYN-0000407,2026-03-27,Protein Shake,UrbanHarvest,Potential E. coli contamination,III,WA;CA;AZ;CO
+R-SYN-0000408,2026-01-10,Protein Shake,TrailJoy,Possible metal fragments,I,ALL
+R-SYN-0000409,2026-01-26,Granola Bars,FarmNest,Potential E. coli contamination,III,CO;AZ;WA
+R-SYN-0000410,2025-12-08,Greek Yogurt,UrbanHarvest,Listeria monocytogenes risk,II,CA;WA;TX
+R-SYN-0000411,2025-12-28,Greek Yogurt,TrailJoy,Potential E. coli contamination,II,CA;NV;AZ
+R-SYN-0000412,2026-02-27,Organic Spinach,Green Valley,Potential E. coli contamination,II,ALL
+R-SYN-0000413,2026-01-02,Frozen Dumplings,PureRoot,Listeria monocytogenes risk,II,NY;WA;AZ
+R-SYN-0000414,2026-01-03,Organic Spinach,PeakFuel,Listeria monocytogenes risk,II,NY;NV;CO
+R-SYN-0000415,2025-12-06,Frozen Dumplings,SunBite,Possible metal fragments,I,ALL
+R-SYN-0000416,2026-03-06,Protein Shake,PeakFuel,Packaging integrity issue,III,OR;NY;CA
+R-SYN-0000417,2026-01-20,Chicken Nuggets,TrailJoy,Listeria monocytogenes risk,I,ALL
+R-SYN-0000418,2026-01-05,Frozen Dumplings,SunBite,Packaging integrity issue,II,UT;TX
+R-SYN-0000419,2025-12-29,Frozen Dumplings,PeakFuel,Undeclared peanut allergen,II,CO;CA;UT
+R-SYN-0000420,2025-12-17,Greek Yogurt,Green Valley,Possible metal fragments,II,TX;UT;NV
+R-SYN-0000421,2025-12-24,Organic Spinach,Green Valley,Undeclared peanut allergen,II,CO;OR;AZ
+R-SYN-0000422,2026-03-20,Whole Milk,UrbanHarvest,Undeclared peanut allergen,I,OR;NV;AZ
+R-SYN-0000423,2025-12-13,Chicken Nuggets,PureRoot,Undeclared peanut allergen,I,NY;TX
+R-SYN-0000424,2026-02-06,Chicken Nuggets,DailySource,Undeclared peanut allergen,II,CA;NY;WA;NV
+R-SYN-0000425,2026-03-17,Fresh Salad Mix,DailySource,Potential E. coli contamination,I,UT;WA
+R-SYN-0000426,2026-01-05,Whole Milk,SunBite,Listeria monocytogenes risk,II,NV;NY;UT
+R-SYN-0000427,2025-12-16,Organic Spinach,Green Valley,Undeclared peanut allergen,II,NY;TX;NV
+R-SYN-0000428,2026-01-28,Whole Milk,TrailJoy,Possible metal fragments,III,ALL
+R-SYN-0000429,2026-03-03,Fresh Salad Mix,PureRoot,Undeclared peanut allergen,I,CO;TX;NV;WA
+R-SYN-0000430,2026-02-02,Whole Milk,SunBite,Listeria monocytogenes risk,II,ALL
+R-SYN-0000431,2026-02-08,Fresh Salad Mix,Green Valley,Packaging integrity issue,II,OR;WA;AZ;NV
+R-SYN-0000432,2026-02-01,Whole Milk,UrbanHarvest,Potential E. coli contamination,III,UT;CO;AZ
+R-SYN-0000433,2026-01-06,Whole Milk,DailySource,Potential E. coli contamination,I,AZ;UT
+R-SYN-0000434,2025-12-15,Granola Bars,UrbanHarvest,Potential E. coli contamination,I,NV;TX
+R-SYN-0000435,2026-02-27,Protein Shake,TrailJoy,Potential E. coli contamination,III,WA;AZ;CA
+R-SYN-0000436,2025-12-25,Fresh Salad Mix,Green Valley,Packaging integrity issue,I,UT;NY;WA
+R-SYN-0000437,2026-03-31,Organic Spinach,PureRoot,Packaging integrity issue,II,NY;UT
+R-SYN-0000438,2026-03-18,Fresh Salad Mix,UrbanHarvest,Packaging integrity issue,III,WA;OR;UT;NY
+R-SYN-0000439,2026-02-22,Chicken Nuggets,FarmNest,Undeclared peanut allergen,II,UT;OR;NV;AZ
+R-SYN-0000440,2026-01-20,Whole Milk,TrailJoy,Undeclared peanut allergen,I,AZ;NY;UT;NV
+R-SYN-0000441,2026-03-09,Whole Milk,SunBite,Possible metal fragments,II,NV;OR;UT;WA
+R-SYN-0000442,2025-12-18,Organic Spinach,SunBite,Potential E. coli contamination,II,ALL
+R-SYN-0000443,2026-03-24,Protein Shake,PeakFuel,Undeclared peanut allergen,III,CA;OR
+R-SYN-0000444,2026-03-05,Organic Spinach,UrbanHarvest,Listeria monocytogenes risk,I,UT;WA;AZ;NV
+R-SYN-0000445,2026-01-19,Fresh Salad Mix,TrailJoy,Packaging integrity issue,II,CA;NV;WA
+R-SYN-0000446,2026-02-06,Whole Milk,Green Valley,Potential E. coli contamination,II,WA;AZ;NV
+R-SYN-0000447,2026-01-15,Protein Shake,TrailJoy,Possible metal fragments,II,NY;UT
+R-SYN-0000448,2025-12-27,Frozen Dumplings,PureRoot,Potential E. coli contamination,II,NY;OR
+R-SYN-0000449,2026-03-31,Whole Milk,DailySource,Undeclared peanut allergen,I,CA;OR;WA;CO
+R-SYN-0000450,2026-01-20,Whole Milk,SunBite,Possible metal fragments,II,TX;NY;WA;OR
+R-SYN-0000451,2026-01-22,Fresh Salad Mix,SunBite,Possible metal fragments,I,AZ;UT;NY
+R-SYN-0000452,2026-03-04,Chicken Nuggets,Green Valley,Potential E. coli contamination,II,WA;CA;AZ;NY
+R-SYN-0000453,2026-02-11,Frozen Dumplings,PureRoot,Possible metal fragments,II,AZ;CO;WA;CA
+R-SYN-0000454,2026-02-22,Protein Shake,UrbanHarvest,Packaging integrity issue,I,ALL
+R-SYN-0000455,2025-12-23,Organic Spinach,SunBite,Undeclared peanut allergen,II,NV;TX;CO;OR
+R-SYN-0000456,2025-12-15,Fresh Salad Mix,SunBite,Undeclared peanut allergen,I,TX;UT
+R-SYN-0000457,2026-03-25,Greek Yogurt,PeakFuel,Packaging integrity issue,I,NV;UT;WA
+R-SYN-0000458,2026-01-10,Fresh Salad Mix,PureRoot,Possible metal fragments,I,CA;TX;NV;AZ
+R-SYN-0000459,2026-01-16,Organic Spinach,SunBite,Possible metal fragments,III,ALL
+R-SYN-0000460,2025-12-21,Granola Bars,SunBite,Possible metal fragments,II,CA;CO;TX
+R-SYN-0000461,2026-01-22,Protein Shake,FarmNest,Listeria monocytogenes risk,II,NY;OR;AZ
+R-SYN-0000462,2025-12-08,Whole Milk,Green Valley,Packaging integrity issue,III,CA;NV
+R-SYN-0000463,2026-01-22,Frozen Dumplings,PeakFuel,Undeclared peanut allergen,II,WA;NV;AZ
+R-SYN-0000464,2025-12-13,Greek Yogurt,FarmNest,Undeclared peanut allergen,I,TX;NY
+R-SYN-0000465,2026-01-05,Organic Spinach,DailySource,Packaging integrity issue,I,TX;WA;AZ
+R-SYN-0000466,2026-01-16,Chicken Nuggets,UrbanHarvest,Possible metal fragments,I,OR;TX
+R-SYN-0000467,2025-12-06,Protein Shake,UrbanHarvest,Listeria monocytogenes risk,II,NY;AZ;NV
+R-SYN-0000468,2026-02-19,Fresh Salad Mix,FarmNest,Potential E. coli contamination,I,NV;OR;UT;NY
+R-SYN-0000469,2026-03-14,Whole Milk,DailySource,Listeria monocytogenes risk,II,UT;TX;CO
+R-SYN-0000470,2026-01-08,Frozen Dumplings,PeakFuel,Undeclared peanut allergen,III,TX;UT;CA;OR
+R-SYN-0000471,2026-01-10,Organic Spinach,PureRoot,Packaging integrity issue,I,ALL
+R-SYN-0000472,2026-02-26,Chicken Nuggets,FarmNest,Possible metal fragments,II,OR;NY;WA;UT
+R-SYN-0000473,2026-01-25,Frozen Dumplings,PureRoot,Possible metal fragments,II,NY;UT;WA;TX
+R-SYN-0000474,2026-03-09,Greek Yogurt,DailySource,Possible metal fragments,I,TX;OR
+R-SYN-0000475,2026-02-12,Protein Shake,Green Valley,Undeclared peanut allergen,II,CO;UT;CA
+R-SYN-0000476,2026-03-26,Whole Milk,SunBite,Packaging integrity issue,II,OR;NY;WA;AZ
+R-SYN-0000477,2026-02-11,Whole Milk,SunBite,Packaging integrity issue,I,UT;NV
+R-SYN-0000478,2026-02-14,Whole Milk,DailySource,Listeria monocytogenes risk,III,ALL
+R-SYN-0000479,2025-12-09,Greek Yogurt,DailySource,Undeclared peanut allergen,I,WA;NY;TX
+R-SYN-0000480,2026-03-11,Whole Milk,SunBite,Undeclared peanut allergen,II,CO;UT
+R-SYN-0000481,2026-01-29,Protein Shake,FarmNest,Listeria monocytogenes risk,I,ALL
+R-SYN-0000482,2026-01-17,Greek Yogurt,FarmNest,Packaging integrity issue,I,NY;OR
+R-SYN-0000483,2025-12-03,Greek Yogurt,PureRoot,Packaging integrity issue,III,OR;TX;CO;WA
+R-SYN-0000484,2026-01-13,Chicken Nuggets,DailySource,Undeclared peanut allergen,I,NY;OR
+R-SYN-0000485,2026-03-10,Whole Milk,DailySource,Packaging integrity issue,II,NY;TX;CA
+R-SYN-0000486,2026-03-06,Fresh Salad Mix,FarmNest,Packaging integrity issue,I,CA;TX;UT;WA
+R-SYN-0000487,2026-01-06,Greek Yogurt,Green Valley,Listeria monocytogenes risk,II,UT;NV
+R-SYN-0000488,2026-03-02,Chicken Nuggets,PureRoot,Possible metal fragments,II,TX;NV;UT;NY
+R-SYN-0000489,2026-01-29,Protein Shake,SunBite,Possible metal fragments,II,WA;CA;AZ
+R-SYN-0000490,2025-12-26,Organic Spinach,SunBite,Packaging integrity issue,I,AZ;NV;NY;CA
+R-SYN-0000491,2026-03-12,Fresh Salad Mix,PeakFuel,Possible metal fragments,III,OR;NV;CO
+R-SYN-0000492,2026-03-05,Fresh Salad Mix,DailySource,Undeclared peanut allergen,II,OR;AZ;NV
+R-SYN-0000493,2025-12-31,Fresh Salad Mix,FarmNest,Potential E. coli contamination,II,NY;TX;CO;OR
+R-SYN-0000494,2026-02-08,Whole Milk,Green Valley,Undeclared peanut allergen,II,NY;CO
+R-SYN-0000495,2025-12-03,Fresh Salad Mix,SunBite,Potential E. coli contamination,I,CA;NV;WA;OR
+R-SYN-0000496,2026-01-07,Granola Bars,Green Valley,Undeclared peanut allergen,II,UT;OR
+R-SYN-0000497,2026-03-07,Organic Spinach,TrailJoy,Packaging integrity issue,I,ALL
+R-SYN-0000498,2026-03-01,Organic Spinach,FarmNest,Potential E. coli contamination,III,NV;UT;OR
+R-SYN-0000499,2026-03-06,Organic Spinach,SunBite,Potential E. coli contamination,II,AZ;UT;NV;NY
+R-SYN-0000500,2026-03-03,Protein Shake,DailySource,Listeria monocytogenes risk,II,UT;TX;OR
+R-SYN-0000501,2026-03-22,Granola Bars,UrbanHarvest,Potential E. coli contamination,III,OR;CO;WA;UT
+R-SYN-0000502,2026-01-29,Protein Shake,UrbanHarvest,Listeria monocytogenes risk,II,CO;TX
+R-SYN-0000503,2026-02-26,Frozen Dumplings,PureRoot,Undeclared peanut allergen,II,NV;AZ;OR
+R-SYN-0000504,2026-01-22,Organic Spinach,PeakFuel,Undeclared peanut allergen,I,AZ;TX;OR;CO
+R-SYN-0000505,2026-01-30,Whole Milk,UrbanHarvest,Undeclared peanut allergen,III,WA;CO;AZ;TX
+R-SYN-0000506,2026-03-01,Protein Shake,PeakFuel,Undeclared peanut allergen,I,AZ;NY;NV;CA
+R-SYN-0000507,2026-03-16,Frozen Dumplings,DailySource,Packaging integrity issue,I,CO;AZ
+R-SYN-0000508,2026-01-11,Whole Milk,DailySource,Packaging integrity issue,III,OR;NV;TX;UT
+R-SYN-0000509,2026-03-15,Organic Spinach,PureRoot,Listeria monocytogenes risk,III,ALL
+R-SYN-0000510,2026-02-15,Fresh Salad Mix,FarmNest,Listeria monocytogenes risk,III,AZ;CA;CO
+R-SYN-0000511,2026-01-04,Protein Shake,PureRoot,Packaging integrity issue,I,NY;OR;TX
+R-SYN-0000512,2026-02-25,Chicken Nuggets,UrbanHarvest,Possible metal fragments,I,AZ;UT;NV
+R-SYN-0000513,2026-02-08,Granola Bars,DailySource,Undeclared peanut allergen,II,WA;TX;AZ;NY
+R-SYN-0000514,2025-12-19,Protein Shake,PureRoot,Listeria monocytogenes risk,I,NY;CO;NV;CA
+R-SYN-0000515,2026-03-09,Fresh Salad Mix,DailySource,Undeclared peanut allergen,III,UT;AZ;NV;WA
+R-SYN-0000516,2026-02-21,Granola Bars,Green Valley,Listeria monocytogenes risk,I,OR;CO
+R-SYN-0000517,2025-12-14,Frozen Dumplings,DailySource,Possible metal fragments,I,OR;AZ;CA;WA
+R-SYN-0000518,2026-03-16,Whole Milk,TrailJoy,Packaging integrity issue,II,OR;AZ
+R-SYN-0000519,2026-02-18,Chicken Nuggets,DailySource,Potential E. coli contamination,II,NY;UT;AZ;CO
+R-SYN-0000520,2026-02-06,Fresh Salad Mix,SunBite,Potential E. coli contamination,I,OR;UT;CO
+R-SYN-0000521,2026-01-08,Fresh Salad Mix,PeakFuel,Listeria monocytogenes risk,II,UT;CO;WA;TX
+R-SYN-0000522,2026-03-08,Organic Spinach,FarmNest,Undeclared peanut allergen,II,TX;WA;UT;CO
+R-SYN-0000523,2026-03-18,Frozen Dumplings,SunBite,Listeria monocytogenes risk,II,ALL
+R-SYN-0000524,2026-02-09,Frozen Dumplings,SunBite,Possible metal fragments,II,ALL
+R-SYN-0000525,2025-12-02,Fresh Salad Mix,PeakFuel,Undeclared peanut allergen,I,NY;UT;OR;TX
+R-SYN-0000526,2026-03-28,Organic Spinach,UrbanHarvest,Possible metal fragments,III,OR;CO;TX;AZ
+R-SYN-0000527,2026-01-21,Greek Yogurt,DailySource,Packaging integrity issue,II,OR;AZ;WA;UT
+R-SYN-0000528,2026-03-02,Frozen Dumplings,DailySource,Possible metal fragments,II,CA;UT;OR
+R-SYN-0000529,2025-12-17,Greek Yogurt,UrbanHarvest,Possible metal fragments,II,ALL
+R-SYN-0000530,2025-12-03,Chicken Nuggets,DailySource,Possible metal fragments,I,WA;CA;OR
+R-SYN-0000531,2026-02-12,Protein Shake,PureRoot,Packaging integrity issue,II,NV;UT;TX;NY
+R-SYN-0000532,2026-03-21,Fresh Salad Mix,TrailJoy,Packaging integrity issue,II,OR;UT;AZ;NV
+R-SYN-0000533,2026-01-22,Granola Bars,PureRoot,Undeclared peanut allergen,III,TX;CO;OR
+R-SYN-0000534,2026-02-02,Granola Bars,DailySource,Undeclared peanut allergen,I,CA;NY;UT;CO
+R-SYN-0000535,2026-02-25,Greek Yogurt,DailySource,Potential E. coli contamination,I,WA;AZ;UT
+R-SYN-0000536,2026-02-20,Chicken Nuggets,UrbanHarvest,Listeria monocytogenes risk,II,ALL
+R-SYN-0000537,2026-03-21,Greek Yogurt,Green Valley,Possible metal fragments,II,ALL
+R-SYN-0000538,2026-01-30,Greek Yogurt,TrailJoy,Possible metal fragments,III,WA;NV
+R-SYN-0000539,2025-12-23,Chicken Nuggets,TrailJoy,Potential E. coli contamination,I,UT;WA
+R-SYN-0000540,2026-01-30,Fresh Salad Mix,PeakFuel,Possible metal fragments,I,UT;TX;NY;WA
+R-SYN-0000541,2026-01-09,Granola Bars,TrailJoy,Possible metal fragments,III,TX;WA
+R-SYN-0000542,2026-01-09,Fresh Salad Mix,UrbanHarvest,Potential E. coli contamination,I,NV;WA
+R-SYN-0000543,2026-03-30,Organic Spinach,DailySource,Packaging integrity issue,I,NY;CO
+R-SYN-0000544,2026-03-20,Whole Milk,Green Valley,Potential E. coli contamination,II,TX;NY;WA;UT
+R-SYN-0000545,2026-02-19,Whole Milk,DailySource,Undeclared peanut allergen,I,NY;OR;CA;WA
+R-SYN-0000546,2025-12-31,Chicken Nuggets,PeakFuel,Packaging integrity issue,II,UT;AZ
+R-SYN-0000547,2026-02-18,Chicken Nuggets,PeakFuel,Packaging integrity issue,III,UT;NY
+R-SYN-0000548,2026-02-02,Granola Bars,PeakFuel,Packaging integrity issue,II,ALL
+R-SYN-0000549,2026-01-09,Fresh Salad Mix,FarmNest,Potential E. coli contamination,II,WA;AZ;CO;CA
+R-SYN-0000550,2026-01-06,Fresh Salad Mix,TrailJoy,Packaging integrity issue,II,OR;AZ
+R-SYN-0000551,2026-02-07,Whole Milk,SunBite,Potential E. coli contamination,II,ALL
+R-SYN-0000552,2025-12-15,Greek Yogurt,FarmNest,Potential E. coli contamination,I,CA;NV
+R-SYN-0000553,2026-01-06,Chicken Nuggets,PeakFuel,Potential E. coli contamination,II,CA;WA
+R-SYN-0000554,2026-01-07,Chicken Nuggets,SunBite,Listeria monocytogenes risk,III,ALL
+R-SYN-0000555,2026-01-19,Fresh Salad Mix,UrbanHarvest,Potential E. coli contamination,III,TX;OR
+R-SYN-0000556,2026-03-22,Protein Shake,SunBite,Potential E. coli contamination,II,WA;UT
+R-SYN-0000557,2026-01-18,Greek Yogurt,PureRoot,Potential E. coli contamination,II,CO;NV;CA;TX
+R-SYN-0000558,2025-12-20,Greek Yogurt,PureRoot,Packaging integrity issue,I,CO;AZ;NY;OR
+R-SYN-0000559,2026-02-18,Whole Milk,PureRoot,Listeria monocytogenes risk,III,UT;WA
+R-SYN-0000560,2026-02-11,Granola Bars,UrbanHarvest,Listeria monocytogenes risk,II,CA;OR;CO;UT
+R-SYN-0000561,2026-01-24,Greek Yogurt,PeakFuel,Potential E. coli contamination,I,CA;OR;CO
+R-SYN-0000562,2026-01-25,Greek Yogurt,SunBite,Potential E. coli contamination,II,AZ;WA;TX
+R-SYN-0000563,2026-02-27,Granola Bars,SunBite,Packaging integrity issue,II,TX;AZ;NV;WA
+R-SYN-0000564,2026-03-09,Chicken Nuggets,SunBite,Packaging integrity issue,II,ALL
+R-SYN-0000565,2025-12-18,Fresh Salad Mix,SunBite,Potential E. coli contamination,III,NV;TX;UT
+R-SYN-0000566,2025-12-23,Protein Shake,Green Valley,Listeria monocytogenes risk,I,UT;NY;CO
+R-SYN-0000567,2026-01-26,Protein Shake,FarmNest,Potential E. coli contamination,II,UT;TX;CO
+R-SYN-0000568,2026-02-04,Granola Bars,PureRoot,Undeclared peanut allergen,I,ALL
+R-SYN-0000569,2026-01-17,Organic Spinach,PureRoot,Possible metal fragments,I,NY;UT;WA;OR
+R-SYN-0000570,2026-03-06,Chicken Nuggets,PureRoot,Packaging integrity issue,I,UT;WA;TX;CA
+R-SYN-0000571,2026-02-25,Fresh Salad Mix,UrbanHarvest,Packaging integrity issue,I,AZ;UT;TX
+R-SYN-0000572,2026-02-18,Whole Milk,Green Valley,Possible metal fragments,I,NY;CO;CA
+R-SYN-0000573,2025-12-03,Protein Shake,TrailJoy,Possible metal fragments,I,TX;CA
+R-SYN-0000574,2026-02-28,Greek Yogurt,PeakFuel,Potential E. coli contamination,I,CO;UT;CA
+R-SYN-0000575,2026-02-17,Protein Shake,TrailJoy,Undeclared peanut allergen,II,CO;NY;AZ;NV
+R-SYN-0000576,2026-01-05,Organic Spinach,PureRoot,Packaging integrity issue,III,NY;CA;UT
+R-SYN-0000577,2026-03-06,Granola Bars,Green Valley,Listeria monocytogenes risk,II,ALL
+R-SYN-0000578,2026-02-10,Granola Bars,UrbanHarvest,Potential E. coli contamination,I,NV;WA;CO;OR
+R-SYN-0000579,2025-12-31,Frozen Dumplings,UrbanHarvest,Listeria monocytogenes risk,III,WA;CO
+R-SYN-0000580,2026-01-19,Organic Spinach,Green Valley,Undeclared peanut allergen,III,NV;NY;CA
+R-SYN-0000581,2026-02-15,Whole Milk,UrbanHarvest,Possible metal fragments,I,OR;CA;AZ;NY
+R-SYN-0000582,2025-12-09,Fresh Salad Mix,Green Valley,Packaging integrity issue,III,NV;NY;CA
+R-SYN-0000583,2025-12-28,Fresh Salad Mix,TrailJoy,Listeria monocytogenes risk,I,AZ;CO;OR
+R-SYN-0000584,2026-03-15,Protein Shake,FarmNest,Packaging integrity issue,II,OR;NY
+R-SYN-0000585,2026-02-04,Greek Yogurt,FarmNest,Possible metal fragments,I,TX;NY;CO;UT
+R-SYN-0000586,2025-12-28,Organic Spinach,UrbanHarvest,Listeria monocytogenes risk,III,OR;NY;NV;TX
+R-SYN-0000587,2026-03-18,Greek Yogurt,FarmNest,Potential E. coli contamination,II,WA;UT;TX
+R-SYN-0000588,2026-01-03,Organic Spinach,UrbanHarvest,Potential E. coli contamination,II,CO;AZ;TX;WA
+R-SYN-0000589,2026-01-28,Chicken Nuggets,FarmNest,Undeclared peanut allergen,I,ALL
+R-SYN-0000590,2025-12-24,Organic Spinach,PeakFuel,Listeria monocytogenes risk,I,WA;TX
+R-SYN-0000591,2026-03-09,Chicken Nuggets,DailySource,Possible metal fragments,III,NV;CA;OR
+R-SYN-0000592,2025-12-27,Fresh Salad Mix,UrbanHarvest,Listeria monocytogenes risk,II,UT;CA;OR;CO
+R-SYN-0000593,2026-02-02,Chicken Nuggets,Green Valley,Undeclared peanut allergen,II,CA;NV;OR;AZ
+R-SYN-0000594,2026-03-25,Protein Shake,PeakFuel,Listeria monocytogenes risk,II,CO;NY;WA
+R-SYN-0000595,2026-02-22,Organic Spinach,FarmNest,Listeria monocytogenes risk,III,UT;TX;CO;OR
+R-SYN-0000596,2025-12-01,Greek Yogurt,PureRoot,Listeria monocytogenes risk,I,ALL
+R-SYN-0000597,2026-02-01,Protein Shake,DailySource,Potential E. coli contamination,I,NY;TX;CA;NV
+R-SYN-0000598,2025-12-31,Chicken Nuggets,UrbanHarvest,Potential E. coli contamination,II,NY;NV;OR;WA
+R-SYN-0000599,2026-03-26,Greek Yogurt,UrbanHarvest,Packaging integrity issue,III,NY;UT
+R-SYN-0000600,2025-12-23,Organic Spinach,PureRoot,Possible metal fragments,I,OR;NY;CA
+R-SYN-0000601,2025-12-06,Greek Yogurt,TrailJoy,Potential E. coli contamination,II,CO;UT;OR
+R-SYN-0000602,2025-12-18,Organic Spinach,DailySource,Undeclared peanut allergen,I,NV;CO;CA
+R-SYN-0000603,2026-01-14,Organic Spinach,TrailJoy,Packaging integrity issue,I,CA;NY
+R-SYN-0000604,2026-03-13,Organic Spinach,UrbanHarvest,Potential E. coli contamination,I,ALL
+R-SYN-0000605,2026-01-17,Granola Bars,UrbanHarvest,Potential E. coli contamination,I,NY;OR
+R-SYN-0000606,2026-01-12,Greek Yogurt,DailySource,Packaging integrity issue,II,ALL
+R-SYN-0000607,2025-12-23,Granola Bars,UrbanHarvest,Possible metal fragments,III,UT;TX;NY
+R-SYN-0000608,2026-01-30,Greek Yogurt,SunBite,Possible metal fragments,I,WA;CA
+R-SYN-0000609,2026-03-18,Frozen Dumplings,DailySource,Packaging integrity issue,III,NV;AZ;NY
+R-SYN-0000610,2026-01-23,Whole Milk,FarmNest,Packaging integrity issue,II,CO;UT;NV;TX
+R-SYN-0000611,2025-12-08,Protein Shake,PeakFuel,Undeclared peanut allergen,I,ALL
+R-SYN-0000612,2026-01-10,Frozen Dumplings,TrailJoy,Packaging integrity issue,III,AZ;WA;CA
+R-SYN-0000613,2026-01-09,Protein Shake,PeakFuel,Possible metal fragments,II,UT;AZ;NV;CA
+R-SYN-0000614,2026-03-17,Whole Milk,UrbanHarvest,Listeria monocytogenes risk,II,NY;WA
+R-SYN-0000615,2026-02-17,Whole Milk,DailySource,Listeria monocytogenes risk,II,NY;CO;NV
+R-SYN-0000616,2026-01-22,Whole Milk,DailySource,Listeria monocytogenes risk,III,ALL
+R-SYN-0000617,2026-01-24,Granola Bars,UrbanHarvest,Packaging integrity issue,II,AZ;UT;CA;TX
+R-SYN-0000618,2026-02-24,Organic Spinach,UrbanHarvest,Listeria monocytogenes risk,II,NV;NY;OR;CA
+R-SYN-0000619,2025-12-11,Granola Bars,UrbanHarvest,Potential E. coli contamination,I,ALL
+R-SYN-0000620,2025-12-09,Protein Shake,UrbanHarvest,Listeria monocytogenes risk,III,OR;NY;CA;CO
+R-SYN-0000621,2025-12-21,Organic Spinach,TrailJoy,Potential E. coli contamination,II,ALL
+R-SYN-0000622,2026-01-29,Greek Yogurt,TrailJoy,Possible metal fragments,III,OR;AZ;TX;CA
+R-SYN-0000623,2025-12-16,Greek Yogurt,TrailJoy,Potential E. coli contamination,II,TX;CA;NY;CO
+R-SYN-0000624,2026-01-03,Frozen Dumplings,UrbanHarvest,Listeria monocytogenes risk,III,ALL
+R-SYN-0000625,2025-12-23,Granola Bars,Green Valley,Packaging integrity issue,II,AZ;WA
+R-SYN-0000626,2026-03-07,Granola Bars,PeakFuel,Packaging integrity issue,I,OR;NY
+R-SYN-0000627,2026-03-11,Granola Bars,SunBite,Potential E. coli contamination,III,WA;AZ
+R-SYN-0000628,2026-01-20,Whole Milk,PeakFuel,Undeclared peanut allergen,III,WA;NY;CA;CO
+R-SYN-0000629,2026-01-12,Whole Milk,DailySource,Potential E. coli contamination,I,CA;TX;WA;UT
+R-SYN-0000630,2026-03-20,Fresh Salad Mix,PureRoot,Undeclared peanut allergen,II,CO;AZ;NY;NV
+R-SYN-0000631,2025-12-17,Protein Shake,SunBite,Listeria monocytogenes risk,II,ALL
+R-SYN-0000632,2025-12-19,Chicken Nuggets,SunBite,Listeria monocytogenes risk,I,CO;WA;TX
+R-SYN-0000633,2026-03-13,Granola Bars,UrbanHarvest,Listeria monocytogenes risk,I,AZ;CO;WA
+R-SYN-0000634,2026-03-28,Frozen Dumplings,DailySource,Potential E. coli contamination,II,OR;AZ
+R-SYN-0000635,2026-01-13,Greek Yogurt,SunBite,Listeria monocytogenes risk,III,UT;TX;NV
+R-SYN-0000636,2026-02-21,Chicken Nuggets,PureRoot,Packaging integrity issue,II,NY;CO;WA;CA
+R-SYN-0000637,2026-02-16,Protein Shake,PureRoot,Listeria monocytogenes risk,II,WA;NY;AZ;NV
+R-SYN-0000638,2026-03-22,Chicken Nuggets,SunBite,Packaging integrity issue,II,CO;NY
+R-SYN-0000639,2026-02-20,Fresh Salad Mix,SunBite,Packaging integrity issue,I,AZ;CO;UT
+R-SYN-0000640,2026-01-06,Organic Spinach,SunBite,Undeclared peanut allergen,III,CA;NY;AZ;TX
+R-SYN-0000641,2026-02-02,Granola Bars,PureRoot,Packaging integrity issue,II,AZ;OR;CO;UT
+R-SYN-0000642,2026-02-21,Fresh Salad Mix,UrbanHarvest,Potential E. coli contamination,II,NV;NY;UT;CO
+R-SYN-0000643,2026-03-24,Whole Milk,Green Valley,Potential E. coli contamination,II,TX;OR;NV
+R-SYN-0000644,2026-03-28,Protein Shake,PureRoot,Packaging integrity issue,II,NV;UT;WA
+R-SYN-0000645,2026-01-21,Protein Shake,FarmNest,Listeria monocytogenes risk,I,NV;NY;CO
+R-SYN-0000646,2025-12-10,Greek Yogurt,FarmNest,Potential E. coli contamination,I,ALL
+R-SYN-0000647,2025-12-29,Chicken Nuggets,PureRoot,Undeclared peanut allergen,I,CO;NV;OR
+R-SYN-0000648,2026-03-08,Chicken Nuggets,PureRoot,Packaging integrity issue,III,NY;NV
+R-SYN-0000649,2026-01-13,Organic Spinach,DailySource,Undeclared peanut allergen,II,AZ;CA;CO;OR
+R-SYN-0000650,2026-01-29,Whole Milk,SunBite,Packaging integrity issue,II,UT;OR
+R-SYN-0000651,2026-01-31,Frozen Dumplings,SunBite,Undeclared peanut allergen,II,TX;OR;CO;CA
+R-SYN-0000652,2025-12-06,Whole Milk,Green Valley,Listeria monocytogenes risk,II,AZ;NV;NY;CO
+R-SYN-0000653,2026-02-22,Greek Yogurt,Green Valley,Packaging integrity issue,II,OR;CA;AZ;WA
+R-SYN-0000654,2026-01-16,Greek Yogurt,Green Valley,Possible metal fragments,III,CO;TX;UT
+R-SYN-0000655,2026-01-26,Frozen Dumplings,PeakFuel,Possible metal fragments,I,CA;TX;OR
+R-SYN-0000656,2026-03-09,Greek Yogurt,DailySource,Possible metal fragments,III,WA;CO;TX;OR
+R-SYN-0000657,2025-12-11,Organic Spinach,UrbanHarvest,Potential E. coli contamination,III,CO;NV
+R-SYN-0000658,2025-12-23,Fresh Salad Mix,TrailJoy,Listeria monocytogenes risk,II,AZ;CA;UT;NY
+R-SYN-0000659,2025-12-25,Frozen Dumplings,Green Valley,Undeclared peanut allergen,II,UT;WA;CO
+R-SYN-0000660,2026-01-03,Fresh Salad Mix,DailySource,Possible metal fragments,I,OR;CO
+R-SYN-0000661,2026-02-11,Whole Milk,Green Valley,Potential E. coli contamination,III,OR;AZ;NY
+R-SYN-0000662,2026-02-25,Frozen Dumplings,PeakFuel,Packaging integrity issue,II,WA;UT;OR;NY
+R-SYN-0000663,2026-01-04,Greek Yogurt,UrbanHarvest,Packaging integrity issue,I,ALL
+R-SYN-0000664,2026-03-23,Organic Spinach,PureRoot,Potential E. coli contamination,II,WA;OR;NY
+R-SYN-0000665,2026-03-07,Organic Spinach,Green Valley,Packaging integrity issue,I,WA;TX;AZ;CA
+R-SYN-0000666,2026-03-20,Greek Yogurt,PureRoot,Packaging integrity issue,III,NY;OR
+R-SYN-0000667,2026-02-22,Chicken Nuggets,SunBite,Listeria monocytogenes risk,III,AZ;OR;TX
+R-SYN-0000668,2025-12-22,Frozen Dumplings,PeakFuel,Potential E. coli contamination,II,OR;UT
+R-SYN-0000669,2026-03-09,Chicken Nuggets,SunBite,Listeria monocytogenes risk,III,NY;CO;CA
+R-SYN-0000670,2026-03-13,Fresh Salad Mix,TrailJoy,Packaging integrity issue,II,OR;TX;CA;NV
+R-SYN-0000671,2026-03-22,Granola Bars,DailySource,Potential E. coli contamination,III,CA;UT;AZ;WA
+R-SYN-0000672,2026-02-25,Greek Yogurt,UrbanHarvest,Listeria monocytogenes risk,II,CO;NV;WA
+R-SYN-0000673,2025-12-13,Frozen Dumplings,TrailJoy,Potential E. coli contamination,II,TX;AZ;NY
+R-SYN-0000674,2026-01-03,Granola Bars,PureRoot,Potential E. coli contamination,II,AZ;UT
+R-SYN-0000675,2026-03-21,Chicken Nuggets,PeakFuel,Undeclared peanut allergen,I,ALL
+R-SYN-0000676,2026-02-10,Protein Shake,PeakFuel,Listeria monocytogenes risk,III,CO;TX;AZ
+R-SYN-0000677,2026-02-03,Protein Shake,FarmNest,Potential E. coli contamination,I,WA;CO;UT;CA
+R-SYN-0000678,2025-12-20,Granola Bars,DailySource,Packaging integrity issue,III,CA;AZ
+R-SYN-0000679,2026-03-24,Whole Milk,Green Valley,Listeria monocytogenes risk,I,UT;CO;AZ;OR
+R-SYN-0000680,2026-03-12,Protein Shake,SunBite,Potential E. coli contamination,II,CO;CA
+R-SYN-0000681,2026-02-28,Greek Yogurt,Green Valley,Undeclared peanut allergen,II,CO;NY
+R-SYN-0000682,2025-12-15,Frozen Dumplings,SunBite,Potential E. coli contamination,II,TX;WA
+R-SYN-0000683,2026-02-05,Whole Milk,PureRoot,Possible metal fragments,I,NY;AZ;NV;TX
+R-SYN-0000684,2025-12-24,Organic Spinach,FarmNest,Possible metal fragments,I,NY;AZ;OR
+R-SYN-0000685,2026-03-10,Chicken Nuggets,TrailJoy,Packaging integrity issue,I,ALL
+R-SYN-0000686,2025-12-13,Fresh Salad Mix,FarmNest,Potential E. coli contamination,III,ALL
+R-SYN-0000687,2026-03-31,Greek Yogurt,SunBite,Packaging integrity issue,III,NY;WA;TX
+R-SYN-0000688,2026-01-09,Granola Bars,DailySource,Listeria monocytogenes risk,I,CA;NY;AZ;WA
+R-SYN-0000689,2026-01-12,Frozen Dumplings,PeakFuel,Possible metal fragments,II,TX;UT
+R-SYN-0000690,2026-01-11,Whole Milk,TrailJoy,Listeria monocytogenes risk,II,CA;WA;UT
+R-SYN-0000691,2025-12-20,Greek Yogurt,DailySource,Listeria monocytogenes risk,I,CA;AZ
+R-SYN-0000692,2026-02-23,Protein Shake,PureRoot,Possible metal fragments,I,CA;TX;AZ
+R-SYN-0000693,2026-03-25,Greek Yogurt,FarmNest,Potential E. coli contamination,II,ALL
+R-SYN-0000694,2025-12-07,Protein Shake,DailySource,Packaging integrity issue,II,AZ;WA;NV;CA
+R-SYN-0000695,2026-02-18,Protein Shake,SunBite,Undeclared peanut allergen,II,WA;TX;UT
+R-SYN-0000696,2026-01-16,Chicken Nuggets,Green Valley,Listeria monocytogenes risk,I,NY;NV;UT
+R-SYN-0000697,2026-03-14,Chicken Nuggets,TrailJoy,Possible metal fragments,III,CA;UT
+R-SYN-0000698,2026-02-24,Greek Yogurt,SunBite,Listeria monocytogenes risk,II,WA;OR;CO
+R-SYN-0000699,2026-03-11,Greek Yogurt,TrailJoy,Potential E. coli contamination,II,CO;UT
+R-SYN-0000700,2026-02-24,Organic Spinach,PureRoot,Undeclared peanut allergen,I,NY;CA
+R-SYN-0000701,2026-02-06,Organic Spinach,Green Valley,Listeria monocytogenes risk,II,UT;NV;WA
+R-SYN-0000702,2025-12-18,Frozen Dumplings,DailySource,Listeria monocytogenes risk,I,NV;WA
+R-SYN-0000703,2026-03-15,Whole Milk,PeakFuel,Undeclared peanut allergen,II,ALL
+R-SYN-0000704,2026-01-29,Granola Bars,FarmNest,Listeria monocytogenes risk,III,CO;UT
+R-SYN-0000705,2025-12-23,Greek Yogurt,PureRoot,Undeclared peanut allergen,II,CA;TX;WA
+R-SYN-0000706,2025-12-07,Whole Milk,Green Valley,Possible metal fragments,II,UT;WA;NV;AZ
+R-SYN-0000707,2026-03-21,Whole Milk,Green Valley,Packaging integrity issue,III,TX;NV
+R-SYN-0000708,2026-02-13,Chicken Nuggets,Green Valley,Possible metal fragments,II,TX;WA;UT;NY
+R-SYN-0000709,2026-03-01,Frozen Dumplings,DailySource,Packaging integrity issue,III,WA;AZ;NY;NV
+R-SYN-0000710,2026-01-26,Fresh Salad Mix,PeakFuel,Potential E. coli contamination,I,UT;TX;WA
+R-SYN-0000711,2025-12-31,Granola Bars,DailySource,Packaging integrity issue,II,TX;WA;CO;CA
+R-SYN-0000712,2026-03-21,Fresh Salad Mix,FarmNest,Possible metal fragments,III,ALL
+R-SYN-0000713,2026-03-10,Granola Bars,SunBite,Undeclared peanut allergen,II,CA;OR;WA;AZ
+R-SYN-0000714,2026-01-21,Greek Yogurt,DailySource,Possible metal fragments,II,OR;WA
+R-SYN-0000715,2026-03-23,Organic Spinach,TrailJoy,Packaging integrity issue,II,AZ;CO;OR
+R-SYN-0000716,2026-01-05,Chicken Nuggets,DailySource,Possible metal fragments,II,NY;OR;TX
+R-SYN-0000717,2026-01-29,Whole Milk,PeakFuel,Potential E. coli contamination,I,NY;OR
+R-SYN-0000718,2026-03-08,Greek Yogurt,FarmNest,Undeclared peanut allergen,I,ALL
+R-SYN-0000719,2026-02-19,Greek Yogurt,DailySource,Possible metal fragments,II,CA;AZ;NY;TX
+R-SYN-0000720,2026-02-12,Chicken Nuggets,FarmNest,Packaging integrity issue,I,CO;NY;WA
+R-SYN-0000721,2025-12-03,Whole Milk,FarmNest,Potential E. coli contamination,III,AZ;OR;WA;NY
+R-SYN-0000722,2025-12-01,Greek Yogurt,DailySource,Possible metal fragments,II,NY;TX
+R-SYN-0000723,2026-02-20,Organic Spinach,PureRoot,Packaging integrity issue,III,AZ;CA
+R-SYN-0000724,2026-01-13,Protein Shake,TrailJoy,Possible metal fragments,I,ALL
+R-SYN-0000725,2025-12-13,Chicken Nuggets,SunBite,Packaging integrity issue,II,UT;CA;AZ;NY
+R-SYN-0000726,2026-02-09,Greek Yogurt,PureRoot,Possible metal fragments,II,ALL
+R-SYN-0000727,2026-02-15,Whole Milk,PeakFuel,Listeria monocytogenes risk,III,ALL
+R-SYN-0000728,2025-12-28,Chicken Nuggets,PureRoot,Listeria monocytogenes risk,I,NV;NY;UT
+R-SYN-0000729,2026-01-15,Frozen Dumplings,FarmNest,Undeclared peanut allergen,I,AZ;TX;OR;WA
+R-SYN-0000730,2026-03-20,Organic Spinach,PureRoot,Possible metal fragments,II,NY;WA;TX;CO
+R-SYN-0000731,2026-02-22,Chicken Nuggets,Green Valley,Possible metal fragments,III,CO;WA;CA;NV
+R-SYN-0000732,2026-03-12,Granola Bars,PeakFuel,Listeria monocytogenes risk,I,NV;NY;WA
+R-SYN-0000733,2025-12-05,Protein Shake,Green Valley,Potential E. coli contamination,II,AZ;CO
+R-SYN-0000734,2026-01-18,Fresh Salad Mix,PeakFuel,Listeria monocytogenes risk,III,UT;CA;NV
+R-SYN-0000735,2026-02-26,Greek Yogurt,Green Valley,Undeclared peanut allergen,I,AZ;NY
+R-SYN-0000736,2026-03-25,Granola Bars,UrbanHarvest,Listeria monocytogenes risk,II,OR;UT
+R-SYN-0000737,2026-01-23,Frozen Dumplings,TrailJoy,Undeclared peanut allergen,II,UT;AZ
+R-SYN-0000738,2025-12-10,Whole Milk,PeakFuel,Possible metal fragments,II,UT;AZ
+R-SYN-0000739,2025-12-16,Greek Yogurt,Green Valley,Undeclared peanut allergen,II,NV;AZ;TX
+R-SYN-0000740,2026-03-18,Protein Shake,FarmNest,Packaging integrity issue,I,UT;TX;WA;NV
+R-SYN-0000741,2025-12-04,Frozen Dumplings,SunBite,Undeclared peanut allergen,III,AZ;NY;NV
+R-SYN-0000742,2026-02-03,Whole Milk,FarmNest,Possible metal fragments,I,NY;UT
+R-SYN-0000743,2026-01-02,Protein Shake,PeakFuel,Undeclared peanut allergen,I,TX;UT;CA
+R-SYN-0000744,2025-12-22,Chicken Nuggets,PureRoot,Potential E. coli contamination,I,ALL
+R-SYN-0000745,2026-01-06,Organic Spinach,DailySource,Potential E. coli contamination,III,ALL
+R-SYN-0000746,2026-02-21,Organic Spinach,SunBite,Potential E. coli contamination,III,NY;AZ
+R-SYN-0000747,2026-03-28,Frozen Dumplings,FarmNest,Possible metal fragments,III,UT;WA
+R-SYN-0000748,2026-01-26,Frozen Dumplings,SunBite,Packaging integrity issue,II,WA;OR;TX;CO
+R-SYN-0000749,2026-03-31,Frozen Dumplings,TrailJoy,Packaging integrity issue,III,NY;CO;AZ;CA
+R-SYN-0000750,2026-03-08,Whole Milk,PureRoot,Listeria monocytogenes risk,I,AZ;TX
+R-SYN-0000751,2026-01-31,Frozen Dumplings,FarmNest,Listeria monocytogenes risk,II,CA;TX;NY;WA
+R-SYN-0000752,2026-03-17,Fresh Salad Mix,PeakFuel,Listeria monocytogenes risk,II,WA;NV;NY
+R-SYN-0000753,2025-12-12,Fresh Salad Mix,TrailJoy,Potential E. coli contamination,III,AZ;NY;CA;UT
+R-SYN-0000754,2026-01-28,Frozen Dumplings,PureRoot,Listeria monocytogenes risk,II,NY;NV
+R-SYN-0000755,2026-02-08,Frozen Dumplings,FarmNest,Potential E. coli contamination,II,NV;TX
+R-SYN-0000756,2026-03-02,Fresh Salad Mix,DailySource,Possible metal fragments,II,OR;NV;NY;WA
+R-SYN-0000757,2026-01-05,Fresh Salad Mix,DailySource,Packaging integrity issue,I,TX;OR
+R-SYN-0000758,2026-01-28,Chicken Nuggets,TrailJoy,Undeclared peanut allergen,I,CO;CA
+R-SYN-0000759,2026-03-09,Fresh Salad Mix,UrbanHarvest,Undeclared peanut allergen,I,UT;CO
+R-SYN-0000760,2025-12-20,Chicken Nuggets,TrailJoy,Possible metal fragments,II,UT;AZ;NV
+R-SYN-0000761,2025-12-11,Organic Spinach,Green Valley,Listeria monocytogenes risk,III,ALL
+R-SYN-0000762,2026-02-02,Whole Milk,PureRoot,Listeria monocytogenes risk,II,ALL
+R-SYN-0000763,2026-01-19,Granola Bars,FarmNest,Listeria monocytogenes risk,II,CO;TX;OR
+R-SYN-0000764,2026-01-04,Chicken Nuggets,DailySource,Listeria monocytogenes risk,II,NV;OR
+R-SYN-0000765,2026-01-27,Fresh Salad Mix,UrbanHarvest,Possible metal fragments,I,ALL
+R-SYN-0000766,2026-03-26,Greek Yogurt,UrbanHarvest,Possible metal fragments,III,AZ;NV;CA;WA
+R-SYN-0000767,2026-02-15,Whole Milk,PureRoot,Possible metal fragments,I,OR;TX
+R-SYN-0000768,2025-12-05,Frozen Dumplings,PeakFuel,Potential E. coli contamination,I,ALL
+R-SYN-0000769,2026-02-18,Organic Spinach,DailySource,Listeria monocytogenes risk,II,CA;CO;OR
+R-SYN-0000770,2026-03-29,Whole Milk,PureRoot,Packaging integrity issue,II,TX;WA;NY
+R-SYN-0000771,2026-01-27,Whole Milk,FarmNest,Packaging integrity issue,I,CO;TX
+R-SYN-0000772,2025-12-14,Protein Shake,PeakFuel,Possible metal fragments,I,WA;TX;AZ
+R-SYN-0000773,2025-12-13,Frozen Dumplings,UrbanHarvest,Possible metal fragments,I,NV;WA;NY
+R-SYN-0000774,2025-12-20,Frozen Dumplings,PeakFuel,Packaging integrity issue,III,AZ;WA;CO;NV
+R-SYN-0000775,2026-02-27,Chicken Nuggets,FarmNest,Potential E. coli contamination,II,CO;WA
+R-SYN-0000776,2026-01-06,Chicken Nuggets,PeakFuel,Packaging integrity issue,III,CA;WA;NY
+R-SYN-0000777,2026-01-31,Greek Yogurt,TrailJoy,Undeclared peanut allergen,II,NV;AZ;UT
+R-SYN-0000778,2025-12-15,Frozen Dumplings,TrailJoy,Listeria monocytogenes risk,I,OR;WA
+R-SYN-0000779,2026-02-08,Protein Shake,SunBite,Undeclared peanut allergen,I,CO;UT;OR
+R-SYN-0000780,2026-02-04,Fresh Salad Mix,Green Valley,Undeclared peanut allergen,I,OR;NY;AZ
+R-SYN-0000781,2025-12-12,Organic Spinach,DailySource,Potential E. coli contamination,I,OR;TX;WA
+R-SYN-0000782,2025-12-07,Whole Milk,SunBite,Listeria monocytogenes risk,III,WA;TX
+R-SYN-0000783,2026-01-17,Frozen Dumplings,PeakFuel,Listeria monocytogenes risk,III,AZ;UT
+R-SYN-0000784,2025-12-15,Fresh Salad Mix,TrailJoy,Listeria monocytogenes risk,I,ALL
+R-SYN-0000785,2026-03-04,Granola Bars,DailySource,Listeria monocytogenes risk,I,UT;AZ;CO
+R-SYN-0000786,2026-03-17,Whole Milk,PureRoot,Listeria monocytogenes risk,II,AZ;CO
+R-SYN-0000787,2025-12-30,Whole Milk,PeakFuel,Potential E. coli contamination,II,CA;WA
+R-SYN-0000788,2026-02-27,Fresh Salad Mix,PeakFuel,Possible metal fragments,III,WA;CO;UT;CA
+R-SYN-0000789,2025-12-05,Fresh Salad Mix,PeakFuel,Possible metal fragments,I,OR;WA
+R-SYN-0000790,2025-12-11,Greek Yogurt,DailySource,Possible metal fragments,III,CA;OR;NV
+R-SYN-0000791,2026-03-21,Chicken Nuggets,DailySource,Listeria monocytogenes risk,III,TX;NY;AZ
+R-SYN-0000792,2026-02-26,Frozen Dumplings,UrbanHarvest,Listeria monocytogenes risk,II,AZ;CO;UT;CA
+R-SYN-0000793,2025-12-24,Organic Spinach,FarmNest,Listeria monocytogenes risk,II,WA;OR;NY
+R-SYN-0000794,2026-01-17,Frozen Dumplings,SunBite,Undeclared peanut allergen,I,NY;NV;CO;UT
+R-SYN-0000795,2026-02-02,Chicken Nuggets,FarmNest,Possible metal fragments,I,OR;WA;CA
+R-SYN-0000796,2026-02-06,Whole Milk,FarmNest,Listeria monocytogenes risk,III,WA;CA;CO;OR
+R-SYN-0000797,2026-01-08,Protein Shake,SunBite,Listeria monocytogenes risk,I,CA;NV
+R-SYN-0000798,2026-01-11,Fresh Salad Mix,PeakFuel,Undeclared peanut allergen,I,TX;CA;AZ;OR
+R-SYN-0000799,2026-02-04,Chicken Nuggets,DailySource,Potential E. coli contamination,I,OR;CO;WA
+R-SYN-0000800,2026-03-15,Fresh Salad Mix,TrailJoy,Packaging integrity issue,I,WA;NV;TX;UT
+R-SYN-0000801,2025-12-20,Greek Yogurt,Green Valley,Possible metal fragments,III,WA;AZ;OR
+R-SYN-0000802,2026-01-03,Chicken Nuggets,SunBite,Potential E. coli contamination,II,NV;WA;AZ;CO
+R-SYN-0000803,2025-12-31,Fresh Salad Mix,PeakFuel,Potential E. coli contamination,I,ALL
+R-SYN-0000804,2026-02-17,Protein Shake,DailySource,Possible metal fragments,III,CA;UT;NY;OR
+R-SYN-0000805,2026-01-11,Fresh Salad Mix,PeakFuel,Listeria monocytogenes risk,II,CA;NY;CO;TX
+R-SYN-0000806,2026-01-26,Chicken Nuggets,UrbanHarvest,Listeria monocytogenes risk,I,NV;NY;CO;CA
+R-SYN-0000807,2026-02-19,Organic Spinach,FarmNest,Listeria monocytogenes risk,III,AZ;NV;NY;CO
+R-SYN-0000808,2026-01-12,Granola Bars,UrbanHarvest,Listeria monocytogenes risk,III,NY;CO;CA
+R-SYN-0000809,2026-03-07,Greek Yogurt,Green Valley,Undeclared peanut allergen,I,CO;NV
+R-SYN-0000810,2026-03-17,Chicken Nuggets,Green Valley,Listeria monocytogenes risk,II,CO;UT;CA
+R-SYN-0000811,2025-12-13,Greek Yogurt,SunBite,Possible metal fragments,I,NY;OR
+R-SYN-0000812,2026-01-18,Protein Shake,Green Valley,Packaging integrity issue,II,WA;CO
+R-SYN-0000813,2026-01-04,Frozen Dumplings,UrbanHarvest,Potential E. coli contamination,I,NV;AZ
+R-SYN-0000814,2026-01-15,Frozen Dumplings,UrbanHarvest,Undeclared peanut allergen,I,CO;UT;AZ;NY
+R-SYN-0000815,2026-01-14,Organic Spinach,UrbanHarvest,Potential E. coli contamination,II,NY;WA;NV
+R-SYN-0000816,2026-03-25,Granola Bars,UrbanHarvest,Potential E. coli contamination,II,NV;TX;WA;NY
+R-SYN-0000817,2026-03-09,Protein Shake,PureRoot,Potential E. coli contamination,I,NV;OR;AZ
+R-SYN-0000818,2025-12-25,Greek Yogurt,SunBite,Possible metal fragments,II,NY;AZ;CO
+R-SYN-0000819,2026-03-19,Whole Milk,TrailJoy,Listeria monocytogenes risk,II,NV;TX;UT
+R-SYN-0000820,2026-02-05,Whole Milk,FarmNest,Listeria monocytogenes risk,II,ALL
+R-SYN-0000821,2026-01-25,Whole Milk,DailySource,Undeclared peanut allergen,II,UT;TX;NY
+R-SYN-0000822,2026-01-31,Fresh Salad Mix,SunBite,Listeria monocytogenes risk,I,OR;WA;UT;CO
+R-SYN-0000823,2026-02-22,Organic Spinach,SunBite,Potential E. coli contamination,II,TX;CO;AZ
+R-SYN-0000824,2025-12-29,Granola Bars,UrbanHarvest,Possible metal fragments,II,TX;CO
+R-SYN-0000825,2026-03-09,Greek Yogurt,PureRoot,Potential E. coli contamination,I,AZ;CO;NV
+R-SYN-0000826,2026-01-05,Chicken Nuggets,PeakFuel,Possible metal fragments,III,WA;NY
+R-SYN-0000827,2026-03-21,Granola Bars,SunBite,Listeria monocytogenes risk,II,ALL
+R-SYN-0000828,2026-03-17,Organic Spinach,FarmNest,Listeria monocytogenes risk,II,CO;OR;UT;NV
+R-SYN-0000829,2026-02-13,Fresh Salad Mix,PeakFuel,Potential E. coli contamination,I,ALL
+R-SYN-0000830,2026-03-17,Organic Spinach,TrailJoy,Potential E. coli contamination,I,WA;NV;CO;AZ
+R-SYN-0000831,2025-12-12,Protein Shake,SunBite,Possible metal fragments,II,CA;TX;CO
+R-SYN-0000832,2025-12-06,Greek Yogurt,DailySource,Listeria monocytogenes risk,II,WA;UT;NY;OR
+R-SYN-0000833,2025-12-15,Fresh Salad Mix,Green Valley,Possible metal fragments,I,NV;UT;CO;WA
+R-SYN-0000834,2025-12-27,Granola Bars,Green Valley,Listeria monocytogenes risk,II,CO;WA;AZ;CA
+R-SYN-0000835,2026-01-23,Organic Spinach,PureRoot,Packaging integrity issue,I,ALL
+R-SYN-0000836,2025-12-07,Fresh Salad Mix,DailySource,Potential E. coli contamination,II,CO;NV;CA
+R-SYN-0000837,2026-03-11,Granola Bars,TrailJoy,Listeria monocytogenes risk,I,AZ;CO
+R-SYN-0000838,2026-03-15,Granola Bars,PureRoot,Listeria monocytogenes risk,III,AZ;CO;NV;TX
+R-SYN-0000839,2026-01-11,Protein Shake,PeakFuel,Potential E. coli contamination,II,NY;CO
+R-SYN-0000840,2026-03-19,Fresh Salad Mix,DailySource,Possible metal fragments,I,AZ;OR
+R-SYN-0000841,2026-02-14,Greek Yogurt,FarmNest,Packaging integrity issue,I,ALL
+R-SYN-0000842,2026-02-04,Frozen Dumplings,TrailJoy,Potential E. coli contamination,II,AZ;CA;NV
+R-SYN-0000843,2025-12-09,Granola Bars,FarmNest,Packaging integrity issue,II,ALL
+R-SYN-0000844,2026-03-25,Chicken Nuggets,DailySource,Potential E. coli contamination,III,TX;CA;OR;CO
+R-SYN-0000845,2026-03-10,Frozen Dumplings,TrailJoy,Possible metal fragments,I,UT;CO;AZ
+R-SYN-0000846,2025-12-10,Frozen Dumplings,FarmNest,Possible metal fragments,I,CO;NV
+R-SYN-0000847,2025-12-23,Organic Spinach,TrailJoy,Listeria monocytogenes risk,I,OR;AZ
+R-SYN-0000848,2025-12-30,Fresh Salad Mix,UrbanHarvest,Undeclared peanut allergen,I,WA;NY;NV
+R-SYN-0000849,2026-02-05,Fresh Salad Mix,PureRoot,Listeria monocytogenes risk,III,AZ;CA;WA;TX
+R-SYN-0000850,2025-12-23,Organic Spinach,SunBite,Potential E. coli contamination,I,NV;CA
+R-SYN-0000851,2026-02-09,Organic Spinach,FarmNest,Packaging integrity issue,I,UT;OR;WA;NV
+R-SYN-0000852,2025-12-08,Granola Bars,UrbanHarvest,Possible metal fragments,I,NY;NV;WA;AZ
+R-SYN-0000853,2026-03-05,Chicken Nuggets,UrbanHarvest,Listeria monocytogenes risk,II,CA;AZ
+R-SYN-0000854,2026-02-10,Greek Yogurt,PeakFuel,Undeclared peanut allergen,I,AZ;NY;CA;NV
+R-SYN-0000855,2025-12-08,Granola Bars,TrailJoy,Possible metal fragments,II,CA;AZ
+R-SYN-0000856,2026-02-26,Whole Milk,SunBite,Potential E. coli contamination,II,OR;CA;WA
+R-SYN-0000857,2026-02-16,Protein Shake,TrailJoy,Possible metal fragments,I,NY;NV;OR;AZ
+R-SYN-0000858,2026-02-28,Frozen Dumplings,UrbanHarvest,Packaging integrity issue,II,CO;TX;UT
+R-SYN-0000859,2025-12-30,Fresh Salad Mix,PureRoot,Potential E. coli contamination,I,CO;WA
+R-SYN-0000860,2026-02-02,Frozen Dumplings,UrbanHarvest,Packaging integrity issue,II,OR;CO;AZ
+R-SYN-0000861,2026-02-05,Chicken Nuggets,DailySource,Listeria monocytogenes risk,III,CO;UT
+R-SYN-0000862,2026-03-15,Frozen Dumplings,TrailJoy,Listeria monocytogenes risk,II,AZ;TX;OR;WA
+R-SYN-0000863,2026-03-17,Frozen Dumplings,UrbanHarvest,Packaging integrity issue,I,AZ;OR
+R-SYN-0000864,2026-02-12,Granola Bars,PeakFuel,Listeria monocytogenes risk,I,NV;CA;NY;UT
+R-SYN-0000865,2026-03-04,Greek Yogurt,DailySource,Potential E. coli contamination,I,NV;CO
+R-SYN-0000866,2026-01-17,Granola Bars,DailySource,Possible metal fragments,II,NY;UT;OR;AZ
+R-SYN-0000867,2026-02-01,Chicken Nuggets,DailySource,Undeclared peanut allergen,III,NV;UT;TX;WA
+R-SYN-0000868,2026-02-16,Organic Spinach,DailySource,Possible metal fragments,II,CA;OR;CO;AZ
+R-SYN-0000869,2026-03-16,Frozen Dumplings,TrailJoy,Packaging integrity issue,II,UT;WA;NV;CO
+R-SYN-0000870,2026-01-26,Organic Spinach,SunBite,Packaging integrity issue,I,ALL
+R-SYN-0000871,2025-12-21,Protein Shake,TrailJoy,Packaging integrity issue,II,AZ;NV;OR;CA
+R-SYN-0000872,2026-01-28,Organic Spinach,UrbanHarvest,Listeria monocytogenes risk,I,ALL
+R-SYN-0000873,2026-01-23,Whole Milk,PureRoot,Possible metal fragments,I,NY;OR;TX;NV
+R-SYN-0000874,2026-02-27,Frozen Dumplings,FarmNest,Possible metal fragments,III,AZ;NY
+R-SYN-0000875,2026-03-28,Organic Spinach,PeakFuel,Listeria monocytogenes risk,I,OR;NV;CO
+R-SYN-0000876,2025-12-06,Frozen Dumplings,Green Valley,Undeclared peanut allergen,I,CO;NV
+R-SYN-0000877,2026-03-17,Granola Bars,Green Valley,Possible metal fragments,II,CA;NV;AZ
+R-SYN-0000878,2026-03-02,Organic Spinach,PeakFuel,Packaging integrity issue,III,UT;NY
+R-SYN-0000879,2026-02-21,Fresh Salad Mix,DailySource,Potential E. coli contamination,III,AZ;NY
+R-SYN-0000880,2025-12-21,Protein Shake,PureRoot,Packaging integrity issue,II,ALL
+R-SYN-0000881,2026-01-31,Granola Bars,FarmNest,Potential E. coli contamination,I,OR;NV;NY
+R-SYN-0000882,2025-12-14,Protein Shake,PeakFuel,Potential E. coli contamination,I,OR;TX
+R-SYN-0000883,2026-02-09,Frozen Dumplings,FarmNest,Packaging integrity issue,III,UT;AZ
+R-SYN-0000884,2025-12-08,Whole Milk,PeakFuel,Listeria monocytogenes risk,I,AZ;WA;CO
+R-SYN-0000885,2026-01-14,Whole Milk,Green Valley,Undeclared peanut allergen,II,ALL
+R-SYN-0000886,2026-01-30,Organic Spinach,Green Valley,Undeclared peanut allergen,II,CO;NV;OR;CA
+R-SYN-0000887,2025-12-21,Frozen Dumplings,Green Valley,Listeria monocytogenes risk,II,AZ;NV;TX
+R-SYN-0000888,2025-12-14,Organic Spinach,SunBite,Listeria monocytogenes risk,II,WA;CA
+R-SYN-0000889,2025-12-24,Granola Bars,UrbanHarvest,Undeclared peanut allergen,I,WA;UT;CO
+R-SYN-0000890,2026-02-13,Organic Spinach,PeakFuel,Listeria monocytogenes risk,III,CA;WA
+R-SYN-0000891,2025-12-16,Fresh Salad Mix,SunBite,Possible metal fragments,II,WA;NY;CA;OR
+R-SYN-0000892,2026-03-15,Frozen Dumplings,FarmNest,Possible metal fragments,III,OR;WA;NV;AZ
+R-SYN-0000893,2026-03-29,Granola Bars,DailySource,Potential E. coli contamination,III,CA;AZ;WA;NV
+R-SYN-0000894,2026-02-24,Frozen Dumplings,DailySource,Listeria monocytogenes risk,II,WA;CA;NY;UT
+R-SYN-0000895,2026-01-22,Chicken Nuggets,UrbanHarvest,Potential E. coli contamination,II,CA;WA;AZ;CO
+R-SYN-0000896,2026-03-22,Protein Shake,TrailJoy,Undeclared peanut allergen,I,ALL
+R-SYN-0000897,2026-01-10,Frozen Dumplings,Green Valley,Listeria monocytogenes risk,II,ALL
+R-SYN-0000898,2025-12-19,Whole Milk,PeakFuel,Undeclared peanut allergen,I,CA;AZ;OR
+R-SYN-0000899,2025-12-20,Protein Shake,SunBite,Packaging integrity issue,II,CO;TX;CA;NV
+R-SYN-0000900,2025-12-04,Organic Spinach,PureRoot,Possible metal fragments,III,CA;CO
+R-SYN-0000901,2026-03-24,Granola Bars,PureRoot,Potential E. coli contamination,I,ALL
+R-SYN-0000902,2026-03-25,Granola Bars,PureRoot,Listeria monocytogenes risk,I,CA;CO
+R-SYN-0000903,2026-02-10,Chicken Nuggets,PureRoot,Packaging integrity issue,II,CA;CO;OR;NY
+R-SYN-0000904,2026-01-15,Protein Shake,SunBite,Potential E. coli contamination,I,WA;NY;AZ;OR
+R-SYN-0000905,2026-02-27,Whole Milk,PureRoot,Listeria monocytogenes risk,II,NY;CA
+R-SYN-0000906,2026-03-24,Greek Yogurt,PeakFuel,Packaging integrity issue,II,OR;NY;TX
+R-SYN-0000907,2026-01-30,Granola Bars,UrbanHarvest,Possible metal fragments,II,ALL
+R-SYN-0000908,2026-01-15,Greek Yogurt,Green Valley,Undeclared peanut allergen,II,NV;AZ
+R-SYN-0000909,2026-03-06,Protein Shake,TrailJoy,Potential E. coli contamination,I,CO;AZ;NV;OR
+R-SYN-0000910,2026-01-18,Whole Milk,PeakFuel,Listeria monocytogenes risk,I,ALL
+R-SYN-0000911,2025-12-09,Organic Spinach,DailySource,Undeclared peanut allergen,III,WA;CO;OR;TX
+R-SYN-0000912,2026-03-01,Chicken Nuggets,UrbanHarvest,Listeria monocytogenes risk,I,AZ;CA
+R-SYN-0000913,2026-03-22,Whole Milk,Green Valley,Packaging integrity issue,I,AZ;CA
+R-SYN-0000914,2026-03-28,Protein Shake,TrailJoy,Possible metal fragments,I,NY;AZ;NV;OR
+R-SYN-0000915,2026-02-28,Greek Yogurt,TrailJoy,Potential E. coli contamination,I,CA;NY
+R-SYN-0000916,2026-02-11,Frozen Dumplings,UrbanHarvest,Undeclared peanut allergen,I,NY;NV;AZ
+R-SYN-0000917,2026-03-23,Frozen Dumplings,FarmNest,Undeclared peanut allergen,II,AZ;UT;OR
+R-SYN-0000918,2026-02-05,Protein Shake,Green Valley,Packaging integrity issue,II,NY;AZ;TX
+R-SYN-0000919,2026-03-25,Granola Bars,FarmNest,Packaging integrity issue,III,TX;CO
+R-SYN-0000920,2025-12-20,Frozen Dumplings,FarmNest,Packaging integrity issue,II,AZ;CO;OR;WA
+R-SYN-0000921,2026-03-09,Whole Milk,UrbanHarvest,Packaging integrity issue,II,CO;OR;UT
+R-SYN-0000922,2026-02-08,Organic Spinach,TrailJoy,Undeclared peanut allergen,III,NV;WA
+R-SYN-0000923,2026-02-20,Fresh Salad Mix,PureRoot,Packaging integrity issue,I,UT;TX;CO
+R-SYN-0000924,2025-12-25,Frozen Dumplings,PeakFuel,Listeria monocytogenes risk,II,CO;AZ
+R-SYN-0000925,2026-02-05,Chicken Nuggets,DailySource,Listeria monocytogenes risk,II,OR;NV;CA
+R-SYN-0000926,2026-03-09,Chicken Nuggets,TrailJoy,Possible metal fragments,II,OR;TX
+R-SYN-0000927,2025-12-21,Granola Bars,TrailJoy,Potential E. coli contamination,I,WA;AZ;TX;CO
+R-SYN-0000928,2026-02-17,Granola Bars,PeakFuel,Possible metal fragments,I,UT;OR
+R-SYN-0000929,2026-03-30,Granola Bars,PeakFuel,Possible metal fragments,II,CA;CO;AZ
+R-SYN-0000930,2026-01-25,Greek Yogurt,PureRoot,Undeclared peanut allergen,I,WA;CO;AZ
+R-SYN-0000931,2025-12-17,Chicken Nuggets,UrbanHarvest,Potential E. coli contamination,I,NV;WA;CO;UT
+R-SYN-0000932,2025-12-12,Organic Spinach,UrbanHarvest,Undeclared peanut allergen,II,CA;CO;NV;AZ
+R-SYN-0000933,2025-12-15,Whole Milk,UrbanHarvest,Undeclared peanut allergen,II,UT;OR;NY
+R-SYN-0000934,2026-01-15,Organic Spinach,Green Valley,Undeclared peanut allergen,I,NV;UT;TX
+R-SYN-0000935,2026-02-09,Frozen Dumplings,PureRoot,Undeclared peanut allergen,II,OR;TX;CO
+R-SYN-0000936,2026-03-18,Greek Yogurt,Green Valley,Packaging integrity issue,II,NV;OR
+R-SYN-0000937,2026-03-05,Protein Shake,PeakFuel,Packaging integrity issue,I,ALL
+R-SYN-0000938,2026-01-24,Organic Spinach,FarmNest,Possible metal fragments,III,TX;NY
+R-SYN-0000939,2026-01-22,Fresh Salad Mix,DailySource,Potential E. coli contamination,II,NY;WA
+R-SYN-0000940,2026-02-20,Fresh Salad Mix,DailySource,Undeclared peanut allergen,II,WA;CO;NY;TX
+R-SYN-0000941,2026-03-31,Greek Yogurt,DailySource,Potential E. coli contamination,III,UT;AZ
+R-SYN-0000942,2025-12-05,Chicken Nuggets,DailySource,Listeria monocytogenes risk,II,CO;AZ;UT
+R-SYN-0000943,2025-12-14,Granola Bars,PureRoot,Packaging integrity issue,III,WA;NY;OR
+R-SYN-0000944,2025-12-28,Fresh Salad Mix,DailySource,Listeria monocytogenes risk,III,TX;NV;AZ;CA
+R-SYN-0000945,2026-03-01,Greek Yogurt,PeakFuel,Packaging integrity issue,I,WA;CO;UT;OR
+R-SYN-0000946,2026-03-16,Whole Milk,SunBite,Potential E. coli contamination,II,CO;NY;UT
+R-SYN-0000947,2026-03-05,Organic Spinach,DailySource,Potential E. coli contamination,I,CO;NV;NY;AZ
+R-SYN-0000948,2026-02-08,Protein Shake,PureRoot,Potential E. coli contamination,I,ALL
+R-SYN-0000949,2025-12-04,Greek Yogurt,UrbanHarvest,Listeria monocytogenes risk,II,ALL
+R-SYN-0000950,2026-01-20,Protein Shake,DailySource,Undeclared peanut allergen,II,NY;CA
+R-SYN-0000951,2026-01-13,Frozen Dumplings,FarmNest,Possible metal fragments,I,TX;CA
+R-SYN-0000952,2026-01-04,Granola Bars,FarmNest,Listeria monocytogenes risk,II,UT;WA
+R-SYN-0000953,2026-02-03,Organic Spinach,SunBite,Listeria monocytogenes risk,II,CA;UT;NV;WA
+R-SYN-0000954,2025-12-23,Protein Shake,TrailJoy,Possible metal fragments,III,NV;CA
+R-SYN-0000955,2026-03-30,Whole Milk,TrailJoy,Potential E. coli contamination,I,NY;UT;CA;WA
+R-SYN-0000956,2026-01-25,Frozen Dumplings,UrbanHarvest,Possible metal fragments,II,UT;NV
+R-SYN-0000957,2025-12-01,Fresh Salad Mix,SunBite,Undeclared peanut allergen,I,CA;NV
+R-SYN-0000958,2026-01-07,Whole Milk,Green Valley,Listeria monocytogenes risk,I,OR;AZ;CA;NV
+R-SYN-0000959,2025-12-08,Protein Shake,PureRoot,Possible metal fragments,II,UT;NY
+R-SYN-0000960,2026-02-27,Frozen Dumplings,UrbanHarvest,Listeria monocytogenes risk,II,NY;AZ;TX;CO
+R-SYN-0000961,2025-12-24,Whole Milk,DailySource,Potential E. coli contamination,I,CO;NV;OR;AZ
+R-SYN-0000962,2025-12-27,Protein Shake,Green Valley,Undeclared peanut allergen,I,OR;WA
+R-SYN-0000963,2025-12-27,Fresh Salad Mix,TrailJoy,Packaging integrity issue,I,OR;WA;TX
+R-SYN-0000964,2026-02-11,Protein Shake,Green Valley,Undeclared peanut allergen,III,AZ;NY;CO
+R-SYN-0000965,2026-02-19,Organic Spinach,PureRoot,Possible metal fragments,II,AZ;UT;TX;NV
+R-SYN-0000966,2026-01-21,Organic Spinach,TrailJoy,Undeclared peanut allergen,II,NY;CO;AZ
+R-SYN-0000967,2026-03-31,Frozen Dumplings,DailySource,Potential E. coli contamination,III,ALL
+R-SYN-0000968,2026-03-13,Protein Shake,FarmNest,Potential E. coli contamination,I,WA;TX
+R-SYN-0000969,2026-02-05,Chicken Nuggets,PeakFuel,Undeclared peanut allergen,II,WA;OR
+R-SYN-0000970,2026-02-23,Chicken Nuggets,TrailJoy,Possible metal fragments,III,NV;UT;TX
+R-SYN-0000971,2026-01-30,Chicken Nuggets,PureRoot,Packaging integrity issue,II,CO;CA
+R-SYN-0000972,2025-12-24,Fresh Salad Mix,PureRoot,Potential E. coli contamination,II,UT;NY;OR;AZ
+R-SYN-0000973,2026-03-09,Granola Bars,PureRoot,Listeria monocytogenes risk,I,CO;TX;NY;UT
+R-SYN-0000974,2025-12-30,Chicken Nuggets,TrailJoy,Undeclared peanut allergen,III,ALL
+R-SYN-0000975,2025-12-11,Whole Milk,DailySource,Listeria monocytogenes risk,III,AZ;NV;WA;NY
+R-SYN-0000976,2026-01-08,Frozen Dumplings,PureRoot,Potential E. coli contamination,III,NY;WA;NV;CO
+R-SYN-0000977,2026-02-27,Whole Milk,DailySource,Possible metal fragments,II,WA;UT;CO
+R-SYN-0000978,2026-03-27,Whole Milk,Green Valley,Undeclared peanut allergen,I,NY;OR;TX;CO
+R-SYN-0000979,2026-01-16,Greek Yogurt,Green Valley,Potential E. coli contamination,II,NV;TX;OR
+R-SYN-0000980,2025-12-05,Protein Shake,PureRoot,Undeclared peanut allergen,III,UT;NV;OR
+R-SYN-0000981,2026-02-20,Fresh Salad Mix,SunBite,Potential E. coli contamination,II,NY;OR;AZ
+R-SYN-0000982,2026-03-05,Fresh Salad Mix,PeakFuel,Potential E. coli contamination,III,TX;UT
+R-SYN-0000983,2025-12-22,Fresh Salad Mix,PureRoot,Possible metal fragments,II,NY;UT;TX
+R-SYN-0000984,2026-01-28,Greek Yogurt,SunBite,Listeria monocytogenes risk,II,CA;NY
+R-SYN-0000985,2025-12-18,Protein Shake,PeakFuel,Listeria monocytogenes risk,II,NY;TX
+R-SYN-0000986,2026-02-22,Frozen Dumplings,PureRoot,Potential E. coli contamination,I,WA;CO;UT;AZ
+R-SYN-0000987,2025-12-24,Frozen Dumplings,Green Valley,Potential E. coli contamination,I,CA;TX;CO;OR
+R-SYN-0000988,2025-12-20,Organic Spinach,PureRoot,Packaging integrity issue,II,CO;UT;NV
+R-SYN-0000989,2026-02-16,Fresh Salad Mix,UrbanHarvest,Possible metal fragments,II,WA;AZ;CO
+R-SYN-0000990,2026-02-08,Fresh Salad Mix,Green Valley,Possible metal fragments,III,CO;NV
+R-SYN-0000991,2025-12-29,Greek Yogurt,Green Valley,Packaging integrity issue,I,WA;AZ;UT;OR
+R-SYN-0000992,2026-01-03,Chicken Nuggets,PureRoot,Undeclared peanut allergen,I,CA;AZ;NV
+R-SYN-0000993,2026-03-26,Whole Milk,DailySource,Undeclared peanut allergen,II,TX;AZ;WA;NV
+R-SYN-0000994,2026-01-06,Frozen Dumplings,PureRoot,Possible metal fragments,II,UT;CA;TX;WA
+R-SYN-0000995,2025-12-20,Frozen Dumplings,PeakFuel,Packaging integrity issue,III,TX;CO;AZ
+R-SYN-0000996,2026-01-21,Protein Shake,TrailJoy,Undeclared peanut allergen,I,TX;UT;WA;AZ
+R-SYN-0000997,2026-03-28,Greek Yogurt,UrbanHarvest,Listeria monocytogenes risk,II,CO;TX;AZ
+R-SYN-0000998,2026-03-14,Chicken Nuggets,SunBite,Possible metal fragments,III,TX;AZ;WA;CO
+R-SYN-0000999,2025-12-26,Fresh Salad Mix,PureRoot,Undeclared peanut allergen,I,ALL
+R-SYN-0001000,2026-03-20,Frozen Dumplings,SunBite,Possible metal fragments,II,TX;AZ;UT;NY
+R-SYN-0001001,2026-02-11,Organic Spinach,PeakFuel,Potential E. coli contamination,II,NV;AZ;UT
+R-SYN-0001002,2026-02-13,Greek Yogurt,TrailJoy,Potential E. coli contamination,II,AZ;NY;NV
+R-SYN-0001003,2025-12-01,Granola Bars,TrailJoy,Listeria monocytogenes risk,II,NY;CA;OR
+R-SYN-0001004,2026-02-19,Granola Bars,SunBite,Possible metal fragments,III,WA;CO;NY
+R-SYN-0001005,2025-12-31,Fresh Salad Mix,Green Valley,Possible metal fragments,I,WA;CA;NV;TX
+R-SYN-0001006,2025-12-12,Chicken Nuggets,PureRoot,Possible metal fragments,III,CA;NV
+R-SYN-0001007,2026-02-16,Fresh Salad Mix,DailySource,Possible metal fragments,II,OR;UT;AZ;TX
+R-SYN-0001008,2026-01-01,Fresh Salad Mix,SunBite,Undeclared peanut allergen,I,OR;CO
+R-SYN-0001009,2026-01-07,Greek Yogurt,FarmNest,Listeria monocytogenes risk,II,WA;UT
+R-SYN-0001010,2025-12-19,Protein Shake,Green Valley,Possible metal fragments,II,NY;NV;WA;AZ
+R-SYN-0001011,2025-12-14,Greek Yogurt,Green Valley,Potential E. coli contamination,II,TX;AZ
+R-SYN-0001012,2026-01-15,Fresh Salad Mix,FarmNest,Listeria monocytogenes risk,I,ALL
+R-SYN-0001013,2026-02-09,Chicken Nuggets,PeakFuel,Packaging integrity issue,III,TX;CO;NV
+R-SYN-0001014,2025-12-17,Fresh Salad Mix,PeakFuel,Listeria monocytogenes risk,II,TX;CO
+R-SYN-0001015,2026-01-08,Protein Shake,Green Valley,Packaging integrity issue,II,TX;NY;WA
+R-SYN-0001016,2026-01-29,Fresh Salad Mix,PeakFuel,Packaging integrity issue,I,UT;NY;WA;AZ
+R-SYN-0001017,2026-03-29,Fresh Salad Mix,DailySource,Potential E. coli contamination,II,TX;WA;AZ;CA
+R-SYN-0001018,2026-03-08,Greek Yogurt,Green Valley,Packaging integrity issue,II,NY;WA
+R-SYN-0001019,2026-01-07,Greek Yogurt,SunBite,Packaging integrity issue,I,TX;OR
+R-SYN-0001020,2026-02-13,Greek Yogurt,PureRoot,Potential E. coli contamination,I,ALL
+R-SYN-0001021,2026-01-24,Granola Bars,DailySource,Undeclared peanut allergen,II,AZ;WA;UT;CA
+R-SYN-0001022,2026-01-06,Organic Spinach,TrailJoy,Potential E. coli contamination,I,NY;WA
+R-SYN-0001023,2026-01-15,Whole Milk,PeakFuel,Undeclared peanut allergen,II,OR;UT;WA;AZ
+R-SYN-0001024,2025-12-06,Greek Yogurt,PureRoot,Listeria monocytogenes risk,I,NY;WA;CA
+R-SYN-0001025,2026-01-10,Granola Bars,TrailJoy,Possible metal fragments,II,NY;NV;CO;TX
+R-SYN-0001026,2026-02-19,Fresh Salad Mix,PureRoot,Potential E. coli contamination,III,TX;UT;AZ
+R-SYN-0001027,2026-01-20,Fresh Salad Mix,SunBite,Possible metal fragments,II,OR;NY;NV
+R-SYN-0001028,2025-12-19,Protein Shake,PeakFuel,Potential E. coli contamination,I,NV;TX
+R-SYN-0001029,2025-12-21,Frozen Dumplings,FarmNest,Packaging integrity issue,II,TX;AZ;CO
+R-SYN-0001030,2026-01-17,Granola Bars,PeakFuel,Packaging integrity issue,I,ALL
+R-SYN-0001031,2026-02-19,Fresh Salad Mix,FarmNest,Possible metal fragments,III,UT;NV;WA;OR
+R-SYN-0001032,2026-03-15,Granola Bars,Green Valley,Packaging integrity issue,II,NV;OR
+R-SYN-0001033,2026-03-25,Whole Milk,TrailJoy,Packaging integrity issue,II,AZ;CO;OR
+R-SYN-0001034,2026-02-23,Granola Bars,PureRoot,Packaging integrity issue,III,OR;TX
+R-SYN-0001035,2026-02-20,Fresh Salad Mix,UrbanHarvest,Potential E. coli contamination,II,ALL
+R-SYN-0001036,2026-03-01,Frozen Dumplings,FarmNest,Packaging integrity issue,I,CO;CA;WA;AZ
+R-SYN-0001037,2026-01-25,Greek Yogurt,DailySource,Listeria monocytogenes risk,II,TX;NV;CA;OR
+R-SYN-0001038,2026-03-07,Organic Spinach,PureRoot,Packaging integrity issue,II,UT;CA;OR;WA
+R-SYN-0001039,2026-03-10,Protein Shake,FarmNest,Potential E. coli contamination,II,CA;NV;WA
+R-SYN-0001040,2026-02-11,Greek Yogurt,UrbanHarvest,Potential E. coli contamination,I,TX;OR;NY;WA
+R-SYN-0001041,2026-02-22,Granola Bars,TrailJoy,Potential E. coli contamination,II,OR;CA
+R-SYN-0001042,2025-12-02,Chicken Nuggets,DailySource,Potential E. coli contamination,II,OR;AZ;CA
+R-SYN-0001043,2026-03-31,Whole Milk,FarmNest,Listeria monocytogenes risk,II,ALL
+R-SYN-0001044,2026-01-28,Protein Shake,SunBite,Packaging integrity issue,II,CO;CA
+R-SYN-0001045,2026-03-12,Granola Bars,TrailJoy,Listeria monocytogenes risk,II,NY;OR;CA
+R-SYN-0001046,2026-02-03,Chicken Nuggets,FarmNest,Undeclared peanut allergen,II,WA;TX;CO
+R-SYN-0001047,2026-02-23,Organic Spinach,FarmNest,Listeria monocytogenes risk,II,NY;WA
+R-SYN-0001048,2026-01-29,Granola Bars,SunBite,Listeria monocytogenes risk,II,NY;AZ;NV;WA
+R-SYN-0001049,2026-01-26,Fresh Salad Mix,FarmNest,Potential E. coli contamination,III,NY;AZ
+R-SYN-0001050,2026-01-26,Organic Spinach,TrailJoy,Potential E. coli contamination,II,CA;NV;WA;NY
+R-SYN-0001051,2026-02-23,Chicken Nuggets,SunBite,Listeria monocytogenes risk,I,NY;WA;UT;CA
+R-SYN-0001052,2025-12-11,Granola Bars,TrailJoy,Listeria monocytogenes risk,I,UT;NY
+R-SYN-0001053,2026-03-07,Greek Yogurt,TrailJoy,Potential E. coli contamination,I,ALL
+R-SYN-0001054,2026-03-07,Greek Yogurt,PureRoot,Potential E. coli contamination,II,ALL
+R-SYN-0001055,2026-03-25,Fresh Salad Mix,PureRoot,Packaging integrity issue,I,WA;AZ
+R-SYN-0001056,2026-02-05,Chicken Nuggets,Green Valley,Packaging integrity issue,II,ALL
+R-SYN-0001057,2026-03-17,Granola Bars,UrbanHarvest,Possible metal fragments,III,AZ;CA
+R-SYN-0001058,2026-03-08,Organic Spinach,Green Valley,Potential E. coli contamination,II,CO;OR;UT
+R-SYN-0001059,2026-03-19,Fresh Salad Mix,FarmNest,Possible metal fragments,III,TX;UT;AZ
+R-SYN-0001060,2026-03-30,Greek Yogurt,UrbanHarvest,Possible metal fragments,II,UT;AZ;TX;CO
+R-SYN-0001061,2026-02-24,Protein Shake,PureRoot,Potential E. coli contamination,III,TX;CA;OR;AZ
+R-SYN-0001062,2025-12-17,Protein Shake,TrailJoy,Listeria monocytogenes risk,III,ALL
+R-SYN-0001063,2026-01-21,Whole Milk,PeakFuel,Listeria monocytogenes risk,III,NY;CA;TX;NV
+R-SYN-0001064,2026-02-06,Granola Bars,UrbanHarvest,Possible metal fragments,II,TX;CO;WA
+R-SYN-0001065,2026-01-23,Organic Spinach,FarmNest,Packaging integrity issue,I,CA;UT;NV
+R-SYN-0001066,2026-01-02,Protein Shake,PureRoot,Listeria monocytogenes risk,II,NY;CO
+R-SYN-0001067,2025-12-25,Fresh Salad Mix,PureRoot,Listeria monocytogenes risk,II,NY;WA
+R-SYN-0001068,2026-01-15,Organic Spinach,DailySource,Packaging integrity issue,II,WA;OR;AZ
+R-SYN-0001069,2026-02-25,Frozen Dumplings,FarmNest,Undeclared peanut allergen,I,NY;OR
+R-SYN-0001070,2025-12-03,Greek Yogurt,PeakFuel,Potential E. coli contamination,II,UT;TX
+R-SYN-0001071,2026-03-31,Whole Milk,UrbanHarvest,Possible metal fragments,I,OR;NY;WA;UT
+R-SYN-0001072,2026-02-22,Whole Milk,Green Valley,Potential E. coli contamination,III,NY;OR;CA
+R-SYN-0001073,2026-01-22,Frozen Dumplings,PureRoot,Possible metal fragments,III,WA;CO;TX;NY
+R-SYN-0001074,2026-02-25,Protein Shake,PureRoot,Undeclared peanut allergen,II,AZ;NY;WA
+R-SYN-0001075,2026-03-20,Chicken Nuggets,FarmNest,Listeria monocytogenes risk,I,CO;NY
+R-SYN-0001076,2026-01-08,Granola Bars,Green Valley,Possible metal fragments,I,WA;TX;CO
+R-SYN-0001077,2026-03-22,Fresh Salad Mix,TrailJoy,Listeria monocytogenes risk,III,UT;NY
+R-SYN-0001078,2025-12-28,Organic Spinach,SunBite,Listeria monocytogenes risk,II,ALL
+R-SYN-0001079,2026-03-30,Organic Spinach,FarmNest,Undeclared peanut allergen,II,CA;UT;NV;CO
+R-SYN-0001080,2026-01-21,Whole Milk,SunBite,Undeclared peanut allergen,I,NY;OR;UT
+R-SYN-0001081,2026-01-29,Greek Yogurt,TrailJoy,Potential E. coli contamination,II,TX;CA;NV;CO
+R-SYN-0001082,2026-03-18,Granola Bars,SunBite,Packaging integrity issue,III,WA;CA
+R-SYN-0001083,2026-03-02,Fresh Salad Mix,PureRoot,Undeclared peanut allergen,II,NV;TX;WA;CO
+R-SYN-0001084,2026-03-17,Protein Shake,SunBite,Possible metal fragments,II,AZ;TX
+R-SYN-0001085,2025-12-07,Organic Spinach,FarmNest,Undeclared peanut allergen,II,NV;NY
+R-SYN-0001086,2025-12-07,Granola Bars,PeakFuel,Possible metal fragments,III,AZ;OR;NV
+R-SYN-0001087,2025-12-05,Frozen Dumplings,Green Valley,Undeclared peanut allergen,II,NV;CO
+R-SYN-0001088,2025-12-29,Chicken Nuggets,SunBite,Potential E. coli contamination,II,NY;TX;UT
+R-SYN-0001089,2026-03-15,Greek Yogurt,PureRoot,Possible metal fragments,I,NV;AZ;TX;CO
+R-SYN-0001090,2025-12-04,Protein Shake,PureRoot,Listeria monocytogenes risk,II,UT;WA;CO
+R-SYN-0001091,2026-03-21,Fresh Salad Mix,TrailJoy,Potential E. coli contamination,I,ALL
+R-SYN-0001092,2025-12-13,Organic Spinach,UrbanHarvest,Packaging integrity issue,II,CA;AZ
+R-SYN-0001093,2026-02-13,Greek Yogurt,PeakFuel,Listeria monocytogenes risk,I,WA;UT;NV
+R-SYN-0001094,2026-03-03,Organic Spinach,FarmNest,Potential E. coli contamination,III,CA;NV;NY
+R-SYN-0001095,2026-03-25,Frozen Dumplings,SunBite,Listeria monocytogenes risk,III,NY;AZ
+R-SYN-0001096,2026-03-13,Frozen Dumplings,TrailJoy,Potential E. coli contamination,I,NY;UT;WA
+R-SYN-0001097,2025-12-26,Greek Yogurt,PeakFuel,Listeria monocytogenes risk,II,CA;OR;UT;TX
+R-SYN-0001098,2026-03-24,Organic Spinach,FarmNest,Packaging integrity issue,I,CO;OR;UT
+R-SYN-0001099,2026-01-26,Granola Bars,TrailJoy,Listeria monocytogenes risk,III,UT;NV
+R-SYN-0001100,2026-03-15,Protein Shake,PureRoot,Packaging integrity issue,I,UT;TX;NV;AZ
+R-SYN-0001101,2026-01-31,Chicken Nuggets,UrbanHarvest,Listeria monocytogenes risk,III,NV;WA;NY
+R-SYN-0001102,2026-03-18,Frozen Dumplings,SunBite,Possible metal fragments,II,WA;OR
+R-SYN-0001103,2026-03-11,Frozen Dumplings,SunBite,Undeclared peanut allergen,II,WA;UT;AZ
+R-SYN-0001104,2025-12-03,Organic Spinach,TrailJoy,Possible metal fragments,I,CO;CA
+R-SYN-0001105,2026-03-25,Whole Milk,SunBite,Possible metal fragments,I,NV;WA;NY
+R-SYN-0001106,2025-12-25,Fresh Salad Mix,UrbanHarvest,Undeclared peanut allergen,II,ALL
+R-SYN-0001107,2026-02-07,Frozen Dumplings,FarmNest,Potential E. coli contamination,II,CA;OR;TX;NV
+R-SYN-0001108,2026-01-03,Chicken Nuggets,SunBite,Potential E. coli contamination,III,NY;UT
+R-SYN-0001109,2026-01-26,Whole Milk,DailySource,Undeclared peanut allergen,I,CA;NV;TX
+R-SYN-0001110,2026-03-05,Frozen Dumplings,FarmNest,Packaging integrity issue,II,NY;OR
+R-SYN-0001111,2026-01-20,Frozen Dumplings,DailySource,Potential E. coli contamination,II,NY;TX;UT
+R-SYN-0001112,2026-01-17,Whole Milk,UrbanHarvest,Potential E. coli contamination,I,OR;CO;NY
+R-SYN-0001113,2025-12-24,Chicken Nuggets,FarmNest,Potential E. coli contamination,III,OR;NV;WA
+R-SYN-0001114,2025-12-12,Greek Yogurt,DailySource,Possible metal fragments,II,AZ;TX;UT
+R-SYN-0001115,2026-02-07,Chicken Nuggets,PeakFuel,Potential E. coli contamination,II,WA;CA;TX;CO
+R-SYN-0001116,2026-02-22,Fresh Salad Mix,FarmNest,Packaging integrity issue,II,ALL
+R-SYN-0001117,2026-02-10,Chicken Nuggets,SunBite,Possible metal fragments,II,TX;UT;CO
+R-SYN-0001118,2025-12-28,Frozen Dumplings,PureRoot,Listeria monocytogenes risk,I,AZ;CO;TX
+R-SYN-0001119,2026-01-01,Chicken Nuggets,SunBite,Possible metal fragments,II,NY;WA;UT
+R-SYN-0001120,2026-01-18,Organic Spinach,PureRoot,Potential E. coli contamination,III,CO;WA;CA
+R-SYN-0001121,2026-03-04,Organic Spinach,PureRoot,Possible metal fragments,I,TX;OR
+R-SYN-0001122,2026-02-08,Frozen Dumplings,PeakFuel,Listeria monocytogenes risk,III,OR;NY;NV;CA
+R-SYN-0001123,2026-03-20,Fresh Salad Mix,UrbanHarvest,Possible metal fragments,I,CO;UT;OR
+R-SYN-0001124,2026-01-02,Greek Yogurt,PureRoot,Possible metal fragments,III,UT;WA
+R-SYN-0001125,2026-03-22,Greek Yogurt,UrbanHarvest,Possible metal fragments,I,CO;AZ
+R-SYN-0001126,2026-03-17,Fresh Salad Mix,PeakFuel,Packaging integrity issue,II,CO;TX
+R-SYN-0001127,2026-03-27,Protein Shake,TrailJoy,Listeria monocytogenes risk,II,NV;WA;NY;TX
+R-SYN-0001128,2026-03-07,Organic Spinach,UrbanHarvest,Possible metal fragments,I,TX;CO;AZ;WA
+R-SYN-0001129,2026-02-07,Fresh Salad Mix,UrbanHarvest,Possible metal fragments,III,TX;NY;WA
+R-SYN-0001130,2026-02-05,Whole Milk,FarmNest,Packaging integrity issue,II,OR;NV;AZ
+R-SYN-0001131,2026-02-23,Frozen Dumplings,SunBite,Potential E. coli contamination,I,ALL
+R-SYN-0001132,2025-12-02,Fresh Salad Mix,SunBite,Listeria monocytogenes risk,II,TX;CO;OR;NV
+R-SYN-0001133,2025-12-18,Organic Spinach,PeakFuel,Listeria monocytogenes risk,I,NV;TX;CO;WA
+R-SYN-0001134,2026-03-16,Whole Milk,DailySource,Listeria monocytogenes risk,III,NV;CA;NY;TX
+R-SYN-0001135,2026-01-26,Granola Bars,PeakFuel,Possible metal fragments,I,WA;CA;UT
+R-SYN-0001136,2026-03-27,Organic Spinach,Green Valley,Undeclared peanut allergen,II,AZ;UT;TX;OR
+R-SYN-0001137,2026-02-04,Protein Shake,PureRoot,Undeclared peanut allergen,II,NV;NY
+R-SYN-0001138,2025-12-01,Fresh Salad Mix,FarmNest,Listeria monocytogenes risk,III,WA;TX;AZ
+R-SYN-0001139,2025-12-19,Greek Yogurt,SunBite,Packaging integrity issue,II,OR;NY;CO;TX
+R-SYN-0001140,2026-03-20,Frozen Dumplings,Green Valley,Listeria monocytogenes risk,I,CA;TX
+R-SYN-0001141,2026-01-17,Fresh Salad Mix,Green Valley,Undeclared peanut allergen,III,NY;WA;AZ
+R-SYN-0001142,2025-12-07,Protein Shake,PeakFuel,Undeclared peanut allergen,II,OR;CA;NY
+R-SYN-0001143,2026-03-21,Greek Yogurt,Green Valley,Packaging integrity issue,III,ALL
+R-SYN-0001144,2025-12-03,Frozen Dumplings,SunBite,Undeclared peanut allergen,I,TX;CO
+R-SYN-0001145,2025-12-13,Whole Milk,TrailJoy,Listeria monocytogenes risk,I,TX;CO;AZ
+R-SYN-0001146,2026-03-22,Protein Shake,PureRoot,Listeria monocytogenes risk,III,NY;UT;CO
+R-SYN-0001147,2026-03-30,Greek Yogurt,Green Valley,Potential E. coli contamination,III,UT;CA;TX
+R-SYN-0001148,2026-01-24,Granola Bars,SunBite,Undeclared peanut allergen,II,UT;NY;TX;CO
+R-SYN-0001149,2026-03-17,Protein Shake,Green Valley,Possible metal fragments,I,ALL
+R-SYN-0001150,2026-01-02,Greek Yogurt,PeakFuel,Possible metal fragments,II,UT;OR;WA
+R-SYN-0001151,2025-12-26,Chicken Nuggets,PureRoot,Packaging integrity issue,III,NY;WA;AZ
+R-SYN-0001152,2025-12-13,Granola Bars,PureRoot,Potential E. coli contamination,II,NY;WA;AZ
+R-SYN-0001153,2026-01-28,Fresh Salad Mix,DailySource,Listeria monocytogenes risk,II,TX;NV;WA
+R-SYN-0001154,2026-03-06,Whole Milk,UrbanHarvest,Potential E. coli contamination,II,OR;NV;NY;UT
+R-SYN-0001155,2025-12-16,Whole Milk,PureRoot,Potential E. coli contamination,I,NY;AZ;TX
+R-SYN-0001156,2026-03-22,Protein Shake,UrbanHarvest,Possible metal fragments,I,AZ;CA
+R-SYN-0001157,2025-12-30,Whole Milk,TrailJoy,Listeria monocytogenes risk,II,UT;TX
+R-SYN-0001158,2026-02-10,Granola Bars,TrailJoy,Packaging integrity issue,I,TX;NV;AZ;WA
+R-SYN-0001159,2026-02-19,Whole Milk,TrailJoy,Undeclared peanut allergen,I,OR;NV
+R-SYN-0001160,2026-03-16,Frozen Dumplings,DailySource,Undeclared peanut allergen,II,CA;OR
+R-SYN-0001161,2026-03-29,Organic Spinach,DailySource,Possible metal fragments,I,UT;CA
+R-SYN-0001162,2026-02-16,Organic Spinach,SunBite,Listeria monocytogenes risk,I,OR;UT;NY;NV
+R-SYN-0001163,2026-02-08,Frozen Dumplings,UrbanHarvest,Listeria monocytogenes risk,II,CO;UT;NV;AZ
+R-SYN-0001164,2025-12-05,Frozen Dumplings,UrbanHarvest,Packaging integrity issue,I,NY;TX
+R-SYN-0001165,2026-02-18,Fresh Salad Mix,TrailJoy,Undeclared peanut allergen,I,UT;CA;AZ
+R-SYN-0001166,2025-12-10,Organic Spinach,PeakFuel,Potential E. coli contamination,I,OR;AZ
+R-SYN-0001167,2026-01-02,Fresh Salad Mix,PeakFuel,Undeclared peanut allergen,III,NY;AZ
+R-SYN-0001168,2025-12-11,Greek Yogurt,PureRoot,Listeria monocytogenes risk,II,CO;UT
+R-SYN-0001169,2026-02-24,Whole Milk,DailySource,Undeclared peanut allergen,I,TX;AZ;OR;UT
+R-SYN-0001170,2026-01-06,Protein Shake,SunBite,Potential E. coli contamination,III,ALL
+R-SYN-0001171,2026-03-30,Protein Shake,DailySource,Listeria monocytogenes risk,I,ALL
+R-SYN-0001172,2026-03-05,Whole Milk,PeakFuel,Listeria monocytogenes risk,II,NY;WA
+R-SYN-0001173,2025-12-04,Whole Milk,PureRoot,Listeria monocytogenes risk,III,WA;TX;NY
+R-SYN-0001174,2026-02-05,Greek Yogurt,PeakFuel,Packaging integrity issue,II,TX;WA
+R-SYN-0001175,2026-03-29,Chicken Nuggets,FarmNest,Possible metal fragments,I,AZ;OR;CA
+R-SYN-0001176,2025-12-03,Frozen Dumplings,UrbanHarvest,Listeria monocytogenes risk,I,UT;AZ;CA
+R-SYN-0001177,2026-02-03,Granola Bars,UrbanHarvest,Potential E. coli contamination,I,WA;OR;TX
+R-SYN-0001178,2026-02-08,Greek Yogurt,PeakFuel,Packaging integrity issue,II,CA;WA
+R-SYN-0001179,2026-03-17,Protein Shake,SunBite,Potential E. coli contamination,III,TX;UT
+R-SYN-0001180,2026-02-24,Protein Shake,PureRoot,Listeria monocytogenes risk,II,OR;CO;TX;NV
+R-SYN-0001181,2025-12-21,Protein Shake,UrbanHarvest,Possible metal fragments,II,TX;NY
+R-SYN-0001182,2026-01-26,Chicken Nuggets,PeakFuel,Undeclared peanut allergen,I,NY;AZ
+R-SYN-0001183,2025-12-06,Chicken Nuggets,FarmNest,Potential E. coli contamination,II,NY;OR
+R-SYN-0001184,2025-12-09,Frozen Dumplings,FarmNest,Potential E. coli contamination,II,CA;CO;NV;TX
+R-SYN-0001185,2026-01-30,Frozen Dumplings,Green Valley,Potential E. coli contamination,II,UT;NY
+R-SYN-0001186,2025-12-25,Greek Yogurt,SunBite,Potential E. coli contamination,I,CO;AZ;OR
+R-SYN-0001187,2026-02-27,Chicken Nuggets,PeakFuel,Possible metal fragments,II,AZ;CO;CA
+R-SYN-0001188,2026-02-25,Organic Spinach,FarmNest,Listeria monocytogenes risk,III,AZ;CO
+R-SYN-0001189,2026-03-28,Protein Shake,PureRoot,Possible metal fragments,I,ALL
+R-SYN-0001190,2025-12-04,Fresh Salad Mix,SunBite,Possible metal fragments,III,UT;NY;CO
+R-SYN-0001191,2025-12-05,Whole Milk,UrbanHarvest,Listeria monocytogenes risk,II,OR;WA;CA
+R-SYN-0001192,2026-01-16,Whole Milk,SunBite,Listeria monocytogenes risk,II,OR;TX;CA
+R-SYN-0001193,2026-01-27,Greek Yogurt,DailySource,Undeclared peanut allergen,II,NY;OR;WA;UT
+R-SYN-0001194,2026-03-23,Granola Bars,Green Valley,Listeria monocytogenes risk,I,TX;CA;WA;NY
+R-SYN-0001195,2026-03-31,Fresh Salad Mix,UrbanHarvest,Potential E. coli contamination,I,UT;NY;CA
+R-SYN-0001196,2025-12-30,Granola Bars,FarmNest,Undeclared peanut allergen,II,WA;CA;UT
+R-SYN-0001197,2025-12-02,Whole Milk,TrailJoy,Listeria monocytogenes risk,II,OR;UT
+R-SYN-0001198,2026-01-14,Granola Bars,FarmNest,Packaging integrity issue,II,NY;WA;UT;TX
+R-SYN-0001199,2026-02-06,Protein Shake,PeakFuel,Possible metal fragments,I,CO;NY;WA;NV
+R-SYN-0001200,2026-03-19,Greek Yogurt,DailySource,Possible metal fragments,II,CO;AZ;WA
+R-SYN-0001201,2026-01-31,Fresh Salad Mix,PureRoot,Listeria monocytogenes risk,I,TX;NY;OR
+R-SYN-0001202,2025-12-05,Granola Bars,TrailJoy,Packaging integrity issue,II,OR;CA;NV;WA
+R-SYN-0001203,2026-03-15,Fresh Salad Mix,Green Valley,Listeria monocytogenes risk,III,CA;TX;UT
+R-SYN-0001204,2026-02-25,Frozen Dumplings,UrbanHarvest,Packaging integrity issue,I,AZ;CA;CO
+R-SYN-0001205,2025-12-27,Organic Spinach,TrailJoy,Packaging integrity issue,I,NY;WA;AZ
+R-SYN-0001206,2026-01-09,Greek Yogurt,PeakFuel,Possible metal fragments,II,WA;TX;CA
+R-SYN-0001207,2026-03-31,Greek Yogurt,SunBite,Packaging integrity issue,I,CA;CO;WA
+R-SYN-0001208,2026-03-24,Frozen Dumplings,PeakFuel,Listeria monocytogenes risk,II,UT;OR
+R-SYN-0001209,2025-12-16,Chicken Nuggets,SunBite,Listeria monocytogenes risk,I,ALL
+R-SYN-0001210,2026-03-13,Protein Shake,FarmNest,Packaging integrity issue,II,CO;OR;NY
+R-SYN-0001211,2026-01-05,Frozen Dumplings,DailySource,Possible metal fragments,II,TX;CO;WA;NV
+R-SYN-0001212,2026-03-13,Organic Spinach,PeakFuel,Listeria monocytogenes risk,I,OR;CA;AZ;NV
+R-SYN-0001213,2025-12-07,Chicken Nuggets,Green Valley,Possible metal fragments,III,CO;OR;CA;TX
+R-SYN-0001214,2026-02-14,Protein Shake,UrbanHarvest,Packaging integrity issue,II,ALL
+R-SYN-0001215,2026-01-07,Greek Yogurt,UrbanHarvest,Packaging integrity issue,I,OR;UT
+R-SYN-0001216,2025-12-03,Fresh Salad Mix,SunBite,Listeria monocytogenes risk,II,NY;OR;TX;AZ
+R-SYN-0001217,2026-02-18,Whole Milk,PureRoot,Potential E. coli contamination,I,WA;TX
+R-SYN-0001218,2026-01-05,Frozen Dumplings,DailySource,Listeria monocytogenes risk,I,WA;TX;CO;AZ
+R-SYN-0001219,2025-12-07,Fresh Salad Mix,PureRoot,Potential E. coli contamination,I,TX;CO
+R-SYN-0001220,2025-12-24,Whole Milk,Green Valley,Undeclared peanut allergen,I,NY;WA;TX
+R-SYN-0001221,2026-02-27,Chicken Nuggets,DailySource,Possible metal fragments,I,UT;WA;CA
+R-SYN-0001222,2026-01-16,Organic Spinach,SunBite,Undeclared peanut allergen,I,AZ;NV
+R-SYN-0001223,2026-01-18,Frozen Dumplings,UrbanHarvest,Undeclared peanut allergen,II,UT;CO;TX;NV
+R-SYN-0001224,2026-01-17,Chicken Nuggets,UrbanHarvest,Possible metal fragments,II,TX;CO
+R-SYN-0001225,2026-02-05,Fresh Salad Mix,SunBite,Packaging integrity issue,I,TX;UT;WA
+R-SYN-0001226,2026-03-02,Organic Spinach,UrbanHarvest,Potential E. coli contamination,I,NV;AZ;CA
+R-SYN-0001227,2025-12-10,Greek Yogurt,PeakFuel,Potential E. coli contamination,II,UT;OR;WA;CO
+R-SYN-0001228,2026-03-24,Frozen Dumplings,DailySource,Possible metal fragments,II,ALL
+R-SYN-0001229,2026-02-06,Granola Bars,TrailJoy,Possible metal fragments,III,ALL
+R-SYN-0001230,2026-03-05,Whole Milk,Green Valley,Undeclared peanut allergen,II,CA;AZ;UT;WA
+R-SYN-0001231,2026-01-14,Frozen Dumplings,DailySource,Undeclared peanut allergen,I,ALL
+R-SYN-0001232,2026-03-27,Chicken Nuggets,TrailJoy,Possible metal fragments,II,CA;UT
+R-SYN-0001233,2026-03-28,Protein Shake,PureRoot,Potential E. coli contamination,II,ALL
+R-SYN-0001234,2025-12-23,Fresh Salad Mix,FarmNest,Listeria monocytogenes risk,II,CO;TX
+R-SYN-0001235,2025-12-07,Whole Milk,UrbanHarvest,Undeclared peanut allergen,I,WA;TX
+R-SYN-0001236,2026-01-15,Organic Spinach,TrailJoy,Listeria monocytogenes risk,II,CA;UT;NV;AZ
+R-SYN-0001237,2026-02-28,Organic Spinach,SunBite,Potential E. coli contamination,I,AZ;UT
+R-SYN-0001238,2026-01-13,Protein Shake,PeakFuel,Undeclared peanut allergen,II,TX;UT
+R-SYN-0001239,2026-02-27,Protein Shake,DailySource,Possible metal fragments,III,OR;AZ;NV
+R-SYN-0001240,2026-01-20,Granola Bars,TrailJoy,Packaging integrity issue,III,UT;TX;CA;NY
+R-SYN-0001241,2025-12-06,Fresh Salad Mix,DailySource,Possible metal fragments,I,WA;OR;AZ;CO
+R-SYN-0001242,2026-03-05,Frozen Dumplings,UrbanHarvest,Undeclared peanut allergen,I,CO;TX;CA
+R-SYN-0001243,2026-01-27,Organic Spinach,PeakFuel,Possible metal fragments,II,CA;OR
+R-SYN-0001244,2025-12-12,Fresh Salad Mix,DailySource,Potential E. coli contamination,III,WA;UT
+R-SYN-0001245,2026-02-11,Greek Yogurt,PureRoot,Packaging integrity issue,I,AZ;CA;OR;NY
+R-SYN-0001246,2025-12-03,Granola Bars,TrailJoy,Potential E. coli contamination,I,NV;CA;UT
+R-SYN-0001247,2026-03-18,Fresh Salad Mix,PeakFuel,Packaging integrity issue,II,UT;OR;TX;WA
+R-SYN-0001248,2026-01-31,Protein Shake,FarmNest,Potential E. coli contamination,I,TX;WA;NV
+R-SYN-0001249,2026-01-21,Granola Bars,UrbanHarvest,Packaging integrity issue,II,OR;UT;NV
+R-SYN-0001250,2026-01-07,Organic Spinach,SunBite,Possible metal fragments,II,NY;CO;WA
+R-SYN-0001251,2026-03-29,Chicken Nuggets,Green Valley,Listeria monocytogenes risk,I,UT;WA;CO;CA
+R-SYN-0001252,2026-01-16,Frozen Dumplings,PeakFuel,Packaging integrity issue,II,NY;OR;NV
+R-SYN-0001253,2025-12-21,Granola Bars,PeakFuel,Listeria monocytogenes risk,I,CA;WA
+R-SYN-0001254,2026-03-17,Organic Spinach,FarmNest,Packaging integrity issue,III,UT;WA
+R-SYN-0001255,2026-03-24,Granola Bars,PeakFuel,Potential E. coli contamination,II,UT;CA;OR
+R-SYN-0001256,2026-03-01,Whole Milk,SunBite,Potential E. coli contamination,II,ALL
+R-SYN-0001257,2026-03-22,Protein Shake,TrailJoy,Possible metal fragments,II,NV;TX;AZ;WA
+R-SYN-0001258,2025-12-09,Granola Bars,FarmNest,Potential E. coli contamination,I,NV;AZ;WA
+R-SYN-0001259,2025-12-01,Granola Bars,Green Valley,Undeclared peanut allergen,II,CA;TX
+R-SYN-0001260,2026-01-13,Protein Shake,UrbanHarvest,Packaging integrity issue,II,AZ;WA;CO;OR
+R-SYN-0001261,2026-03-27,Greek Yogurt,PureRoot,Potential E. coli contamination,III,UT;NV
+R-SYN-0001262,2026-01-22,Frozen Dumplings,Green Valley,Packaging integrity issue,II,AZ;OR;TX
+R-SYN-0001263,2025-12-14,Granola Bars,TrailJoy,Possible metal fragments,I,WA;CO;NY
+R-SYN-0001264,2025-12-26,Frozen Dumplings,TrailJoy,Listeria monocytogenes risk,II,TX;AZ;OR
+R-SYN-0001265,2026-01-26,Frozen Dumplings,UrbanHarvest,Listeria monocytogenes risk,II,WA;NY;OR
+R-SYN-0001266,2026-02-28,Fresh Salad Mix,FarmNest,Packaging integrity issue,I,TX;UT;WA
+R-SYN-0001267,2026-02-06,Greek Yogurt,DailySource,Undeclared peanut allergen,III,NY;TX
+R-SYN-0001268,2026-02-06,Granola Bars,DailySource,Potential E. coli contamination,I,ALL
+R-SYN-0001269,2026-02-04,Organic Spinach,FarmNest,Potential E. coli contamination,I,NV;AZ;TX
+R-SYN-0001270,2026-02-08,Protein Shake,PeakFuel,Potential E. coli contamination,I,TX;CA;CO
+R-SYN-0001271,2025-12-27,Whole Milk,DailySource,Listeria monocytogenes risk,II,OR;CO;AZ
+R-SYN-0001272,2026-03-14,Greek Yogurt,SunBite,Undeclared peanut allergen,III,CO;NV;NY
+R-SYN-0001273,2026-02-03,Greek Yogurt,PeakFuel,Potential E. coli contamination,I,UT;NV
+R-SYN-0001274,2026-02-23,Whole Milk,PureRoot,Possible metal fragments,II,WA;NV
+R-SYN-0001275,2026-01-24,Granola Bars,UrbanHarvest,Potential E. coli contamination,I,OR;CO;WA
+R-SYN-0001276,2026-03-03,Greek Yogurt,PeakFuel,Possible metal fragments,III,OR;NY
+R-SYN-0001277,2026-03-19,Protein Shake,FarmNest,Potential E. coli contamination,II,ALL
+R-SYN-0001278,2025-12-07,Protein Shake,Green Valley,Listeria monocytogenes risk,III,ALL
+R-SYN-0001279,2026-03-05,Granola Bars,PureRoot,Listeria monocytogenes risk,II,TX;UT;WA
+R-SYN-0001280,2025-12-08,Fresh Salad Mix,DailySource,Possible metal fragments,I,TX;AZ;NV
+R-SYN-0001281,2026-03-21,Protein Shake,SunBite,Possible metal fragments,I,UT;TX;AZ
+R-SYN-0001282,2026-01-02,Whole Milk,Green Valley,Listeria monocytogenes risk,I,AZ;WA;NV;OR
+R-SYN-0001283,2026-01-06,Organic Spinach,Green Valley,Undeclared peanut allergen,I,WA;OR
+R-SYN-0001284,2026-01-30,Greek Yogurt,DailySource,Undeclared peanut allergen,II,TX;WA
+R-SYN-0001285,2026-03-31,Fresh Salad Mix,SunBite,Listeria monocytogenes risk,II,CA;NV
+R-SYN-0001286,2026-01-02,Granola Bars,PureRoot,Packaging integrity issue,I,NY;OR;NV;TX
+R-SYN-0001287,2025-12-09,Granola Bars,DailySource,Listeria monocytogenes risk,II,UT;CO;NY
+R-SYN-0001288,2026-03-19,Protein Shake,SunBite,Possible metal fragments,II,NV;TX
+R-SYN-0001289,2026-03-09,Chicken Nuggets,UrbanHarvest,Potential E. coli contamination,I,CO;UT
+R-SYN-0001290,2026-01-14,Fresh Salad Mix,TrailJoy,Potential E. coli contamination,I,CA;AZ;NY
+R-SYN-0001291,2026-01-04,Whole Milk,PureRoot,Listeria monocytogenes risk,III,CA;OR;WA
+R-SYN-0001292,2025-12-28,Protein Shake,UrbanHarvest,Potential E. coli contamination,I,NY;WA;NV;AZ
+R-SYN-0001293,2026-03-17,Whole Milk,FarmNest,Packaging integrity issue,II,NV;TX
+R-SYN-0001294,2025-12-22,Whole Milk,UrbanHarvest,Packaging integrity issue,I,ALL
+R-SYN-0001295,2026-03-05,Whole Milk,TrailJoy,Undeclared peanut allergen,III,WA;OR;NV;TX
+R-SYN-0001296,2025-12-05,Whole Milk,UrbanHarvest,Listeria monocytogenes risk,I,CA;UT
+R-SYN-0001297,2025-12-25,Frozen Dumplings,PureRoot,Listeria monocytogenes risk,I,WA;UT
+R-SYN-0001298,2026-03-27,Granola Bars,SunBite,Listeria monocytogenes risk,II,OR;TX;CA;NV
+R-SYN-0001299,2026-01-26,Fresh Salad Mix,Green Valley,Potential E. coli contamination,II,TX;NV
+R-SYN-0001300,2026-03-07,Granola Bars,UrbanHarvest,Listeria monocytogenes risk,II,ALL
+R-SYN-0001301,2026-02-24,Chicken Nuggets,TrailJoy,Potential E. coli contamination,I,NV;OR;WA
+R-SYN-0001302,2026-03-20,Protein Shake,PureRoot,Packaging integrity issue,I,UT;WA;CO;CA
+R-SYN-0001303,2026-01-27,Fresh Salad Mix,UrbanHarvest,Packaging integrity issue,II,CA;NV;CO;TX
+R-SYN-0001304,2026-02-02,Whole Milk,DailySource,Packaging integrity issue,I,TX;UT
+R-SYN-0001305,2026-01-19,Greek Yogurt,TrailJoy,Listeria monocytogenes risk,II,ALL
+R-SYN-0001306,2026-02-08,Chicken Nuggets,TrailJoy,Potential E. coli contamination,II,AZ;NY;CA
+R-SYN-0001307,2026-02-18,Fresh Salad Mix,Green Valley,Possible metal fragments,II,UT;CO;NY
+R-SYN-0001308,2026-01-07,Protein Shake,UrbanHarvest,Listeria monocytogenes risk,II,TX;UT;WA;AZ
+R-SYN-0001309,2026-03-22,Fresh Salad Mix,FarmNest,Potential E. coli contamination,I,WA;CO
+R-SYN-0001310,2025-12-10,Frozen Dumplings,Green Valley,Listeria monocytogenes risk,II,CO;NY;AZ;OR
+R-SYN-0001311,2026-02-06,Fresh Salad Mix,Green Valley,Possible metal fragments,I,OR;AZ;UT;NY
+R-SYN-0001312,2026-01-18,Greek Yogurt,FarmNest,Possible metal fragments,II,AZ;OR;WA;NV
+R-SYN-0001313,2026-03-05,Whole Milk,FarmNest,Undeclared peanut allergen,II,AZ;NV
+R-SYN-0001314,2026-03-09,Greek Yogurt,DailySource,Potential E. coli contamination,III,ALL
+R-SYN-0001315,2026-01-01,Protein Shake,TrailJoy,Potential E. coli contamination,II,CO;NY
+R-SYN-0001316,2026-03-23,Whole Milk,TrailJoy,Possible metal fragments,II,OR;NV;UT
+R-SYN-0001317,2025-12-28,Granola Bars,UrbanHarvest,Packaging integrity issue,II,UT;WA;CA;OR
+R-SYN-0001318,2026-03-12,Frozen Dumplings,TrailJoy,Possible metal fragments,I,UT;NV
+R-SYN-0001319,2026-02-17,Granola Bars,DailySource,Undeclared peanut allergen,I,TX;NY
+R-SYN-0001320,2026-03-13,Greek Yogurt,DailySource,Potential E. coli contamination,I,NY;CO
+R-SYN-0001321,2026-02-05,Chicken Nuggets,UrbanHarvest,Possible metal fragments,II,ALL
+R-SYN-0001322,2026-01-19,Fresh Salad Mix,PureRoot,Listeria monocytogenes risk,II,AZ;TX;OR;CO
+R-SYN-0001323,2026-03-10,Granola Bars,FarmNest,Listeria monocytogenes risk,II,TX;NV;AZ
+R-SYN-0001324,2026-02-15,Greek Yogurt,Green Valley,Possible metal fragments,III,NV;WA;OR
+R-SYN-0001325,2026-01-19,Protein Shake,PureRoot,Possible metal fragments,I,WA;CO
+R-SYN-0001326,2026-02-13,Protein Shake,Green Valley,Packaging integrity issue,I,ALL
+R-SYN-0001327,2026-02-12,Granola Bars,Green Valley,Packaging integrity issue,I,CO;NV;CA;AZ
+R-SYN-0001328,2025-12-31,Granola Bars,PeakFuel,Potential E. coli contamination,III,CO;UT;WA;TX
+R-SYN-0001329,2026-01-30,Frozen Dumplings,Green Valley,Possible metal fragments,I,NY;UT
+R-SYN-0001330,2026-03-21,Fresh Salad Mix,SunBite,Potential E. coli contamination,II,TX;OR;NV
+R-SYN-0001331,2026-03-07,Organic Spinach,UrbanHarvest,Possible metal fragments,III,AZ;CA;UT;WA
+R-SYN-0001332,2026-02-06,Organic Spinach,SunBite,Undeclared peanut allergen,III,OR;TX;CO;WA
+R-SYN-0001333,2026-03-26,Granola Bars,TrailJoy,Packaging integrity issue,II,OR;UT
+R-SYN-0001334,2026-01-19,Whole Milk,SunBite,Possible metal fragments,II,CO;TX
+R-SYN-0001335,2026-03-17,Frozen Dumplings,FarmNest,Potential E. coli contamination,I,NY;CA
+R-SYN-0001336,2026-03-04,Whole Milk,DailySource,Potential E. coli contamination,III,WA;NY;CO
+R-SYN-0001337,2026-03-25,Fresh Salad Mix,PeakFuel,Undeclared peanut allergen,I,WA;UT;NY
+R-SYN-0001338,2025-12-08,Protein Shake,FarmNest,Possible metal fragments,I,CO;AZ
+R-SYN-0001339,2026-01-16,Whole Milk,UrbanHarvest,Packaging integrity issue,II,CA;NV
+R-SYN-0001340,2026-03-12,Protein Shake,PureRoot,Possible metal fragments,II,WA;AZ;CO
+R-SYN-0001341,2026-01-26,Granola Bars,SunBite,Packaging integrity issue,II,OR;CA;CO
+R-SYN-0001342,2026-01-24,Greek Yogurt,DailySource,Undeclared peanut allergen,II,NV;CA;NY;AZ
+R-SYN-0001343,2026-03-18,Whole Milk,Green Valley,Undeclared peanut allergen,II,TX;NY;CO;NV
+R-SYN-0001344,2026-03-11,Chicken Nuggets,FarmNest,Potential E. coli contamination,II,NV;UT;WA;TX
+R-SYN-0001345,2026-02-27,Whole Milk,UrbanHarvest,Listeria monocytogenes risk,II,UT;TX
+R-SYN-0001346,2026-02-06,Fresh Salad Mix,PeakFuel,Packaging integrity issue,II,ALL
+R-SYN-0001347,2026-01-25,Greek Yogurt,PeakFuel,Packaging integrity issue,III,NY;UT
+R-SYN-0001348,2026-01-06,Whole Milk,Green Valley,Potential E. coli contamination,I,CO;NV;TX
+R-SYN-0001349,2026-02-01,Organic Spinach,FarmNest,Undeclared peanut allergen,III,NY;WA
+R-SYN-0001350,2025-12-12,Protein Shake,PureRoot,Potential E. coli contamination,II,AZ;CA;WA;TX
+R-SYN-0001351,2026-02-15,Frozen Dumplings,DailySource,Packaging integrity issue,II,NV;CO;AZ
+R-SYN-0001352,2026-02-28,Frozen Dumplings,PureRoot,Undeclared peanut allergen,I,AZ;OR;NV
+R-SYN-0001353,2026-01-04,Fresh Salad Mix,PureRoot,Packaging integrity issue,I,CA;WA;OR;TX
+R-SYN-0001354,2025-12-23,Protein Shake,UrbanHarvest,Possible metal fragments,I,NV;TX;AZ;CO
+R-SYN-0001355,2026-03-14,Chicken Nuggets,TrailJoy,Potential E. coli contamination,I,NV;NY;WA
+R-SYN-0001356,2026-03-12,Granola Bars,PeakFuel,Listeria monocytogenes risk,II,NV;NY;TX
+R-SYN-0001357,2026-02-09,Frozen Dumplings,DailySource,Potential E. coli contamination,I,NV;CA;TX;NY
+R-SYN-0001358,2026-03-15,Fresh Salad Mix,DailySource,Potential E. coli contamination,II,NV;CA;NY
+R-SYN-0001359,2026-02-05,Granola Bars,SunBite,Packaging integrity issue,III,AZ;CO;UT;NY
+R-SYN-0001360,2025-12-13,Whole Milk,SunBite,Undeclared peanut allergen,III,TX;NY;CA
+R-SYN-0001361,2026-02-16,Granola Bars,TrailJoy,Packaging integrity issue,III,NV;CA;WA
+R-SYN-0001362,2026-02-23,Organic Spinach,SunBite,Listeria monocytogenes risk,II,ALL
+R-SYN-0001363,2026-01-14,Whole Milk,PeakFuel,Listeria monocytogenes risk,I,UT;OR
+R-SYN-0001364,2026-03-09,Granola Bars,UrbanHarvest,Listeria monocytogenes risk,I,CA;TX;NY;AZ
+R-SYN-0001365,2026-03-27,Fresh Salad Mix,TrailJoy,Undeclared peanut allergen,I,ALL
+R-SYN-0001366,2025-12-28,Greek Yogurt,DailySource,Listeria monocytogenes risk,III,WA;CO;CA
+R-SYN-0001367,2026-03-22,Whole Milk,UrbanHarvest,Potential E. coli contamination,I,TX;NV;OR;AZ
+R-SYN-0001368,2026-03-21,Whole Milk,PeakFuel,Listeria monocytogenes risk,II,OR;TX;NV;WA
+R-SYN-0001369,2026-03-17,Protein Shake,PeakFuel,Possible metal fragments,II,CA;AZ
+R-SYN-0001370,2026-01-17,Chicken Nuggets,TrailJoy,Listeria monocytogenes risk,I,OR;CA
+R-SYN-0001371,2026-01-13,Fresh Salad Mix,FarmNest,Possible metal fragments,I,NV;NY
+R-SYN-0001372,2026-02-24,Granola Bars,DailySource,Packaging integrity issue,II,WA;UT
+R-SYN-0001373,2026-03-29,Whole Milk,TrailJoy,Potential E. coli contamination,II,CO;NV;AZ;OR
+R-SYN-0001374,2026-02-17,Fresh Salad Mix,DailySource,Packaging integrity issue,I,CO;NY;WA
+R-SYN-0001375,2025-12-12,Chicken Nuggets,TrailJoy,Packaging integrity issue,II,NV;CA;AZ
+R-SYN-0001376,2025-12-12,Frozen Dumplings,DailySource,Packaging integrity issue,III,ALL
+R-SYN-0001377,2025-12-26,Whole Milk,PeakFuel,Possible metal fragments,II,CA;NY;OR
+R-SYN-0001378,2026-01-16,Greek Yogurt,UrbanHarvest,Packaging integrity issue,II,OR;CO
+R-SYN-0001379,2026-03-01,Fresh Salad Mix,FarmNest,Listeria monocytogenes risk,II,NV;WA
+R-SYN-0001380,2026-03-04,Frozen Dumplings,PeakFuel,Undeclared peanut allergen,III,NV;UT;NY;TX
+R-SYN-0001381,2026-02-06,Granola Bars,UrbanHarvest,Possible metal fragments,II,AZ;NV;TX;WA
+R-SYN-0001382,2026-01-27,Chicken Nuggets,PeakFuel,Listeria monocytogenes risk,I,OR;CA;UT
+R-SYN-0001383,2025-12-15,Whole Milk,DailySource,Undeclared peanut allergen,II,ALL
+R-SYN-0001384,2026-01-16,Fresh Salad Mix,PureRoot,Listeria monocytogenes risk,I,ALL
+R-SYN-0001385,2026-03-03,Greek Yogurt,SunBite,Packaging integrity issue,II,AZ;WA
+R-SYN-0001386,2026-03-10,Chicken Nuggets,SunBite,Possible metal fragments,I,NV;WA;UT;TX
+R-SYN-0001387,2026-02-01,Whole Milk,TrailJoy,Undeclared peanut allergen,II,AZ;NY
+R-SYN-0001388,2026-02-22,Frozen Dumplings,Green Valley,Undeclared peanut allergen,II,CO;WA;NV;TX
+R-SYN-0001389,2026-01-31,Frozen Dumplings,UrbanHarvest,Undeclared peanut allergen,I,CA;UT
+R-SYN-0001390,2026-01-03,Fresh Salad Mix,DailySource,Listeria monocytogenes risk,I,UT;TX;AZ
+R-SYN-0001391,2025-12-22,Organic Spinach,DailySource,Listeria monocytogenes risk,III,ALL
+R-SYN-0001392,2025-12-18,Fresh Salad Mix,Green Valley,Possible metal fragments,II,CO;NV;UT;CA
+R-SYN-0001393,2026-03-18,Greek Yogurt,PeakFuel,Packaging integrity issue,II,ALL
+R-SYN-0001394,2026-03-10,Whole Milk,PureRoot,Possible metal fragments,I,WA;OR;CA
+R-SYN-0001395,2026-02-17,Frozen Dumplings,DailySource,Listeria monocytogenes risk,II,OR;CO;NY
+R-SYN-0001396,2025-12-21,Chicken Nuggets,PeakFuel,Packaging integrity issue,I,ALL
+R-SYN-0001397,2026-03-14,Greek Yogurt,PeakFuel,Potential E. coli contamination,I,OR;UT;AZ
+R-SYN-0001398,2026-03-11,Granola Bars,DailySource,Listeria monocytogenes risk,II,NY;UT;OR;CO
+R-SYN-0001399,2025-12-12,Fresh Salad Mix,PeakFuel,Undeclared peanut allergen,I,NY;CA;UT
+R-SYN-0001400,2026-02-13,Fresh Salad Mix,DailySource,Packaging integrity issue,III,NY;AZ;OR;UT
+R-SYN-0001401,2026-02-11,Chicken Nuggets,FarmNest,Packaging integrity issue,II,CA;TX;NY
+R-SYN-0001402,2026-03-03,Granola Bars,TrailJoy,Undeclared peanut allergen,I,TX;WA;NY;CO
+R-SYN-0001403,2026-02-01,Organic Spinach,TrailJoy,Undeclared peanut allergen,II,ALL
+R-SYN-0001404,2026-01-10,Frozen Dumplings,UrbanHarvest,Packaging integrity issue,I,UT;TX;NV;CA
+R-SYN-0001405,2026-02-02,Protein Shake,TrailJoy,Possible metal fragments,II,WA;UT;AZ;NV
+R-SYN-0001406,2026-02-01,Greek Yogurt,Green Valley,Packaging integrity issue,I,WA;TX;CO;OR
+R-SYN-0001407,2026-02-21,Organic Spinach,TrailJoy,Undeclared peanut allergen,I,CO;TX;OR
+R-SYN-0001408,2025-12-09,Organic Spinach,UrbanHarvest,Potential E. coli contamination,I,ALL
+R-SYN-0001409,2026-03-21,Chicken Nuggets,TrailJoy,Potential E. coli contamination,II,OR;CA;UT
+R-SYN-0001410,2026-02-04,Frozen Dumplings,DailySource,Undeclared peanut allergen,II,CA;OR;NV
+R-SYN-0001411,2026-02-07,Granola Bars,DailySource,Undeclared peanut allergen,I,OR;UT;NV
+R-SYN-0001412,2026-01-22,Protein Shake,UrbanHarvest,Possible metal fragments,II,CO;TX;NV;UT
+R-SYN-0001413,2026-01-28,Organic Spinach,UrbanHarvest,Packaging integrity issue,II,NV;OR
+R-SYN-0001414,2026-03-19,Chicken Nuggets,UrbanHarvest,Packaging integrity issue,III,WA;UT
+R-SYN-0001415,2026-02-20,Granola Bars,UrbanHarvest,Packaging integrity issue,II,WA;NY;CO;TX
+R-SYN-0001416,2026-03-07,Fresh Salad Mix,FarmNest,Undeclared peanut allergen,II,CO;NV;UT;AZ
+R-SYN-0001417,2026-02-25,Protein Shake,PeakFuel,Listeria monocytogenes risk,III,NY;OR;UT
+R-SYN-0001418,2025-12-28,Whole Milk,UrbanHarvest,Listeria monocytogenes risk,I,CA;NV;UT
+R-SYN-0001419,2026-02-07,Whole Milk,FarmNest,Listeria monocytogenes risk,II,ALL
+R-SYN-0001420,2025-12-31,Protein Shake,TrailJoy,Possible metal fragments,I,NV;UT;NY
+R-SYN-0001421,2026-01-19,Protein Shake,TrailJoy,Packaging integrity issue,II,TX;WA
+R-SYN-0001422,2026-03-11,Whole Milk,DailySource,Packaging integrity issue,II,NV;CO
+R-SYN-0001423,2026-02-28,Granola Bars,PureRoot,Potential E. coli contamination,I,UT;AZ;WA
+R-SYN-0001424,2025-12-03,Granola Bars,SunBite,Listeria monocytogenes risk,I,NV;NY;UT
+R-SYN-0001425,2026-03-12,Granola Bars,TrailJoy,Packaging integrity issue,I,UT;OR;CO;NV
+R-SYN-0001426,2025-12-17,Granola Bars,Green Valley,Undeclared peanut allergen,II,ALL
+R-SYN-0001427,2025-12-21,Whole Milk,UrbanHarvest,Listeria monocytogenes risk,II,CO;WA;UT
+R-SYN-0001428,2026-02-13,Whole Milk,TrailJoy,Possible metal fragments,I,NY;TX
+R-SYN-0001429,2026-01-08,Fresh Salad Mix,PureRoot,Listeria monocytogenes risk,III,CA;AZ;UT;OR
+R-SYN-0001430,2026-02-04,Organic Spinach,UrbanHarvest,Packaging integrity issue,II,TX;UT;OR;CA
+R-SYN-0001431,2026-01-19,Frozen Dumplings,FarmNest,Packaging integrity issue,III,ALL
+R-SYN-0001432,2025-12-03,Chicken Nuggets,TrailJoy,Potential E. coli contamination,II,CO;UT;AZ
+R-SYN-0001433,2026-03-12,Whole Milk,SunBite,Undeclared peanut allergen,II,NV;CA;WA;OR
+R-SYN-0001434,2026-02-22,Organic Spinach,PureRoot,Potential E. coli contamination,I,OR;WA
+R-SYN-0001435,2026-01-16,Whole Milk,DailySource,Undeclared peanut allergen,II,NY;WA;NV
+R-SYN-0001436,2026-03-13,Protein Shake,PeakFuel,Undeclared peanut allergen,I,NY;AZ
+R-SYN-0001437,2026-03-23,Whole Milk,UrbanHarvest,Undeclared peanut allergen,II,NV;OR
+R-SYN-0001438,2026-03-02,Protein Shake,UrbanHarvest,Potential E. coli contamination,I,TX;NV;CA
+R-SYN-0001439,2026-02-03,Protein Shake,PureRoot,Potential E. coli contamination,II,NV;TX
+R-SYN-0001440,2026-03-20,Greek Yogurt,SunBite,Undeclared peanut allergen,II,AZ;UT;WA
+R-SYN-0001441,2026-03-07,Protein Shake,SunBite,Packaging integrity issue,II,CO;CA
+R-SYN-0001442,2026-03-31,Fresh Salad Mix,PureRoot,Listeria monocytogenes risk,III,ALL
+R-SYN-0001443,2026-02-13,Granola Bars,SunBite,Listeria monocytogenes risk,III,TX;NV
+R-SYN-0001444,2025-12-09,Chicken Nuggets,Green Valley,Possible metal fragments,II,NY;WA
+R-SYN-0001445,2026-03-09,Organic Spinach,FarmNest,Packaging integrity issue,I,CA;WA
+R-SYN-0001446,2025-12-11,Granola Bars,UrbanHarvest,Packaging integrity issue,II,NY;UT
+R-SYN-0001447,2025-12-27,Greek Yogurt,UrbanHarvest,Potential E. coli contamination,II,ALL
+R-SYN-0001448,2026-03-05,Granola Bars,PureRoot,Possible metal fragments,III,CA;UT;NY
+R-SYN-0001449,2026-03-28,Chicken Nuggets,Green Valley,Undeclared peanut allergen,III,ALL
+R-SYN-0001450,2026-02-11,Greek Yogurt,FarmNest,Potential E. coli contamination,I,NV;TX
+R-SYN-0001451,2026-03-17,Chicken Nuggets,DailySource,Listeria monocytogenes risk,III,CA;OR
+R-SYN-0001452,2026-01-30,Chicken Nuggets,PeakFuel,Undeclared peanut allergen,I,TX;CO;WA;AZ
+R-SYN-0001453,2025-12-15,Protein Shake,FarmNest,Undeclared peanut allergen,II,WA;TX
+R-SYN-0001454,2025-12-26,Frozen Dumplings,PureRoot,Possible metal fragments,III,ALL
+R-SYN-0001455,2026-03-03,Granola Bars,FarmNest,Possible metal fragments,I,UT;OR;NV;TX
+R-SYN-0001456,2026-02-18,Fresh Salad Mix,UrbanHarvest,Undeclared peanut allergen,II,NV;CA
+R-SYN-0001457,2025-12-20,Protein Shake,FarmNest,Potential E. coli contamination,I,ALL
+R-SYN-0001458,2025-12-20,Protein Shake,FarmNest,Listeria monocytogenes risk,I,AZ;WA;UT
+R-SYN-0001459,2025-12-10,Fresh Salad Mix,DailySource,Undeclared peanut allergen,II,TX;OR;AZ
+R-SYN-0001460,2025-12-23,Whole Milk,UrbanHarvest,Undeclared peanut allergen,I,UT;CO;AZ
+R-SYN-0001461,2026-03-19,Whole Milk,PeakFuel,Potential E. coli contamination,II,UT;NY
+R-SYN-0001462,2026-03-19,Protein Shake,DailySource,Potential E. coli contamination,I,AZ;OR
+R-SYN-0001463,2026-02-02,Fresh Salad Mix,SunBite,Packaging integrity issue,I,WA;NY;NV;AZ
+R-SYN-0001464,2026-03-03,Organic Spinach,TrailJoy,Possible metal fragments,II,UT;CA;NV;OR
+R-SYN-0001465,2026-02-13,Protein Shake,FarmNest,Possible metal fragments,I,WA;NY;OR;NV
+R-SYN-0001466,2026-02-05,Protein Shake,PeakFuel,Potential E. coli contamination,III,NV;UT;WA
+R-SYN-0001467,2026-01-31,Whole Milk,FarmNest,Possible metal fragments,I,OR;WA;AZ;UT
+R-SYN-0001468,2026-01-14,Frozen Dumplings,Green Valley,Listeria monocytogenes risk,I,WA;NV
+R-SYN-0001469,2025-12-21,Greek Yogurt,PureRoot,Listeria monocytogenes risk,II,TX;WA;NY
+R-SYN-0001470,2026-03-14,Fresh Salad Mix,SunBite,Packaging integrity issue,III,NY;OR;NV
+R-SYN-0001471,2026-02-18,Organic Spinach,SunBite,Packaging integrity issue,I,ALL
+R-SYN-0001472,2026-01-10,Chicken Nuggets,TrailJoy,Listeria monocytogenes risk,I,CO;NY;CA;AZ
+R-SYN-0001473,2026-02-16,Granola Bars,Green Valley,Listeria monocytogenes risk,III,CO;NV;OR;TX
+R-SYN-0001474,2025-12-09,Chicken Nuggets,PeakFuel,Undeclared peanut allergen,II,ALL
+R-SYN-0001475,2025-12-28,Whole Milk,TrailJoy,Listeria monocytogenes risk,III,CA;TX;NV
+R-SYN-0001476,2025-12-23,Granola Bars,PeakFuel,Possible metal fragments,II,OR;AZ;CA;NV
+R-SYN-0001477,2026-03-19,Chicken Nuggets,TrailJoy,Packaging integrity issue,II,OR;TX;NV;AZ
+R-SYN-0001478,2026-01-28,Fresh Salad Mix,PureRoot,Potential E. coli contamination,II,TX;UT;CA;CO
+R-SYN-0001479,2026-02-13,Fresh Salad Mix,PureRoot,Potential E. coli contamination,I,UT;CA;WA
+R-SYN-0001480,2025-12-17,Fresh Salad Mix,Green Valley,Undeclared peanut allergen,II,ALL
+R-SYN-0001481,2026-02-17,Frozen Dumplings,PeakFuel,Listeria monocytogenes risk,III,AZ;UT;NY
+R-SYN-0001482,2026-02-28,Granola Bars,DailySource,Potential E. coli contamination,I,OR;NY;TX;UT
+R-SYN-0001483,2025-12-23,Whole Milk,PureRoot,Possible metal fragments,II,TX;AZ;NY
+R-SYN-0001484,2026-01-12,Protein Shake,UrbanHarvest,Possible metal fragments,I,NV;AZ;OR;WA
+R-SYN-0001485,2026-01-09,Greek Yogurt,PureRoot,Undeclared peanut allergen,I,AZ;CO;NY
+R-SYN-0001486,2025-12-25,Greek Yogurt,FarmNest,Possible metal fragments,I,UT;OR;NV
+R-SYN-0001487,2026-01-19,Greek Yogurt,PureRoot,Packaging integrity issue,II,NV;OR
+R-SYN-0001488,2026-03-13,Whole Milk,UrbanHarvest,Listeria monocytogenes risk,I,OR;TX;NY;CO
+R-SYN-0001489,2026-02-03,Organic Spinach,TrailJoy,Packaging integrity issue,I,CO;WA
+R-SYN-0001490,2025-12-15,Protein Shake,TrailJoy,Undeclared peanut allergen,II,CA;OR
+R-SYN-0001491,2026-02-28,Organic Spinach,DailySource,Listeria monocytogenes risk,II,WA;NV;TX;OR
+R-SYN-0001492,2026-01-16,Fresh Salad Mix,PureRoot,Possible metal fragments,II,NV;AZ;NY
+R-SYN-0001493,2025-12-06,Protein Shake,UrbanHarvest,Packaging integrity issue,II,AZ;WA
+R-SYN-0001494,2025-12-20,Greek Yogurt,SunBite,Packaging integrity issue,II,WA;AZ
+R-SYN-0001495,2025-12-30,Protein Shake,DailySource,Possible metal fragments,II,ALL
+R-SYN-0001496,2026-01-11,Chicken Nuggets,DailySource,Packaging integrity issue,II,CA;CO
+R-SYN-0001497,2026-01-19,Organic Spinach,UrbanHarvest,Listeria monocytogenes risk,III,AZ;TX;UT;NY
+R-SYN-0001498,2026-01-18,Granola Bars,Green Valley,Packaging integrity issue,II,NV;WA
+R-SYN-0001499,2026-01-06,Chicken Nuggets,PeakFuel,Packaging integrity issue,II,UT;NV
+R-SYN-0001500,2026-03-13,Whole Milk,Green Valley,Packaging integrity issue,I,TX;UT;OR;CA
+R-SYN-0001501,2026-01-23,Fresh Salad Mix,FarmNest,Undeclared peanut allergen,I,NY;CA
+R-SYN-0001502,2026-01-07,Chicken Nuggets,SunBite,Possible metal fragments,I,NV;UT;WA;AZ
+R-SYN-0001503,2026-01-30,Greek Yogurt,UrbanHarvest,Undeclared peanut allergen,I,NV;OR;WA;CA
+R-SYN-0001504,2026-03-08,Granola Bars,PureRoot,Undeclared peanut allergen,I,TX;AZ;WA;CA
+R-SYN-0001505,2026-01-23,Granola Bars,Green Valley,Packaging integrity issue,I,AZ;TX;CO;CA
+R-SYN-0001506,2026-01-23,Organic Spinach,Green Valley,Possible metal fragments,II,ALL
+R-SYN-0001507,2025-12-06,Whole Milk,SunBite,Undeclared peanut allergen,I,UT;WA
+R-SYN-0001508,2026-02-15,Frozen Dumplings,FarmNest,Packaging integrity issue,II,NY;UT;NV
+R-SYN-0001509,2025-12-17,Chicken Nuggets,Green Valley,Packaging integrity issue,I,OR;UT
+R-SYN-0001510,2026-03-18,Whole Milk,FarmNest,Packaging integrity issue,II,WA;NY;OR
+R-SYN-0001511,2025-12-04,Whole Milk,DailySource,Packaging integrity issue,III,UT;TX
+R-SYN-0001512,2026-02-16,Protein Shake,UrbanHarvest,Undeclared peanut allergen,I,NV;CA
+R-SYN-0001513,2026-02-14,Organic Spinach,DailySource,Packaging integrity issue,I,AZ;NV;CO;OR
+R-SYN-0001514,2026-01-08,Protein Shake,PeakFuel,Possible metal fragments,I,NV;UT;WA
+R-SYN-0001515,2026-02-11,Frozen Dumplings,DailySource,Potential E. coli contamination,II,NV;OR;WA
+R-SYN-0001516,2025-12-21,Granola Bars,Green Valley,Packaging integrity issue,III,OR;NY
+R-SYN-0001517,2026-01-08,Whole Milk,Green Valley,Packaging integrity issue,I,WA;AZ;OR
+R-SYN-0001518,2026-03-25,Fresh Salad Mix,FarmNest,Packaging integrity issue,II,TX;CO
+R-SYN-0001519,2026-03-08,Protein Shake,UrbanHarvest,Potential E. coli contamination,II,CA;UT;WA;TX
+R-SYN-0001520,2025-12-06,Frozen Dumplings,PeakFuel,Potential E. coli contamination,III,NY;NV;CO
+R-SYN-0001521,2026-03-02,Whole Milk,PureRoot,Potential E. coli contamination,I,OR;NV;AZ;UT
+R-SYN-0001522,2025-12-31,Granola Bars,TrailJoy,Possible metal fragments,II,ALL
+R-SYN-0001523,2025-12-16,Fresh Salad Mix,PureRoot,Possible metal fragments,III,OR;CA;AZ
+R-SYN-0001524,2026-01-02,Fresh Salad Mix,Green Valley,Listeria monocytogenes risk,I,TX;UT
+R-SYN-0001525,2026-03-11,Chicken Nuggets,SunBite,Undeclared peanut allergen,II,OR;NV;NY;UT
+R-SYN-0001526,2026-02-23,Granola Bars,PeakFuel,Potential E. coli contamination,II,TX;CO
+R-SYN-0001527,2026-03-06,Greek Yogurt,Green Valley,Listeria monocytogenes risk,II,ALL
+R-SYN-0001528,2026-03-27,Fresh Salad Mix,FarmNest,Potential E. coli contamination,II,NV;AZ
+R-SYN-0001529,2026-02-03,Greek Yogurt,DailySource,Packaging integrity issue,II,WA;UT;AZ;NY
+R-SYN-0001530,2026-03-26,Organic Spinach,FarmNest,Possible metal fragments,III,AZ;CO
+R-SYN-0001531,2026-03-06,Organic Spinach,PureRoot,Listeria monocytogenes risk,I,WA;NY
+R-SYN-0001532,2026-01-10,Protein Shake,UrbanHarvest,Listeria monocytogenes risk,I,UT;OR
+R-SYN-0001533,2026-01-19,Greek Yogurt,FarmNest,Packaging integrity issue,III,ALL
+R-SYN-0001534,2026-01-03,Frozen Dumplings,PureRoot,Packaging integrity issue,II,AZ;UT
+R-SYN-0001535,2026-03-27,Greek Yogurt,SunBite,Undeclared peanut allergen,I,ALL
+R-SYN-0001536,2026-03-24,Fresh Salad Mix,SunBite,Undeclared peanut allergen,II,ALL
+R-SYN-0001537,2026-01-21,Frozen Dumplings,Green Valley,Listeria monocytogenes risk,III,NV;CO;AZ
+R-SYN-0001538,2026-03-01,Chicken Nuggets,PeakFuel,Possible metal fragments,III,NY;CO;OR
+R-SYN-0001539,2025-12-09,Whole Milk,TrailJoy,Undeclared peanut allergen,I,OR;NY;CO
+R-SYN-0001540,2025-12-27,Organic Spinach,PureRoot,Possible metal fragments,I,UT;WA;CO;TX
+R-SYN-0001541,2025-12-14,Whole Milk,TrailJoy,Listeria monocytogenes risk,II,CO;UT;WA;NV
+R-SYN-0001542,2026-02-13,Whole Milk,UrbanHarvest,Listeria monocytogenes risk,I,WA;UT
+R-SYN-0001543,2026-01-18,Protein Shake,UrbanHarvest,Listeria monocytogenes risk,II,AZ;OR;TX
+R-SYN-0001544,2026-02-09,Greek Yogurt,DailySource,Potential E. coli contamination,II,NV;CA;TX;UT
+R-SYN-0001545,2026-02-16,Greek Yogurt,PureRoot,Packaging integrity issue,II,WA;NV
+R-SYN-0001546,2026-01-18,Greek Yogurt,PeakFuel,Packaging integrity issue,II,WA;NY;UT;CO
+R-SYN-0001547,2026-01-31,Protein Shake,FarmNest,Listeria monocytogenes risk,I,UT;CA;AZ;CO
+R-SYN-0001548,2025-12-21,Frozen Dumplings,SunBite,Potential E. coli contamination,I,AZ;TX
+R-SYN-0001549,2026-02-19,Whole Milk,TrailJoy,Undeclared peanut allergen,III,AZ;UT
+R-SYN-0001550,2026-01-16,Chicken Nuggets,DailySource,Possible metal fragments,II,UT;NY
+R-SYN-0001551,2025-12-06,Greek Yogurt,FarmNest,Listeria monocytogenes risk,I,NY;CO;AZ
+R-SYN-0001552,2026-02-24,Protein Shake,SunBite,Undeclared peanut allergen,III,ALL
+R-SYN-0001553,2026-03-26,Greek Yogurt,PureRoot,Listeria monocytogenes risk,II,AZ;CO
+R-SYN-0001554,2026-01-16,Greek Yogurt,DailySource,Potential E. coli contamination,III,AZ;UT;CA;NY
+R-SYN-0001555,2026-03-23,Greek Yogurt,FarmNest,Packaging integrity issue,I,TX;WA
+R-SYN-0001556,2026-01-09,Whole Milk,PeakFuel,Potential E. coli contamination,II,CA;NV;TX
+R-SYN-0001557,2026-02-13,Granola Bars,TrailJoy,Packaging integrity issue,I,CO;AZ
+R-SYN-0001558,2025-12-06,Greek Yogurt,Green Valley,Undeclared peanut allergen,II,AZ;CA;NY
+R-SYN-0001559,2025-12-26,Chicken Nuggets,SunBite,Possible metal fragments,II,CA;UT;NY;WA
+R-SYN-0001560,2026-03-06,Chicken Nuggets,PureRoot,Listeria monocytogenes risk,I,NV;AZ;NY;OR
+R-SYN-0001561,2025-12-12,Fresh Salad Mix,PureRoot,Possible metal fragments,I,UT;WA;CO
+R-SYN-0001562,2026-02-23,Granola Bars,SunBite,Listeria monocytogenes risk,III,ALL
+R-SYN-0001563,2026-01-05,Whole Milk,SunBite,Potential E. coli contamination,III,WA;TX
+R-SYN-0001564,2026-03-09,Whole Milk,SunBite,Undeclared peanut allergen,II,TX;CA
+R-SYN-0001565,2025-12-29,Organic Spinach,UrbanHarvest,Packaging integrity issue,I,AZ;TX;OR
+R-SYN-0001566,2026-03-16,Organic Spinach,FarmNest,Undeclared peanut allergen,III,TX;UT
+R-SYN-0001567,2026-03-31,Fresh Salad Mix,TrailJoy,Undeclared peanut allergen,I,ALL
+R-SYN-0001568,2026-02-18,Protein Shake,DailySource,Undeclared peanut allergen,II,NY;CO;UT;AZ
+R-SYN-0001569,2026-01-04,Organic Spinach,DailySource,Undeclared peanut allergen,II,ALL
+R-SYN-0001570,2026-03-06,Granola Bars,FarmNest,Packaging integrity issue,II,TX;WA
+R-SYN-0001571,2026-03-08,Whole Milk,TrailJoy,Undeclared peanut allergen,II,NV;OR;TX
+R-SYN-0001572,2026-02-05,Granola Bars,UrbanHarvest,Undeclared peanut allergen,II,OR;UT;NV;TX
+R-SYN-0001573,2026-03-23,Organic Spinach,SunBite,Listeria monocytogenes risk,I,NV;TX;AZ;UT
+R-SYN-0001574,2026-02-02,Organic Spinach,SunBite,Possible metal fragments,II,TX;OR;AZ
+R-SYN-0001575,2025-12-14,Whole Milk,DailySource,Possible metal fragments,II,OR;CO;NY
+R-SYN-0001576,2026-01-21,Protein Shake,TrailJoy,Packaging integrity issue,I,CO;UT;NY
+R-SYN-0001577,2025-12-03,Fresh Salad Mix,DailySource,Listeria monocytogenes risk,II,NV;CA;UT
+R-SYN-0001578,2026-03-14,Whole Milk,PureRoot,Undeclared peanut allergen,II,ALL
+R-SYN-0001579,2025-12-20,Greek Yogurt,FarmNest,Packaging integrity issue,III,NV;CO
+R-SYN-0001580,2026-03-12,Granola Bars,UrbanHarvest,Undeclared peanut allergen,I,UT;OR;TX
+R-SYN-0001581,2026-03-07,Chicken Nuggets,DailySource,Listeria monocytogenes risk,II,CA;AZ;UT
+R-SYN-0001582,2026-03-23,Whole Milk,DailySource,Packaging integrity issue,I,WA;NV;UT
+R-SYN-0001583,2026-03-30,Granola Bars,FarmNest,Possible metal fragments,II,TX;NY;OR
+R-SYN-0001584,2026-02-23,Whole Milk,UrbanHarvest,Undeclared peanut allergen,II,CA;CO
+R-SYN-0001585,2026-02-12,Fresh Salad Mix,TrailJoy,Undeclared peanut allergen,III,CO;OR;UT
+R-SYN-0001586,2026-02-16,Whole Milk,TrailJoy,Undeclared peanut allergen,III,WA;UT;NV;TX
+R-SYN-0001587,2026-01-28,Chicken Nuggets,Green Valley,Possible metal fragments,II,ALL
+R-SYN-0001588,2025-12-25,Greek Yogurt,UrbanHarvest,Potential E. coli contamination,II,OR;TX;WA;NV
+R-SYN-0001589,2025-12-22,Protein Shake,PeakFuel,Undeclared peanut allergen,II,WA;UT;AZ
+R-SYN-0001590,2026-03-31,Whole Milk,UrbanHarvest,Packaging integrity issue,II,AZ;CO;NY
+R-SYN-0001591,2026-01-13,Protein Shake,TrailJoy,Packaging integrity issue,II,WA;OR
+R-SYN-0001592,2026-02-28,Fresh Salad Mix,PureRoot,Potential E. coli contamination,I,CA;UT;AZ
+R-SYN-0001593,2026-01-08,Fresh Salad Mix,SunBite,Possible metal fragments,II,CO;NV
+R-SYN-0001594,2026-01-19,Greek Yogurt,DailySource,Possible metal fragments,I,WA;CO;NY
+R-SYN-0001595,2026-03-11,Greek Yogurt,UrbanHarvest,Potential E. coli contamination,I,CO;AZ;TX;NY
+R-SYN-0001596,2025-12-15,Fresh Salad Mix,Green Valley,Listeria monocytogenes risk,II,CA;OR;NY
+R-SYN-0001597,2026-01-18,Organic Spinach,Green Valley,Undeclared peanut allergen,II,NY;TX
+R-SYN-0001598,2026-01-24,Greek Yogurt,TrailJoy,Potential E. coli contamination,II,TX;NV;NY
+R-SYN-0001599,2025-12-25,Frozen Dumplings,DailySource,Listeria monocytogenes risk,II,NV;NY;OR;CA
+R-SYN-0001600,2025-12-17,Protein Shake,DailySource,Undeclared peanut allergen,I,WA;UT;CA
+R-SYN-0001601,2026-01-08,Organic Spinach,Green Valley,Undeclared peanut allergen,II,ALL
+R-SYN-0001602,2025-12-24,Protein Shake,FarmNest,Undeclared peanut allergen,II,NV;CA;OR;NY
+R-SYN-0001603,2026-01-27,Organic Spinach,PureRoot,Packaging integrity issue,I,WA;UT
+R-SYN-0001604,2026-01-16,Chicken Nuggets,Green Valley,Possible metal fragments,II,UT;NY;WA
+R-SYN-0001605,2026-03-04,Greek Yogurt,Green Valley,Packaging integrity issue,I,NV;NY;UT;TX
+R-SYN-0001606,2025-12-25,Granola Bars,UrbanHarvest,Undeclared peanut allergen,I,OR;CO
+R-SYN-0001607,2026-03-28,Chicken Nuggets,PureRoot,Undeclared peanut allergen,I,ALL
+R-SYN-0001608,2025-12-19,Frozen Dumplings,TrailJoy,Undeclared peanut allergen,II,WA;OR;NY
+R-SYN-0001609,2026-01-31,Organic Spinach,TrailJoy,Packaging integrity issue,III,UT;CA
+R-SYN-0001610,2026-02-20,Organic Spinach,TrailJoy,Undeclared peanut allergen,III,NV;AZ;WA;UT
+R-SYN-0001611,2026-01-13,Greek Yogurt,DailySource,Listeria monocytogenes risk,II,WA;TX;OR;CA
+R-SYN-0001612,2025-12-08,Organic Spinach,Green Valley,Packaging integrity issue,I,ALL
+R-SYN-0001613,2026-02-24,Organic Spinach,PeakFuel,Listeria monocytogenes risk,II,TX;CA
+R-SYN-0001614,2026-02-12,Protein Shake,TrailJoy,Listeria monocytogenes risk,II,NV;CA;NY
+R-SYN-0001615,2025-12-23,Organic Spinach,SunBite,Possible metal fragments,I,TX;CA
+R-SYN-0001616,2025-12-09,Chicken Nuggets,FarmNest,Potential E. coli contamination,I,UT;OR;NY
+R-SYN-0001617,2026-03-29,Chicken Nuggets,SunBite,Undeclared peanut allergen,I,CA;UT;WA
+R-SYN-0001618,2026-02-04,Chicken Nuggets,PureRoot,Undeclared peanut allergen,III,TX;OR
+R-SYN-0001619,2025-12-31,Granola Bars,DailySource,Undeclared peanut allergen,III,ALL
+R-SYN-0001620,2026-02-25,Protein Shake,TrailJoy,Listeria monocytogenes risk,III,NV;CO
+R-SYN-0001621,2025-12-20,Protein Shake,Green Valley,Possible metal fragments,II,CO;NY;UT
+R-SYN-0001622,2026-01-06,Whole Milk,FarmNest,Possible metal fragments,II,NV;AZ
+R-SYN-0001623,2026-01-31,Whole Milk,PeakFuel,Undeclared peanut allergen,III,UT;NV;NY
+R-SYN-0001624,2026-02-04,Frozen Dumplings,PeakFuel,Undeclared peanut allergen,I,CO;NY;CA
+R-SYN-0001625,2026-02-16,Greek Yogurt,UrbanHarvest,Packaging integrity issue,II,NY;WA;NV;AZ
+R-SYN-0001626,2026-02-09,Frozen Dumplings,PureRoot,Potential E. coli contamination,III,TX;CA;NY;OR
+R-SYN-0001627,2026-01-05,Greek Yogurt,TrailJoy,Possible metal fragments,II,UT;NV;OR
+R-SYN-0001628,2026-01-06,Fresh Salad Mix,TrailJoy,Packaging integrity issue,II,WA;CO
+R-SYN-0001629,2026-03-12,Protein Shake,Green Valley,Packaging integrity issue,II,OR;WA
+R-SYN-0001630,2025-12-25,Fresh Salad Mix,PeakFuel,Undeclared peanut allergen,II,ALL
+R-SYN-0001631,2025-12-17,Protein Shake,Green Valley,Potential E. coli contamination,I,TX;UT
+R-SYN-0001632,2026-02-27,Chicken Nuggets,SunBite,Listeria monocytogenes risk,III,OR;AZ
+R-SYN-0001633,2026-02-10,Whole Milk,TrailJoy,Possible metal fragments,II,CA;CO;UT
+R-SYN-0001634,2026-01-27,Whole Milk,UrbanHarvest,Potential E. coli contamination,I,UT;TX;WA
+R-SYN-0001635,2026-01-02,Whole Milk,DailySource,Potential E. coli contamination,II,CO;OR
+R-SYN-0001636,2026-01-21,Frozen Dumplings,SunBite,Undeclared peanut allergen,II,CO;NV
+R-SYN-0001637,2025-12-26,Whole Milk,TrailJoy,Packaging integrity issue,III,ALL
+R-SYN-0001638,2026-02-20,Chicken Nuggets,TrailJoy,Packaging integrity issue,II,ALL
+R-SYN-0001639,2026-03-15,Organic Spinach,DailySource,Potential E. coli contamination,II,NV;CA;NY;OR
+R-SYN-0001640,2026-03-16,Chicken Nuggets,FarmNest,Listeria monocytogenes risk,I,AZ;NV;CA
+R-SYN-0001641,2026-01-03,Greek Yogurt,SunBite,Undeclared peanut allergen,II,NY;NV;CA
+R-SYN-0001642,2026-02-21,Greek Yogurt,TrailJoy,Possible metal fragments,III,WA;CO;NV
+R-SYN-0001643,2026-01-01,Frozen Dumplings,SunBite,Undeclared peanut allergen,I,CA;CO;WA;NY
+R-SYN-0001644,2025-12-20,Fresh Salad Mix,Green Valley,Packaging integrity issue,III,TX;NV;WA;CA
+R-SYN-0001645,2026-02-24,Fresh Salad Mix,PureRoot,Potential E. coli contamination,I,AZ;CO;WA;OR
+R-SYN-0001646,2025-12-04,Protein Shake,FarmNest,Potential E. coli contamination,I,ALL
+R-SYN-0001647,2026-03-08,Protein Shake,DailySource,Packaging integrity issue,II,NY;NV
+R-SYN-0001648,2026-03-17,Organic Spinach,TrailJoy,Undeclared peanut allergen,I,NV;CA;NY;CO
+R-SYN-0001649,2026-01-25,Organic Spinach,SunBite,Packaging integrity issue,II,OR;NY
+R-SYN-0001650,2026-02-19,Protein Shake,DailySource,Undeclared peanut allergen,I,WA;TX;CO
+R-SYN-0001651,2026-02-10,Frozen Dumplings,FarmNest,Undeclared peanut allergen,III,CO;TX
+R-SYN-0001652,2026-01-18,Greek Yogurt,TrailJoy,Listeria monocytogenes risk,III,OR;NV
+R-SYN-0001653,2026-03-24,Fresh Salad Mix,Green Valley,Possible metal fragments,II,ALL
+R-SYN-0001654,2026-01-05,Whole Milk,PureRoot,Listeria monocytogenes risk,II,NY;CO;OR;NV
+R-SYN-0001655,2025-12-08,Fresh Salad Mix,FarmNest,Undeclared peanut allergen,II,NV;CA
+R-SYN-0001656,2026-02-06,Frozen Dumplings,SunBite,Undeclared peanut allergen,II,ALL
+R-SYN-0001657,2026-02-24,Fresh Salad Mix,PeakFuel,Listeria monocytogenes risk,II,OR;AZ;NY
+R-SYN-0001658,2025-12-12,Chicken Nuggets,DailySource,Listeria monocytogenes risk,II,UT;NY;WA;CO
+R-SYN-0001659,2026-03-20,Chicken Nuggets,UrbanHarvest,Packaging integrity issue,II,OR;UT;NV
+R-SYN-0001660,2026-02-23,Protein Shake,UrbanHarvest,Possible metal fragments,III,OR;WA;NV
+R-SYN-0001661,2026-02-17,Fresh Salad Mix,PeakFuel,Possible metal fragments,II,NY;OR
+R-SYN-0001662,2026-03-07,Whole Milk,UrbanHarvest,Undeclared peanut allergen,II,TX;OR
+R-SYN-0001663,2026-01-09,Protein Shake,TrailJoy,Packaging integrity issue,II,CO;AZ
+R-SYN-0001664,2026-02-28,Fresh Salad Mix,DailySource,Possible metal fragments,III,NY;OR;CO
+R-SYN-0001665,2026-03-22,Granola Bars,SunBite,Listeria monocytogenes risk,III,TX;WA
+R-SYN-0001666,2025-12-18,Granola Bars,DailySource,Listeria monocytogenes risk,III,UT;NV;TX
+R-SYN-0001667,2026-02-25,Organic Spinach,PureRoot,Listeria monocytogenes risk,II,AZ;TX;CO
+R-SYN-0001668,2026-03-08,Frozen Dumplings,UrbanHarvest,Potential E. coli contamination,I,ALL
+R-SYN-0001669,2026-03-18,Granola Bars,FarmNest,Potential E. coli contamination,III,CA;UT
+R-SYN-0001670,2026-03-30,Frozen Dumplings,UrbanHarvest,Packaging integrity issue,II,WA;UT
+R-SYN-0001671,2026-01-11,Granola Bars,UrbanHarvest,Undeclared peanut allergen,I,WA;NY;NV
+R-SYN-0001672,2025-12-16,Fresh Salad Mix,TrailJoy,Packaging integrity issue,II,OR;CO
+R-SYN-0001673,2026-03-16,Frozen Dumplings,TrailJoy,Listeria monocytogenes risk,I,NY;WA
+R-SYN-0001674,2026-02-24,Frozen Dumplings,Green Valley,Undeclared peanut allergen,II,NV;CO;TX;UT
+R-SYN-0001675,2026-03-19,Frozen Dumplings,PureRoot,Listeria monocytogenes risk,II,NV;CA;OR
+R-SYN-0001676,2025-12-24,Granola Bars,TrailJoy,Listeria monocytogenes risk,II,AZ;CA;WA
+R-SYN-0001677,2026-01-26,Fresh Salad Mix,DailySource,Packaging integrity issue,I,NV;NY
+R-SYN-0001678,2025-12-21,Fresh Salad Mix,TrailJoy,Undeclared peanut allergen,I,OR;WA
+R-SYN-0001679,2026-02-11,Chicken Nuggets,Green Valley,Packaging integrity issue,I,CA;NV;OR
+R-SYN-0001680,2026-02-15,Whole Milk,PureRoot,Potential E. coli contamination,II,TX;NV;NY
+R-SYN-0001681,2026-02-15,Protein Shake,PeakFuel,Possible metal fragments,III,NY;WA
+R-SYN-0001682,2025-12-12,Protein Shake,Green Valley,Listeria monocytogenes risk,II,NY;TX
+R-SYN-0001683,2026-01-12,Organic Spinach,PeakFuel,Potential E. coli contamination,II,OR;NY
+R-SYN-0001684,2025-12-12,Fresh Salad Mix,PeakFuel,Undeclared peanut allergen,I,TX;WA;NV;CA
+R-SYN-0001685,2026-01-11,Organic Spinach,FarmNest,Possible metal fragments,II,WA;CA
+R-SYN-0001686,2025-12-18,Protein Shake,SunBite,Potential E. coli contamination,II,UT;TX
+R-SYN-0001687,2025-12-22,Chicken Nuggets,UrbanHarvest,Undeclared peanut allergen,I,CA;AZ
+R-SYN-0001688,2025-12-12,Greek Yogurt,PeakFuel,Packaging integrity issue,III,NV;NY
+R-SYN-0001689,2026-03-10,Organic Spinach,DailySource,Undeclared peanut allergen,III,AZ;OR;WA;TX
+R-SYN-0001690,2026-02-01,Greek Yogurt,SunBite,Undeclared peanut allergen,I,TX;NV
+R-SYN-0001691,2026-03-14,Organic Spinach,PeakFuel,Listeria monocytogenes risk,II,UT;NV;OR
+R-SYN-0001692,2026-01-31,Whole Milk,PureRoot,Possible metal fragments,II,CO;NY;NV;CA
+R-SYN-0001693,2026-03-05,Frozen Dumplings,UrbanHarvest,Possible metal fragments,I,NV;OR;NY
+R-SYN-0001694,2026-03-28,Whole Milk,DailySource,Undeclared peanut allergen,II,NY;CO;NV;OR
+R-SYN-0001695,2025-12-20,Greek Yogurt,PeakFuel,Listeria monocytogenes risk,I,ALL
+R-SYN-0001696,2026-03-02,Chicken Nuggets,PeakFuel,Listeria monocytogenes risk,II,WA;CO;TX
+R-SYN-0001697,2026-02-06,Organic Spinach,TrailJoy,Undeclared peanut allergen,III,AZ;CA;NY
+R-SYN-0001698,2026-01-31,Fresh Salad Mix,PureRoot,Potential E. coli contamination,II,UT;CO;CA;WA
+R-SYN-0001699,2026-03-23,Whole Milk,UrbanHarvest,Undeclared peanut allergen,I,TX;NY
+R-SYN-0001700,2025-12-26,Granola Bars,Green Valley,Potential E. coli contamination,II,CA;CO;WA
+R-SYN-0001701,2026-02-17,Chicken Nuggets,UrbanHarvest,Packaging integrity issue,I,TX;CO;NV;WA
+R-SYN-0001702,2026-02-04,Organic Spinach,SunBite,Undeclared peanut allergen,III,CO;OR;TX;NV
+R-SYN-0001703,2025-12-24,Protein Shake,SunBite,Packaging integrity issue,II,CA;OR
+R-SYN-0001704,2026-03-30,Greek Yogurt,TrailJoy,Listeria monocytogenes risk,II,NV;OR
+R-SYN-0001705,2025-12-04,Protein Shake,Green Valley,Potential E. coli contamination,I,ALL
+R-SYN-0001706,2025-12-28,Chicken Nuggets,SunBite,Undeclared peanut allergen,II,CO;TX;CA;AZ
+R-SYN-0001707,2026-02-01,Whole Milk,UrbanHarvest,Listeria monocytogenes risk,III,UT;AZ;CO;NV
+R-SYN-0001708,2026-02-18,Greek Yogurt,PeakFuel,Packaging integrity issue,II,NV;CO
+R-SYN-0001709,2026-02-25,Whole Milk,PeakFuel,Listeria monocytogenes risk,III,OR;UT
+R-SYN-0001710,2026-03-18,Greek Yogurt,TrailJoy,Undeclared peanut allergen,III,TX;AZ
+R-SYN-0001711,2026-02-07,Fresh Salad Mix,PureRoot,Packaging integrity issue,I,ALL
+R-SYN-0001712,2026-03-11,Chicken Nuggets,SunBite,Possible metal fragments,III,ALL
+R-SYN-0001713,2026-02-08,Fresh Salad Mix,FarmNest,Listeria monocytogenes risk,II,ALL
+R-SYN-0001714,2025-12-01,Whole Milk,SunBite,Possible metal fragments,I,NV;WA;CO
+R-SYN-0001715,2026-02-04,Protein Shake,PeakFuel,Undeclared peanut allergen,II,AZ;NV
+R-SYN-0001716,2025-12-12,Frozen Dumplings,SunBite,Potential E. coli contamination,I,UT;NV
+R-SYN-0001717,2026-01-27,Frozen Dumplings,FarmNest,Potential E. coli contamination,I,OR;AZ
+R-SYN-0001718,2026-01-04,Whole Milk,SunBite,Potential E. coli contamination,I,CA;TX
+R-SYN-0001719,2026-03-26,Organic Spinach,TrailJoy,Undeclared peanut allergen,III,TX;OR;CO
+R-SYN-0001720,2026-02-22,Frozen Dumplings,PeakFuel,Undeclared peanut allergen,I,NY;TX;WA
+R-SYN-0001721,2026-01-13,Protein Shake,PeakFuel,Potential E. coli contamination,II,CO;UT
+R-SYN-0001722,2026-02-14,Granola Bars,PeakFuel,Listeria monocytogenes risk,II,AZ;WA;TX
+R-SYN-0001723,2026-01-31,Greek Yogurt,FarmNest,Potential E. coli contamination,I,NY;TX
+R-SYN-0001724,2026-02-02,Greek Yogurt,FarmNest,Potential E. coli contamination,I,WA;CO;UT
+R-SYN-0001725,2026-02-07,Frozen Dumplings,PeakFuel,Undeclared peanut allergen,III,NY;NV;TX
+R-SYN-0001726,2026-02-15,Frozen Dumplings,Green Valley,Potential E. coli contamination,III,NY;CO;WA
+R-SYN-0001727,2026-01-06,Fresh Salad Mix,UrbanHarvest,Listeria monocytogenes risk,I,NV;AZ;UT;OR
+R-SYN-0001728,2025-12-10,Greek Yogurt,Green Valley,Undeclared peanut allergen,III,AZ;NY;CA
+R-SYN-0001729,2025-12-08,Greek Yogurt,TrailJoy,Packaging integrity issue,II,NY;NV
+R-SYN-0001730,2026-03-27,Organic Spinach,UrbanHarvest,Possible metal fragments,III,TX;CO
+R-SYN-0001731,2025-12-23,Protein Shake,TrailJoy,Undeclared peanut allergen,I,UT;OR;CO;WA
+R-SYN-0001732,2025-12-08,Protein Shake,PureRoot,Potential E. coli contamination,II,OR;CO;CA;NY
+R-SYN-0001733,2026-02-17,Organic Spinach,PureRoot,Packaging integrity issue,II,NV;CO;OR
+R-SYN-0001734,2026-01-17,Protein Shake,UrbanHarvest,Packaging integrity issue,I,CA;WA;AZ;OR
+R-SYN-0001735,2026-02-27,Fresh Salad Mix,PeakFuel,Potential E. coli contamination,II,ALL
+R-SYN-0001736,2025-12-16,Chicken Nuggets,TrailJoy,Listeria monocytogenes risk,I,ALL
+R-SYN-0001737,2026-03-22,Granola Bars,PureRoot,Potential E. coli contamination,II,OR;CA;WA;UT
+R-SYN-0001738,2026-03-04,Granola Bars,SunBite,Undeclared peanut allergen,III,AZ;NY;OR;UT
+R-SYN-0001739,2026-03-06,Organic Spinach,PureRoot,Potential E. coli contamination,I,CA;TX;CO
+R-SYN-0001740,2025-12-02,Granola Bars,FarmNest,Possible metal fragments,II,WA;NY;CO
+R-SYN-0001741,2026-03-19,Granola Bars,PeakFuel,Packaging integrity issue,II,NY;TX
+R-SYN-0001742,2025-12-12,Organic Spinach,TrailJoy,Potential E. coli contamination,II,NY;TX;NV
+R-SYN-0001743,2026-02-02,Whole Milk,SunBite,Packaging integrity issue,II,UT;TX;WA
+R-SYN-0001744,2026-01-05,Granola Bars,SunBite,Possible metal fragments,II,WA;OR;AZ
+R-SYN-0001745,2026-03-29,Frozen Dumplings,SunBite,Undeclared peanut allergen,I,UT;WA;CO;AZ
+R-SYN-0001746,2026-02-15,Organic Spinach,UrbanHarvest,Listeria monocytogenes risk,II,NV;WA;TX;UT
+R-SYN-0001747,2026-01-11,Chicken Nuggets,SunBite,Undeclared peanut allergen,III,UT;CO;WA
+R-SYN-0001748,2026-02-18,Whole Milk,TrailJoy,Potential E. coli contamination,I,AZ;CA;UT;NY
+R-SYN-0001749,2026-01-07,Whole Milk,PureRoot,Potential E. coli contamination,III,NY;TX
+R-SYN-0001750,2026-01-14,Frozen Dumplings,FarmNest,Listeria monocytogenes risk,II,AZ;TX;OR;CA
+R-SYN-0001751,2025-12-21,Whole Milk,TrailJoy,Possible metal fragments,II,TX;CA
+R-SYN-0001752,2025-12-01,Granola Bars,FarmNest,Possible metal fragments,III,AZ;NV;CA
+R-SYN-0001753,2026-01-23,Whole Milk,SunBite,Listeria monocytogenes risk,I,CA;OR
+R-SYN-0001754,2026-02-18,Greek Yogurt,SunBite,Undeclared peanut allergen,III,AZ;TX
+R-SYN-0001755,2026-03-19,Granola Bars,UrbanHarvest,Possible metal fragments,III,TX;WA
+R-SYN-0001756,2026-03-25,Granola Bars,PeakFuel,Packaging integrity issue,II,UT;OR
+R-SYN-0001757,2025-12-05,Granola Bars,SunBite,Listeria monocytogenes risk,II,ALL
+R-SYN-0001758,2025-12-04,Fresh Salad Mix,SunBite,Possible metal fragments,I,ALL
+R-SYN-0001759,2026-03-23,Frozen Dumplings,Green Valley,Potential E. coli contamination,III,ALL
+R-SYN-0001760,2025-12-18,Whole Milk,PureRoot,Packaging integrity issue,I,WA;TX;NY;CO
+R-SYN-0001761,2026-03-08,Frozen Dumplings,Green Valley,Listeria monocytogenes risk,I,UT;WA
+R-SYN-0001762,2026-02-07,Organic Spinach,PeakFuel,Packaging integrity issue,II,CO;WA
+R-SYN-0001763,2026-03-24,Fresh Salad Mix,TrailJoy,Packaging integrity issue,II,OR;AZ;TX;WA
+R-SYN-0001764,2026-01-15,Fresh Salad Mix,PeakFuel,Possible metal fragments,I,NV;OR
+R-SYN-0001765,2026-01-08,Chicken Nuggets,Green Valley,Potential E. coli contamination,II,NY;UT;NV
+R-SYN-0001766,2026-01-08,Frozen Dumplings,TrailJoy,Undeclared peanut allergen,II,CA;TX
+R-SYN-0001767,2026-01-03,Fresh Salad Mix,FarmNest,Undeclared peanut allergen,I,ALL
+R-SYN-0001768,2026-03-31,Protein Shake,SunBite,Potential E. coli contamination,II,NY;UT;AZ
+R-SYN-0001769,2026-01-08,Frozen Dumplings,UrbanHarvest,Possible metal fragments,III,OR;CO;AZ;TX
+R-SYN-0001770,2025-12-12,Greek Yogurt,TrailJoy,Listeria monocytogenes risk,II,WA;CO;UT;NY
+R-SYN-0001771,2026-02-04,Organic Spinach,PeakFuel,Potential E. coli contamination,II,CO;OR
+R-SYN-0001772,2026-03-05,Fresh Salad Mix,SunBite,Possible metal fragments,I,CA;CO;NV
+R-SYN-0001773,2025-12-24,Frozen Dumplings,DailySource,Possible metal fragments,I,OR;CO
+R-SYN-0001774,2026-02-10,Granola Bars,FarmNest,Listeria monocytogenes risk,I,WA;CO
+R-SYN-0001775,2026-02-10,Protein Shake,FarmNest,Potential E. coli contamination,I,TX;OR;NV
+R-SYN-0001776,2026-01-06,Granola Bars,PureRoot,Potential E. coli contamination,I,WA;OR
+R-SYN-0001777,2026-02-27,Protein Shake,FarmNest,Listeria monocytogenes risk,III,ALL
+R-SYN-0001778,2026-03-29,Whole Milk,PureRoot,Packaging integrity issue,I,TX;OR
+R-SYN-0001779,2025-12-29,Fresh Salad Mix,PeakFuel,Possible metal fragments,II,AZ;TX;WA;NV
+R-SYN-0001780,2026-01-11,Protein Shake,TrailJoy,Possible metal fragments,I,WA;AZ;UT
+R-SYN-0001781,2026-03-02,Fresh Salad Mix,Green Valley,Potential E. coli contamination,I,NV;CA
+R-SYN-0001782,2026-03-05,Chicken Nuggets,PureRoot,Packaging integrity issue,III,ALL
+R-SYN-0001783,2026-01-03,Chicken Nuggets,FarmNest,Undeclared peanut allergen,II,CA;OR
+R-SYN-0001784,2026-03-30,Fresh Salad Mix,SunBite,Possible metal fragments,II,TX;AZ
+R-SYN-0001785,2025-12-03,Protein Shake,SunBite,Potential E. coli contamination,III,WA;CA;UT;AZ
+R-SYN-0001786,2026-02-24,Greek Yogurt,Green Valley,Listeria monocytogenes risk,III,AZ;TX;CA
+R-SYN-0001787,2026-01-26,Protein Shake,PeakFuel,Potential E. coli contamination,II,CO;NY;CA
+R-SYN-0001788,2025-12-27,Frozen Dumplings,Green Valley,Possible metal fragments,I,CA;NY
+R-SYN-0001789,2026-03-06,Protein Shake,TrailJoy,Undeclared peanut allergen,I,ALL
+R-SYN-0001790,2026-02-02,Protein Shake,FarmNest,Potential E. coli contamination,I,AZ;OR
+R-SYN-0001791,2025-12-15,Fresh Salad Mix,FarmNest,Potential E. coli contamination,III,CA;NY;CO
+R-SYN-0001792,2026-03-27,Greek Yogurt,PureRoot,Potential E. coli contamination,I,NY;NV
+R-SYN-0001793,2026-03-18,Fresh Salad Mix,TrailJoy,Undeclared peanut allergen,I,UT;AZ;WA;TX
+R-SYN-0001794,2025-12-15,Protein Shake,DailySource,Listeria monocytogenes risk,I,OR;AZ;NY
+R-SYN-0001795,2026-01-13,Protein Shake,Green Valley,Undeclared peanut allergen,II,CO;TX;NV;OR
+R-SYN-0001796,2026-03-17,Greek Yogurt,Green Valley,Undeclared peanut allergen,II,UT;CO
+R-SYN-0001797,2026-02-09,Greek Yogurt,Green Valley,Packaging integrity issue,I,WA;CA
+R-SYN-0001798,2026-01-25,Frozen Dumplings,TrailJoy,Packaging integrity issue,II,TX;OR;NY;NV
+R-SYN-0001799,2026-01-20,Greek Yogurt,FarmNest,Potential E. coli contamination,II,NY;WA
+R-SYN-0001800,2026-01-01,Frozen Dumplings,FarmNest,Packaging integrity issue,II,UT;TX;AZ;NY
+R-SYN-0001801,2026-02-01,Greek Yogurt,PeakFuel,Possible metal fragments,I,CA;UT
+R-SYN-0001802,2026-03-21,Whole Milk,FarmNest,Packaging integrity issue,I,TX;CO;NV
+R-SYN-0001803,2025-12-07,Whole Milk,Green Valley,Packaging integrity issue,I,AZ;NV;UT
+R-SYN-0001804,2026-03-17,Granola Bars,PeakFuel,Possible metal fragments,I,UT;CO
+R-SYN-0001805,2026-02-23,Chicken Nuggets,SunBite,Undeclared peanut allergen,I,CA;AZ;WA;NV
+R-SYN-0001806,2026-03-26,Fresh Salad Mix,DailySource,Potential E. coli contamination,I,ALL
+R-SYN-0001807,2026-01-06,Granola Bars,TrailJoy,Listeria monocytogenes risk,I,UT;OR;CO
+R-SYN-0001808,2026-03-12,Fresh Salad Mix,PureRoot,Packaging integrity issue,I,UT;WA;NY
+R-SYN-0001809,2026-02-12,Organic Spinach,UrbanHarvest,Possible metal fragments,III,CA;UT;AZ
+R-SYN-0001810,2026-01-30,Organic Spinach,PureRoot,Undeclared peanut allergen,I,UT;CO;OR;NY
+R-SYN-0001811,2025-12-21,Organic Spinach,FarmNest,Undeclared peanut allergen,I,TX;NV
+R-SYN-0001812,2026-02-27,Frozen Dumplings,Green Valley,Possible metal fragments,II,NY;CO;WA;TX
+R-SYN-0001813,2026-01-24,Protein Shake,PureRoot,Undeclared peanut allergen,II,ALL
+R-SYN-0001814,2026-02-25,Protein Shake,FarmNest,Potential E. coli contamination,I,OR;NY;UT;NV
+R-SYN-0001815,2026-01-08,Granola Bars,PureRoot,Possible metal fragments,I,NY;AZ;CO
+R-SYN-0001816,2025-12-29,Fresh Salad Mix,TrailJoy,Potential E. coli contamination,I,CO;CA
+R-SYN-0001817,2025-12-16,Fresh Salad Mix,PeakFuel,Listeria monocytogenes risk,I,OR;CA;TX
+R-SYN-0001818,2026-02-08,Protein Shake,UrbanHarvest,Possible metal fragments,II,CA;TX
+R-SYN-0001819,2026-01-30,Fresh Salad Mix,PeakFuel,Listeria monocytogenes risk,II,UT;CA;NV;TX
+R-SYN-0001820,2025-12-28,Frozen Dumplings,UrbanHarvest,Undeclared peanut allergen,II,OR;AZ
+R-SYN-0001821,2025-12-29,Greek Yogurt,DailySource,Packaging integrity issue,III,ALL
+R-SYN-0001822,2026-01-02,Whole Milk,Green Valley,Possible metal fragments,II,ALL
+R-SYN-0001823,2025-12-12,Granola Bars,TrailJoy,Undeclared peanut allergen,III,WA;OR;CO
+R-SYN-0001824,2026-02-19,Frozen Dumplings,PureRoot,Undeclared peanut allergen,III,TX;CO
+R-SYN-0001825,2026-01-23,Chicken Nuggets,SunBite,Packaging integrity issue,I,TX;WA
+R-SYN-0001826,2026-01-27,Protein Shake,FarmNest,Listeria monocytogenes risk,II,NV;CA
+R-SYN-0001827,2025-12-29,Frozen Dumplings,SunBite,Packaging integrity issue,II,NV;TX;WA
+R-SYN-0001828,2026-01-26,Fresh Salad Mix,Green Valley,Potential E. coli contamination,III,CA;TX
+R-SYN-0001829,2026-02-17,Fresh Salad Mix,SunBite,Packaging integrity issue,I,WA;NV
+R-SYN-0001830,2026-02-17,Chicken Nuggets,DailySource,Possible metal fragments,II,TX;NV;CA;OR
+R-SYN-0001831,2026-01-03,Protein Shake,PureRoot,Possible metal fragments,II,TX;OR
+R-SYN-0001832,2026-01-13,Frozen Dumplings,SunBite,Packaging integrity issue,II,UT;OR
+R-SYN-0001833,2026-03-03,Protein Shake,PureRoot,Packaging integrity issue,II,NY;NV;TX;CO
+R-SYN-0001834,2025-12-17,Greek Yogurt,TrailJoy,Packaging integrity issue,II,CO;OR
+R-SYN-0001835,2026-02-17,Whole Milk,PureRoot,Potential E. coli contamination,I,OR;NY;UT;NV
+R-SYN-0001836,2026-02-07,Organic Spinach,UrbanHarvest,Potential E. coli contamination,II,NV;UT;WA
+R-SYN-0001837,2025-12-20,Organic Spinach,SunBite,Potential E. coli contamination,II,CA;WA
+R-SYN-0001838,2025-12-10,Organic Spinach,TrailJoy,Possible metal fragments,II,CA;NV
+R-SYN-0001839,2026-03-12,Chicken Nuggets,SunBite,Possible metal fragments,III,WA;OR
+R-SYN-0001840,2025-12-07,Whole Milk,UrbanHarvest,Potential E. coli contamination,III,NV;TX
+R-SYN-0001841,2026-01-28,Chicken Nuggets,PureRoot,Packaging integrity issue,II,UT;OR
+R-SYN-0001842,2026-02-22,Organic Spinach,SunBite,Undeclared peanut allergen,I,CO;WA;NY;NV
+R-SYN-0001843,2026-03-01,Chicken Nuggets,FarmNest,Listeria monocytogenes risk,I,TX;CA;CO
+R-SYN-0001844,2026-01-05,Whole Milk,DailySource,Potential E. coli contamination,II,ALL
+R-SYN-0001845,2026-02-12,Frozen Dumplings,PeakFuel,Possible metal fragments,II,CO;OR;UT;TX
+R-SYN-0001846,2026-02-08,Fresh Salad Mix,PureRoot,Possible metal fragments,III,CO;TX;OR;NY
+R-SYN-0001847,2026-03-13,Whole Milk,PureRoot,Packaging integrity issue,I,OR;CA
+R-SYN-0001848,2025-12-23,Granola Bars,TrailJoy,Undeclared peanut allergen,III,ALL
+R-SYN-0001849,2025-12-14,Protein Shake,PeakFuel,Undeclared peanut allergen,II,UT;CA;WA;OR
+R-SYN-0001850,2026-01-01,Organic Spinach,DailySource,Undeclared peanut allergen,II,ALL
+R-SYN-0001851,2025-12-24,Fresh Salad Mix,Green Valley,Listeria monocytogenes risk,I,WA;UT;NY;AZ
+R-SYN-0001852,2026-01-06,Whole Milk,TrailJoy,Packaging integrity issue,I,OR;CA
+R-SYN-0001853,2025-12-07,Whole Milk,PureRoot,Potential E. coli contamination,III,NV;AZ;CA;OR
+R-SYN-0001854,2025-12-19,Greek Yogurt,PureRoot,Packaging integrity issue,II,NV;OR
+R-SYN-0001855,2026-03-20,Fresh Salad Mix,PureRoot,Possible metal fragments,II,ALL
+R-SYN-0001856,2025-12-15,Protein Shake,Green Valley,Packaging integrity issue,II,NY;WA;NV;OR
+R-SYN-0001857,2026-02-19,Whole Milk,SunBite,Possible metal fragments,III,UT;NY;TX
+R-SYN-0001858,2026-01-15,Granola Bars,PeakFuel,Potential E. coli contamination,III,CO;WA
+R-SYN-0001859,2026-03-31,Organic Spinach,PureRoot,Packaging integrity issue,II,CA;TX
+R-SYN-0001860,2025-12-15,Fresh Salad Mix,TrailJoy,Potential E. coli contamination,I,AZ;CA;CO;NV
+R-SYN-0001861,2026-02-11,Organic Spinach,PeakFuel,Potential E. coli contamination,I,AZ;CA;WA;NV
+R-SYN-0001862,2025-12-22,Greek Yogurt,TrailJoy,Packaging integrity issue,III,NY;CA;AZ;UT
+R-SYN-0001863,2026-03-03,Granola Bars,PeakFuel,Potential E. coli contamination,III,OR;NV;TX;CA
+R-SYN-0001864,2025-12-30,Chicken Nuggets,FarmNest,Listeria monocytogenes risk,II,NY;AZ
+R-SYN-0001865,2026-03-29,Frozen Dumplings,DailySource,Listeria monocytogenes risk,III,TX;OR
+R-SYN-0001866,2026-03-29,Fresh Salad Mix,PeakFuel,Potential E. coli contamination,III,WA;TX;CO
+R-SYN-0001867,2025-12-02,Whole Milk,UrbanHarvest,Undeclared peanut allergen,I,TX;CO;OR
+R-SYN-0001868,2025-12-03,Frozen Dumplings,DailySource,Potential E. coli contamination,I,TX;UT
+R-SYN-0001869,2026-01-13,Greek Yogurt,Green Valley,Listeria monocytogenes risk,I,UT;AZ
+R-SYN-0001870,2026-03-15,Chicken Nuggets,DailySource,Packaging integrity issue,II,WA;UT
+R-SYN-0001871,2026-02-02,Frozen Dumplings,PeakFuel,Possible metal fragments,I,ALL
+R-SYN-0001872,2026-03-10,Whole Milk,Green Valley,Undeclared peanut allergen,III,TX;NV
+R-SYN-0001873,2026-02-24,Granola Bars,Green Valley,Undeclared peanut allergen,II,NV;CO
+R-SYN-0001874,2026-01-22,Frozen Dumplings,FarmNest,Listeria monocytogenes risk,II,NY;UT;CA;NV
+R-SYN-0001875,2025-12-15,Greek Yogurt,SunBite,Listeria monocytogenes risk,III,TX;WA
+R-SYN-0001876,2026-02-26,Fresh Salad Mix,FarmNest,Packaging integrity issue,II,CO;WA;NV
+R-SYN-0001877,2026-02-05,Protein Shake,TrailJoy,Potential E. coli contamination,III,AZ;NV;CA;NY
+R-SYN-0001878,2026-03-02,Chicken Nuggets,Green Valley,Listeria monocytogenes risk,II,NV;UT;AZ;CA
+R-SYN-0001879,2026-02-01,Chicken Nuggets,Green Valley,Listeria monocytogenes risk,III,UT;NY;NV
+R-SYN-0001880,2025-12-20,Organic Spinach,UrbanHarvest,Potential E. coli contamination,II,NY;UT;TX;AZ
+R-SYN-0001881,2026-02-15,Whole Milk,FarmNest,Potential E. coli contamination,III,AZ;CA;NV;NY
+R-SYN-0001882,2026-01-21,Chicken Nuggets,SunBite,Possible metal fragments,II,UT;NY
+R-SYN-0001883,2026-03-22,Greek Yogurt,UrbanHarvest,Packaging integrity issue,II,CA;OR;TX;WA
+R-SYN-0001884,2026-01-11,Granola Bars,Green Valley,Undeclared peanut allergen,I,CA;WA;AZ
+R-SYN-0001885,2025-12-14,Fresh Salad Mix,PeakFuel,Packaging integrity issue,III,AZ;TX;UT
+R-SYN-0001886,2026-03-21,Granola Bars,UrbanHarvest,Listeria monocytogenes risk,II,CO;TX
+R-SYN-0001887,2026-02-14,Greek Yogurt,TrailJoy,Packaging integrity issue,II,UT;NY
+R-SYN-0001888,2026-03-28,Chicken Nuggets,PeakFuel,Listeria monocytogenes risk,II,CO;UT
+R-SYN-0001889,2026-01-12,Chicken Nuggets,PureRoot,Packaging integrity issue,I,UT;CO;AZ
+R-SYN-0001890,2025-12-13,Greek Yogurt,FarmNest,Possible metal fragments,II,CA;AZ;CO;OR
+R-SYN-0001891,2026-03-31,Fresh Salad Mix,FarmNest,Undeclared peanut allergen,II,AZ;NV
+R-SYN-0001892,2026-02-11,Whole Milk,DailySource,Packaging integrity issue,I,OR;NY
+R-SYN-0001893,2025-12-22,Whole Milk,UrbanHarvest,Possible metal fragments,I,CO;NV;TX
+R-SYN-0001894,2026-03-14,Whole Milk,PeakFuel,Undeclared peanut allergen,II,UT;OR
+R-SYN-0001895,2025-12-20,Fresh Salad Mix,TrailJoy,Undeclared peanut allergen,II,TX;AZ;WA;UT
+R-SYN-0001896,2026-02-26,Frozen Dumplings,UrbanHarvest,Undeclared peanut allergen,II,NY;AZ;WA
+R-SYN-0001897,2026-03-10,Greek Yogurt,PureRoot,Packaging integrity issue,I,UT;AZ;CA
+R-SYN-0001898,2026-03-03,Frozen Dumplings,PureRoot,Possible metal fragments,II,UT;OR;WA
+R-SYN-0001899,2025-12-13,Whole Milk,Green Valley,Packaging integrity issue,I,OR;UT;TX;CA
+R-SYN-0001900,2026-03-07,Granola Bars,SunBite,Packaging integrity issue,III,ALL
+R-SYN-0001901,2025-12-15,Frozen Dumplings,DailySource,Packaging integrity issue,II,ALL
+R-SYN-0001902,2026-01-24,Whole Milk,TrailJoy,Possible metal fragments,II,ALL
+R-SYN-0001903,2026-02-13,Protein Shake,PureRoot,Possible metal fragments,I,AZ;UT
+R-SYN-0001904,2026-03-06,Frozen Dumplings,TrailJoy,Undeclared peanut allergen,II,CO;TX;UT
+R-SYN-0001905,2025-12-19,Fresh Salad Mix,DailySource,Possible metal fragments,I,NY;TX;UT
+R-SYN-0001906,2025-12-23,Frozen Dumplings,Green Valley,Possible metal fragments,I,TX;CO;OR;CA
+R-SYN-0001907,2026-01-13,Greek Yogurt,DailySource,Potential E. coli contamination,I,UT;AZ;WA;TX
+R-SYN-0001908,2025-12-08,Greek Yogurt,UrbanHarvest,Packaging integrity issue,III,NV;CA;NY
+R-SYN-0001909,2025-12-11,Fresh Salad Mix,DailySource,Packaging integrity issue,II,NY;CO
+R-SYN-0001910,2025-12-31,Whole Milk,UrbanHarvest,Possible metal fragments,II,NV;AZ;UT;NY
+R-SYN-0001911,2025-12-21,Granola Bars,FarmNest,Packaging integrity issue,I,TX;NV
+R-SYN-0001912,2026-02-17,Organic Spinach,FarmNest,Potential E. coli contamination,III,ALL
+R-SYN-0001913,2025-12-19,Granola Bars,UrbanHarvest,Undeclared peanut allergen,II,WA;NY
+R-SYN-0001914,2026-01-08,Frozen Dumplings,UrbanHarvest,Possible metal fragments,I,ALL
+R-SYN-0001915,2026-02-16,Chicken Nuggets,Green Valley,Packaging integrity issue,I,NY;TX;UT;NV
+R-SYN-0001916,2026-02-23,Fresh Salad Mix,PureRoot,Packaging integrity issue,II,CO;WA
+R-SYN-0001917,2026-02-05,Chicken Nuggets,DailySource,Possible metal fragments,II,NY;AZ
+R-SYN-0001918,2025-12-13,Greek Yogurt,UrbanHarvest,Possible metal fragments,I,WA;NY;AZ;OR
+R-SYN-0001919,2025-12-18,Frozen Dumplings,FarmNest,Undeclared peanut allergen,III,NY;CA;AZ;UT
+R-SYN-0001920,2026-01-11,Frozen Dumplings,Green Valley,Listeria monocytogenes risk,II,WA;NV;NY;UT
+R-SYN-0001921,2026-03-11,Protein Shake,DailySource,Possible metal fragments,I,NV;TX;AZ
+R-SYN-0001922,2026-02-01,Greek Yogurt,FarmNest,Possible metal fragments,II,AZ;OR;WA;TX
+R-SYN-0001923,2026-02-11,Greek Yogurt,Green Valley,Possible metal fragments,I,ALL
+R-SYN-0001924,2025-12-17,Chicken Nuggets,PureRoot,Packaging integrity issue,I,ALL
+R-SYN-0001925,2026-03-25,Greek Yogurt,DailySource,Potential E. coli contamination,II,WA;UT;CO
+R-SYN-0001926,2025-12-21,Protein Shake,FarmNest,Potential E. coli contamination,I,WA;NV;TX;CA
+R-SYN-0001927,2025-12-28,Fresh Salad Mix,UrbanHarvest,Packaging integrity issue,I,UT;NY;TX;NV
+R-SYN-0001928,2026-02-18,Whole Milk,TrailJoy,Packaging integrity issue,III,UT;OR;NY
+R-SYN-0001929,2026-02-06,Frozen Dumplings,DailySource,Listeria monocytogenes risk,II,NY;NV
+R-SYN-0001930,2026-02-22,Protein Shake,Green Valley,Packaging integrity issue,I,CO;TX;UT;WA
+R-SYN-0001931,2026-01-13,Chicken Nuggets,Green Valley,Undeclared peanut allergen,II,CA;AZ
+R-SYN-0001932,2026-02-28,Chicken Nuggets,DailySource,Potential E. coli contamination,I,NY;WA;TX
+R-SYN-0001933,2026-03-12,Organic Spinach,SunBite,Undeclared peanut allergen,II,CA;WA;TX;UT
+R-SYN-0001934,2025-12-08,Organic Spinach,PeakFuel,Packaging integrity issue,II,CO;UT;NY;AZ
+R-SYN-0001935,2026-03-05,Whole Milk,UrbanHarvest,Undeclared peanut allergen,I,CA;WA
+R-SYN-0001936,2026-03-29,Granola Bars,PeakFuel,Undeclared peanut allergen,III,AZ;TX;WA;CA
+R-SYN-0001937,2026-02-15,Greek Yogurt,TrailJoy,Packaging integrity issue,III,NY;UT
+R-SYN-0001938,2025-12-22,Whole Milk,Green Valley,Potential E. coli contamination,I,UT;WA;CA;OR
+R-SYN-0001939,2025-12-16,Protein Shake,Green Valley,Packaging integrity issue,II,CO;TX
+R-SYN-0001940,2026-01-13,Frozen Dumplings,FarmNest,Listeria monocytogenes risk,I,TX;WA
+R-SYN-0001941,2026-03-11,Frozen Dumplings,DailySource,Listeria monocytogenes risk,II,TX;UT
+R-SYN-0001942,2026-03-17,Frozen Dumplings,PureRoot,Listeria monocytogenes risk,I,TX;CA
+R-SYN-0001943,2026-02-02,Greek Yogurt,UrbanHarvest,Packaging integrity issue,II,WA;CA
+R-SYN-0001944,2026-02-22,Protein Shake,PureRoot,Listeria monocytogenes risk,I,NY;CO;AZ;NV
+R-SYN-0001945,2025-12-18,Granola Bars,SunBite,Undeclared peanut allergen,II,TX;OR
+R-SYN-0001946,2026-03-29,Fresh Salad Mix,FarmNest,Possible metal fragments,III,NY;UT;OR
+R-SYN-0001947,2026-02-23,Fresh Salad Mix,FarmNest,Potential E. coli contamination,III,AZ;UT;CO;WA
+R-SYN-0001948,2025-12-14,Frozen Dumplings,Green Valley,Undeclared peanut allergen,II,NY;CO;NV
+R-SYN-0001949,2026-03-29,Frozen Dumplings,TrailJoy,Listeria monocytogenes risk,I,AZ;UT;OR
+R-SYN-0001950,2026-02-13,Fresh Salad Mix,PeakFuel,Undeclared peanut allergen,I,ALL
+R-SYN-0001951,2025-12-01,Frozen Dumplings,FarmNest,Potential E. coli contamination,I,NV;TX
+R-SYN-0001952,2026-02-13,Greek Yogurt,DailySource,Undeclared peanut allergen,II,CA;CO
+R-SYN-0001953,2025-12-29,Frozen Dumplings,PureRoot,Listeria monocytogenes risk,III,ALL
+R-SYN-0001954,2026-03-02,Greek Yogurt,FarmNest,Possible metal fragments,II,AZ;UT
+R-SYN-0001955,2026-02-26,Greek Yogurt,Green Valley,Undeclared peanut allergen,II,WA;CA
+R-SYN-0001956,2026-03-16,Organic Spinach,UrbanHarvest,Listeria monocytogenes risk,III,CO;AZ;WA;NY
+R-SYN-0001957,2026-01-11,Frozen Dumplings,UrbanHarvest,Listeria monocytogenes risk,II,AZ;OR;WA
+R-SYN-0001958,2025-12-14,Greek Yogurt,TrailJoy,Possible metal fragments,II,ALL
+R-SYN-0001959,2025-12-14,Granola Bars,DailySource,Listeria monocytogenes risk,I,ALL
+R-SYN-0001960,2026-03-24,Frozen Dumplings,SunBite,Potential E. coli contamination,I,NV;WA;CA;CO
+R-SYN-0001961,2026-02-08,Granola Bars,SunBite,Listeria monocytogenes risk,I,CA;TX;NV;AZ
+R-SYN-0001962,2026-01-05,Whole Milk,DailySource,Potential E. coli contamination,I,ALL
+R-SYN-0001963,2025-12-29,Frozen Dumplings,UrbanHarvest,Potential E. coli contamination,II,NV;CO
+R-SYN-0001964,2026-03-18,Protein Shake,Green Valley,Listeria monocytogenes risk,II,OR;AZ
+R-SYN-0001965,2026-01-23,Granola Bars,DailySource,Possible metal fragments,I,WA;CA
+R-SYN-0001966,2026-03-29,Fresh Salad Mix,FarmNest,Possible metal fragments,II,CO;NV;AZ
+R-SYN-0001967,2026-02-05,Granola Bars,DailySource,Potential E. coli contamination,I,WA;UT;OR
+R-SYN-0001968,2026-02-08,Greek Yogurt,DailySource,Possible metal fragments,III,NY;TX;UT
+R-SYN-0001969,2026-01-16,Frozen Dumplings,TrailJoy,Undeclared peanut allergen,II,CA;OR
+R-SYN-0001970,2026-02-08,Fresh Salad Mix,PureRoot,Potential E. coli contamination,I,CA;TX;NV;UT
+R-SYN-0001971,2026-03-25,Chicken Nuggets,DailySource,Listeria monocytogenes risk,I,OR;WA
+R-SYN-0001972,2026-01-21,Frozen Dumplings,PeakFuel,Packaging integrity issue,I,TX;AZ;NV;UT
+R-SYN-0001973,2026-03-26,Granola Bars,Green Valley,Packaging integrity issue,I,NV;CO;AZ
+R-SYN-0001974,2026-03-03,Frozen Dumplings,TrailJoy,Listeria monocytogenes risk,II,NV;OR;CA
+R-SYN-0001975,2026-02-07,Fresh Salad Mix,SunBite,Undeclared peanut allergen,I,CO;UT
+R-SYN-0001976,2026-01-17,Granola Bars,TrailJoy,Undeclared peanut allergen,III,NY;WA;AZ
+R-SYN-0001977,2026-01-02,Granola Bars,SunBite,Packaging integrity issue,II,ALL
+R-SYN-0001978,2025-12-30,Granola Bars,FarmNest,Listeria monocytogenes risk,III,CA;WA
+R-SYN-0001979,2026-01-31,Organic Spinach,DailySource,Packaging integrity issue,III,ALL
+R-SYN-0001980,2026-02-07,Organic Spinach,FarmNest,Potential E. coli contamination,II,TX;UT;CO
+R-SYN-0001981,2026-02-12,Chicken Nuggets,FarmNest,Potential E. coli contamination,I,UT;OR
+R-SYN-0001982,2025-12-03,Organic Spinach,SunBite,Packaging integrity issue,III,UT;NY;TX
+R-SYN-0001983,2025-12-24,Frozen Dumplings,DailySource,Possible metal fragments,II,CO;AZ
+R-SYN-0001984,2026-02-03,Organic Spinach,FarmNest,Potential E. coli contamination,III,NV;CO
+R-SYN-0001985,2026-02-19,Chicken Nuggets,SunBite,Undeclared peanut allergen,III,OR;NV
+R-SYN-0001986,2026-03-20,Frozen Dumplings,FarmNest,Packaging integrity issue,III,OR;NY;UT;AZ
+R-SYN-0001987,2026-02-05,Greek Yogurt,DailySource,Listeria monocytogenes risk,II,CA;OR;UT
+R-SYN-0001988,2026-01-15,Whole Milk,TrailJoy,Potential E. coli contamination,I,NV;TX;NY;WA
+R-SYN-0001989,2026-03-26,Chicken Nuggets,TrailJoy,Undeclared peanut allergen,II,UT;WA;NY;AZ
+R-SYN-0001990,2026-02-11,Whole Milk,SunBite,Listeria monocytogenes risk,II,NV;NY;CO;AZ
+R-SYN-0001991,2026-03-26,Fresh Salad Mix,PeakFuel,Packaging integrity issue,II,OR;NV;CA;NY
+R-SYN-0001992,2026-02-02,Granola Bars,FarmNest,Potential E. coli contamination,II,TX;NV;UT
+R-SYN-0001993,2026-03-11,Whole Milk,TrailJoy,Listeria monocytogenes risk,I,UT;WA
+R-SYN-0001994,2026-02-25,Fresh Salad Mix,TrailJoy,Packaging integrity issue,I,NV;CO;TX
+R-SYN-0001995,2025-12-25,Chicken Nuggets,SunBite,Listeria monocytogenes risk,I,OR;TX
+R-SYN-0001996,2026-03-04,Frozen Dumplings,TrailJoy,Possible metal fragments,II,NY;WA;AZ;CO
+R-SYN-0001997,2026-03-18,Protein Shake,TrailJoy,Listeria monocytogenes risk,II,NY;WA;CA
+R-SYN-0001998,2025-12-04,Granola Bars,UrbanHarvest,Packaging integrity issue,II,CA;NY;CO;NV
+R-SYN-0001999,2025-12-25,Granola Bars,DailySource,Undeclared peanut allergen,I,AZ;CA;NV
